@@ -1,0 +1,1194 @@
+[
+  {
+    "reference_id": 1,
+    "reference_text": "een aangehouden motie",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\".",
+    "reference_information": {
+      "keywords": [
+        "stemming",
+        "aangehouden",
+        "motie"
+      ],
+      "summary": "Stemming over een eerder ingediende motie."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to a specific, existing motion that is being voted on.",
+    "is_valid": true,
+    "query": "een aangehouden motie Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\". stemming aangehouden motie Stemming over een eerder ingediende motie.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-9",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie; Motie van het lid Van den Berg over onderzoek naar biomarkers",
+        "date": "2018-12-10",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-9.html",
+        "similarity_score": 1.7285726
+      },
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.7064704
+      },
+      {
+        "id": "kst-32793-121",
+        "title": "Preventief gezondheidsbeleid; Motie; Motie van het lid Pia Dijksta over voortgezette financiering van het project De Gezonde Schoolkantine",
+        "date": "2014-01-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32793-121.html",
+        "similarity_score": 1.649959
+      },
+      {
+        "id": "kst-33895-9",
+        "title": "Initiatiefnota van het lid Voortman: “Zekerheid over zorg, het recht van burgers op informatie over hun zorg”; Motie; Motie van het lid Van Gerven over een provisieverbod voor vergelijkingssites van zorgverzekeringen",
+        "date": "2015-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33895-9.html",
+        "similarity_score": 1.6485128
+      },
+      {
+        "id": "kst-31899-6",
+        "title": "Nota Overgewicht; Motie over project 'De gezonde wijk'",
+        "date": "2009-09-07",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31899-6.html",
+        "similarity_score": 1.6446128
+      },
+      {
+        "id": "kst-28973-62",
+        "title": "Toekomst van de intensieve veehouderij; Motie; Motie-Van Gerven over megastallen gerund door zetbazen van grote concerns",
+        "date": "2011-06-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28973-62.html",
+        "similarity_score": 1.6430835
+      },
+      {
+        "id": "kst-29435-254",
+        "title": "Nota Ruimte; Motie; Motie Dibi over eisen stellen aan de bouw van megastallen via de AMvB Ruimte",
+        "date": "2010-04-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29435-254.html",
+        "similarity_score": 1.641741
+      },
+      {
+        "id": "kst-26407-75",
+        "title": "Biodiversiteit; Motie; Motie van het lid Graus over het zenderen van zeezoogdieren",
+        "date": "2012-11-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-26407-75.html",
+        "similarity_score": 1.6409575
+      },
+      {
+        "id": "kst-26991-502",
+        "title": "Voedselveiligheid; Motie; Motie van het lid Graus over verplicht stellen van de meldcode voor dierenartsen",
+        "date": "2017-09-07",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-26991-502.html",
+        "similarity_score": 1.6409197
+      },
+      {
+        "id": "kst-30169-58",
+        "title": "Mantelzorg; Motie; Motie van het lid Agema over niet stoppen met de financiering van verzorgingshuisplekken",
+        "date": "2017-06-07",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-30169-58.html",
+        "similarity_score": 1.6404287
+      }
+    ]
+  },
+  {
+    "reference_id": 2,
+    "reference_text": "de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\"",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Initiatiefnota",
+    "sentence": "Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\".",
+    "reference_information": {
+      "keywords": [
+        "initiatiefnota",
+        "Ploumen",
+        "Van Gerven",
+        "Ellemeet",
+        "Big Farma",
+        "gezondheidszorg"
+      ],
+      "summary": "Initiatiefnota over de farmaceutische industrie en gezondheid."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Valid reference - clear implicit reference to a specific initiatiefnota, identified by authors and title.",
+    "is_valid": true,
+    "query": "de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\" Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\". initiatiefnota Ploumen Van Gerven Ellemeet Big Farma gezondheidszorg Initiatiefnota over de farmaceutische industrie en gezondheid.",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 3,
+    "reference_text": "de motie-Van den Berg over onderzoek naar biomarkers",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Motie",
+    "sentence": "te weten: * -de motie-Van den Berg over onderzoek naar biomarkers (34834, nr. 9).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "Van den Berg",
+        "onderzoek",
+        "biomarkers"
+      ],
+      "summary": "Motie van Van den Berg betreffende onderzoek naar biomarkers."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Valid reference - clear implicit reference to a specific motie, identified by author and subject.",
+    "is_valid": true,
+    "query": "de motie-Van den Berg over onderzoek naar biomarkers te weten: * -de motie-Van den Berg over onderzoek naar biomarkers (34834, nr. 9). motie Van den Berg onderzoek biomarkers Motie van Van den Berg betreffende onderzoek naar biomarkers.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-9",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie; Motie van het lid Van den Berg over onderzoek naar biomarkers",
+        "date": "2018-12-10",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-9.html",
+        "similarity_score": 1.712437
+      },
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.6629654
+      },
+      {
+        "id": "kst-27428-275",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Van Gerven over een labelingsplicht voor cisgenese",
+        "date": "2014-05-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-275.html",
+        "similarity_score": 1.6331583
+      },
+      {
+        "id": "kst-27428-338",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Ouwehand over het herkenbaar zijn van eindproducten van veredelingstechnieken waarbij op DNA-niveau is ingegrepen",
+        "date": "2017-02-21",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-338.html",
+        "similarity_score": 1.6051573
+      },
+      {
+        "id": "kst-32813-97",
+        "title": "Kabinetsaanpak Klimaatbeleid op weg naar 2020; Motie; Motie van de leden Van Veldhoven en Van Tongeren over beperken van het bijmengpercentage van conventionele biobrandstoffen",
+        "date": "2014-12-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32813-97.html",
+        "similarity_score": 1.5915133
+      },
+      {
+        "id": "kst-27428-294",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Thieme over aanwijzing van groepen van genetisch gemodificeerde organismen",
+        "date": "2014-12-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-294.html",
+        "similarity_score": 1.5907983
+      },
+      {
+        "id": "kst-32813-802",
+        "title": "Kabinetsaanpak Klimaatbeleid; Motie; Motie van de leden Thijssen en Van der Lee over de milieuorganisaties uit Estland betrekken bij het onderzoek naar de productie van biomassa",
+        "date": "2021-07-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32813-802.html",
+        "similarity_score": 1.587699
+      },
+      {
+        "id": "kst-27428-256",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie Ouwehand over een etiketteringsplicht voor cisgenese-ingrediënten",
+        "date": "2013-07-03",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-256.html",
+        "similarity_score": 1.5861528
+      },
+      {
+        "id": "kst-31288-356",
+        "title": "Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid; Motie; Motie van het lid Jasper Van Dijk over een landelijk register van nevenfuncties van hoogleraren",
+        "date": "2013-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31288-356.html",
+        "similarity_score": 1.5837263
+      },
+      {
+        "id": "kst-32156-136",
+        "title": "Monumentenzorg; Motie; Motie van het lid Beckerman c.s. over komen met een reddingsplan voor de maritieme archeologie",
+        "date": "2024-12-03",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32156-136.html",
+        "similarity_score": 1.5819509
+      }
+    ]
+  },
+  {
+    "reference_id": 4,
+    "reference_text": "34834, nr. 9",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "te weten: * -de motie-Van den Berg over onderzoek naar biomarkers (34834, nr. 9).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "biomarkers",
+        "onderzoek"
+      ],
+      "summary": "Expliciete verwijzing naar motie 34834, nummer 9."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Valid reference - clear explicit numerical reference to a specific motie.",
+    "is_valid": true,
+    "found_direct": "34834-9",
+    "query": ", nr.  te weten: * -de motie-Van den Berg over onderzoek naar biomarkers (, nr. ). motie biomarkers onderzoek Expliciete verwijzing naar motie , nummer .",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-9",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie; Motie van het lid Van den Berg over onderzoek naar biomarkers",
+        "date": "2018-12-10",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-9.html",
+        "similarity_score": 1.7466198
+      },
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.733312
+      },
+      {
+        "id": "kst-27428-275",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Van Gerven over een labelingsplicht voor cisgenese",
+        "date": "2014-05-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-275.html",
+        "similarity_score": 1.6955165
+      },
+      {
+        "id": "kst-27428-338",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Ouwehand over het herkenbaar zijn van eindproducten van veredelingstechnieken waarbij op DNA-niveau is ingegrepen",
+        "date": "2017-02-21",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-338.html",
+        "similarity_score": 1.6865612
+      },
+      {
+        "id": "kst-27428-199",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie-Ormel over een Europese onderbouwingsprocedure",
+        "date": "2011-06-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-199.html",
+        "similarity_score": 1.670364
+      },
+      {
+        "id": "kst-27428-294",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Thieme over aanwijzing van groepen van genetisch gemodificeerde organismen",
+        "date": "2014-12-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-294.html",
+        "similarity_score": 1.6593559
+      },
+      {
+        "id": "kst-27428-256",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie Ouwehand over een etiketteringsplicht voor cisgenese-ingrediënten",
+        "date": "2013-07-03",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-256.html",
+        "similarity_score": 1.6509159
+      },
+      {
+        "id": "kst-26407-88",
+        "title": "Biodiversiteit; Motie; Motie van de leden Thieme en Ouwehand over uitdragen van de nadelen van de TEEB-methode",
+        "date": "2013-12-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-26407-88.html",
+        "similarity_score": 1.6482573
+      },
+      {
+        "id": "kst-34326-5",
+        "title": "Initiatiefnota van het lid Jasper van Dijk: Op naar de nieuwe universiteit: voorstellen voor hoogwaardig en democratisch onderwijs en onderzoek; Motie; Motie van het lid Siderius over een experiment met een democratische universiteit",
+        "date": "2015-12-02",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34326-5.html",
+        "similarity_score": 1.6481578
+      },
+      {
+        "id": "kst-29435-254",
+        "title": "Nota Ruimte; Motie; Motie Dibi over eisen stellen aan de bouw van megastallen via de AMvB Ruimte",
+        "date": "2010-04-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29435-254.html",
+        "similarity_score": 1.6404032
+      }
+    ]
+  },
+  {
+    "reference_id": 5,
+    "reference_text": "notaoverleg van 10 december 2018",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Verslag",
+    "sentence": "(Zie notaoverleg van 10 december 2018.)",
+    "reference_information": {
+      "keywords": [
+        "notaoverleg",
+        "vergadering",
+        "december 2018"
+      ],
+      "summary": "Verwijzing naar het notaoverleg van 10 december 2018."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to a specific past notaoverleg, implying its official record/verslag.",
+    "is_valid": true,
+    "query": "notaoverleg van 10 december 2018 (Zie notaoverleg van 10 december 2018.) notaoverleg vergadering december 2018 Verwijzing naar het notaoverleg van 10 december 2018.",
+    "ranked_candidates": [
+      {
+        "id": "kst-35020-2",
+        "title": "Protocol tot wijziging van het Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen; ’s-Gravenhage, 12 maart 2018; Verslag van een schriftelijk overleg; Verslag van een schriftelijk overleg over het Protocol tot wijziging van het Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen; ’s-Gravenhage, 12 maart 2018",
+        "date": "2018-11-28",
+        "type": "Verslag",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-35020-2.html",
+        "similarity_score": 1.4627627
+      },
+      {
+        "id": "kst-35103-1",
+        "title": "Verslag van een werkbezoek aan Berlijn door een delegatie van de commissie Defensie; Verslag van een werkbezoek; Verslag van een werkbezoek aan Berlijn door een delegatie van de commissie Defensie op 8 oktober 2018",
+        "date": "2018-11-30",
+        "type": "Verslag",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-35103-1.html",
+        "similarity_score": 1.4211992
+      },
+      {
+        "id": "kst-25763-30",
+        "title": "Evaluatie Wet Bopz; Verslag van een schriftelijk overleg; Verslag van een schriftelijk overleg over het ontwerpbesluit houdende wijziging van het Besluit rechtspositieregelen Bopz in verband met de verruiming van de huisregels van psychiatrische ziekenhuizen",
+        "date": "2018-11-05",
+        "type": "Verslag",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-25763-30.html",
+        "similarity_score": 1.4188936
+      },
+      {
+        "id": "kst-31016-150",
+        "title": "Ziekenhuiszorg; Verslag van een schriftelijk overleg; Verslag van een schriftelijk overleg inzake het faillissement van ziekenhuizen",
+        "date": "2018-11-21",
+        "type": "Verslag",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31016-150.html",
+        "similarity_score": 1.4046475
+      }
+    ]
+  },
+  {
+    "reference_id": 6,
+    "reference_text": "De motie-Van den Berg",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Motie",
+    "sentence": "De motie-Van den Berg (34834, nr. 9) is in die zin gewijzigd dat zij thans luidt:",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "Van den Berg",
+        "gewijzigd"
+      ],
+      "summary": "De gewijzigde motie van Van den Berg."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Valid reference - clear implicit reference to a specific motie, further specified by its number.",
+    "is_valid": true,
+    "query": "De motie-Van den Berg De motie-Van den Berg (34834, nr. 9) is in die zin gewijzigd dat zij thans luidt: motie Van den Berg gewijzigd De gewijzigde motie van Van den Berg.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34723-16",
+        "title": "Wijziging van de Warmtewet (wijzigingen naar aanleiding van de evaluatie van de Warmtewet) ; Motie; Motie van de leden Wassenberg en Beckerman over voorrang voor duurzame warmte",
+        "date": "2018-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34723-16.html",
+        "similarity_score": 1.639292
+      },
+      {
+        "id": "kst-34700-16",
+        "title": "Kabinetsformatie 2017; Motie; Motie van het lid Baudet over tot beleid vertalen van wisselende onderwerpen",
+        "date": "2017-05-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34700-16.html",
+        "similarity_score": 1.6383337
+      },
+      {
+        "id": "kst-33852-35",
+        "title": "Wijziging van de Rijkswet op het Nederlanderschap ter verlenging van de termijnen voor verlening van het Nederlanderschap en enige andere wijzigingen; Motie; Motie van het lid Kuzu over intrekking van het wetsvoorstel",
+        "date": "2016-06-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33852-35.html",
+        "similarity_score": 1.6181003
+      },
+      {
+        "id": "kst-32417-34",
+        "title": "Kabinetsformatie 2010; Motie; Motie Wilders over bewerkstelligen dat de Koning geen deel meer uitmaakt van de regering",
+        "date": "2010-10-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32417-34.html",
+        "similarity_score": 1.6141953
+      },
+      {
+        "id": "kst-32615-14",
+        "title": "Toekomst Publiekrechtelijke bedrijfsorganisatie (PBO); Motie; Motie Verhoeven c.s. over niet opleggen van een verplichte heffing in 2014",
+        "date": "2013-07-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32615-14.html",
+        "similarity_score": 1.6038254
+      },
+      {
+        "id": "kst-33952-29",
+        "title": "Schaliegas; Gewijzigde motie (nader); Nader gewijzigde motie van het lid Smaling (t.v.v. 33952, nr. 28) over geen proefboringen naar schaliegas",
+        "date": "2014-12-16",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33952-29.html",
+        "similarity_score": 1.600295
+      },
+      {
+        "id": "kst-31968-11",
+        "title": "Aanpassing van een aantal wetten aan de Wet veiligheidsregio’s en enkele wijzigingen in de Wet veiligheidsregio’s (Aanpassingswet veiligheidsregio’s); Motie; Motie-Van Raak over niet afwijken van de opkomstnormen van de brandweer",
+        "date": "2010-01-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31968-11.html",
+        "similarity_score": 1.5997157
+      },
+      {
+        "id": "kst-33436-25",
+        "title": "Wijziging van de Leegstandwet in verband met de verruiming van de mogelijkheden voor tijdelijke verhuur bij leegstand van gebouwen en woningen; Motie; Motie Paulus Jansen over een periodieke rapportage",
+        "date": "2013-03-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33436-25.html",
+        "similarity_score": 1.59942
+      },
+      {
+        "id": "kst-34313-10",
+        "title": "Initiatiefnota van de leden Van Gerven, Grashoff en Koser Kaya over wei voor de koe; Motie; Motie van het lid Ouwehand over het wettelijk borgen van weidegang voor koeien",
+        "date": "2017-02-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34313-10.html",
+        "similarity_score": 1.5978488
+      },
+      {
+        "id": "kst-29279-844",
+        "title": "Rechtsstaat en Rechtsorde; Motie; Motie van het lid Eerdmans over slachtoffers en nabestaanden actief de mogelijkheid bieden om hun reflectie te geven op het vonnis",
+        "date": "2024-03-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29279-844.html",
+        "similarity_score": 1.5978014
+      }
+    ]
+  },
+  {
+    "reference_id": 7,
+    "reference_text": "34834, nr. 9",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "De motie-Van den Berg (34834, nr. 9) is in die zin gewijzigd dat zij thans luidt:",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "gewijzigd",
+        "biomarkers"
+      ],
+      "summary": "Expliciete verwijzing naar motie 34834, nummer 9, die gewijzigd is."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Valid reference - clear explicit numerical reference to a specific motie.",
+    "is_valid": true,
+    "found_direct": "34834-9",
+    "query": ", nr.  De motie-Van den Berg (, nr. ) is in die zin gewijzigd dat zij thans luidt: motie gewijzigd biomarkers Expliciete verwijzing naar motie , nummer , die gewijzigd is.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.6609218
+      },
+      {
+        "id": "kst-34834-9",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie; Motie van het lid Van den Berg over onderzoek naar biomarkers",
+        "date": "2018-12-10",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-9.html",
+        "similarity_score": 1.6533779
+      },
+      {
+        "id": "kst-27428-275",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Van Gerven over een labelingsplicht voor cisgenese",
+        "date": "2014-05-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-275.html",
+        "similarity_score": 1.6411072
+      },
+      {
+        "id": "kst-27428-338",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Ouwehand over het herkenbaar zijn van eindproducten van veredelingstechnieken waarbij op DNA-niveau is ingegrepen",
+        "date": "2017-02-21",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-338.html",
+        "similarity_score": 1.6225094
+      },
+      {
+        "id": "kst-27428-294",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Thieme over aanwijzing van groepen van genetisch gemodificeerde organismen",
+        "date": "2014-12-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-294.html",
+        "similarity_score": 1.6157347
+      },
+      {
+        "id": "kst-27428-256",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie Ouwehand over een etiketteringsplicht voor cisgenese-ingrediënten",
+        "date": "2013-07-03",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-256.html",
+        "similarity_score": 1.6029584
+      },
+      {
+        "id": "kst-27428-199",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie-Ormel over een Europese onderbouwingsprocedure",
+        "date": "2011-06-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-199.html",
+        "similarity_score": 1.5998608
+      },
+      {
+        "id": "kst-26407-75",
+        "title": "Biodiversiteit; Motie; Motie van het lid Graus over het zenderen van zeezoogdieren",
+        "date": "2012-11-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-26407-75.html",
+        "similarity_score": 1.5941126
+      },
+      {
+        "id": "kst-33576-110",
+        "title": "Natuurbeleid; Motie; Motie van het lid Ouwehand over inzetten op omschakelsubsidies voor boeren",
+        "date": "2017-06-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33576-110.html",
+        "similarity_score": 1.5937171
+      },
+      {
+        "id": "kst-29435-254",
+        "title": "Nota Ruimte; Motie; Motie Dibi over eisen stellen aan de bouw van megastallen via de AMvB Ruimte",
+        "date": "2010-04-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29435-254.html",
+        "similarity_score": 1.5880033
+      }
+    ]
+  },
+  {
+    "reference_id": 8,
+    "reference_text": "nr. 17",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Zij krijgt nr. 17, was nr. 9 (34834).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "nummer",
+        "nieuw"
+      ],
+      "summary": "Nieuw nummer van de motie."
+    },
+    "confidence_score": 80,
+    "validation_notes": "Valid reference - refers to the new, assigned number of an existing motie.",
+    "is_valid": true,
+    "query": "nr. 17 Zij krijgt nr. 17, was nr. 9 (34834). motie nummer nieuw Nieuw nummer van de motie.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34700-16",
+        "title": "Kabinetsformatie 2017; Motie; Motie van het lid Baudet over tot beleid vertalen van wisselende onderwerpen",
+        "date": "2017-05-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34700-16.html",
+        "similarity_score": 1.7055625
+      },
+      {
+        "id": "kst-32123-9",
+        "title": "Nota over de toestand van 's Rijks Financiën; Motie waarin het vertrouwen in het kabinet wordt opgezegd",
+        "date": "2009-09-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-9.html",
+        "similarity_score": 1.6944779
+      },
+      {
+        "id": "kst-33763-17",
+        "title": "Toekomst van de krijgsmacht; Motie; Motie van het lid Knops over een vierde Patriotbatterij",
+        "date": "2013-11-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33763-17.html",
+        "similarity_score": 1.6852214
+      },
+      {
+        "id": "kst-36410-17",
+        "title": "Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Marijnissen over de bezuiniging van 233 miljoen op de ouderenzorg niet doorvoeren",
+        "date": "2023-09-21",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-36410-17.html",
+        "similarity_score": 1.6844674
+      },
+      {
+        "id": "kst-31409-172",
+        "title": "Zee- en binnenvaart; Gewijzigde motie (nader); Gewijzigde motie van het lid Van Helvert over een plan voor de missiefinanciering van het MARIN (t.v.v. 31409-162)",
+        "date": "2017-06-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31409-172.html",
+        "similarity_score": 1.6761857
+      },
+      {
+        "id": "kst-33917-17",
+        "title": "Regels voor bedrijveninvesteringszones (Wet op de bedrijveninvesteringszones); Motie; Motie van het lid Graus over ondernemerschap stimuleren middels lastenverlaging",
+        "date": "2014-07-02",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33917-17.html",
+        "similarity_score": 1.6701643
+      },
+      {
+        "id": "kst-34300-21",
+        "title": "Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Slob c.s. over fiscale vergroeningsmaatregelen als onderdeel van het lastenpakket",
+        "date": "2015-09-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34300-21.html",
+        "similarity_score": 1.6683905
+      },
+      {
+        "id": "kst-34700-12",
+        "title": "Kabinetsformatie 2017; Motie; Motie van het lid Baudet over het formeren van een kenniskabinet",
+        "date": "2017-05-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34700-12.html",
+        "similarity_score": 1.6674317
+      },
+      {
+        "id": "kst-34313-10",
+        "title": "Initiatiefnota van de leden Van Gerven, Grashoff en Koser Kaya over wei voor de koe; Motie; Motie van het lid Ouwehand over het wettelijk borgen van weidegang voor koeien",
+        "date": "2017-02-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34313-10.html",
+        "similarity_score": 1.6591281
+      },
+      {
+        "id": "kst-31839-438",
+        "title": "Jeugdzorg; Motie; Motie van het lid Agema over het persoonsgebonden budget wettelijk verankeren in de Zorgverzekeringswet",
+        "date": "2014-12-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31839-438.html",
+        "similarity_score": 1.6525484
+      }
+    ]
+  },
+  {
+    "reference_id": 9,
+    "reference_text": "nr. 9",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Zij krijgt nr. 17, was nr. 9 (34834).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "nummer",
+        "oud"
+      ],
+      "summary": "Oud nummer van de motie."
+    },
+    "confidence_score": 80,
+    "validation_notes": "Valid reference - refers to the old, previous number of an existing motie.",
+    "is_valid": true,
+    "query": "nr. 9 Zij krijgt nr. 17, was nr. 9 (34834). motie nummer oud Oud nummer van de motie.",
+    "ranked_candidates": [
+      {
+        "id": "kst-32123-9",
+        "title": "Nota over de toestand van 's Rijks Financiën; Motie waarin het vertrouwen in het kabinet wordt opgezegd",
+        "date": "2009-09-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-9.html",
+        "similarity_score": 1.6772754
+      },
+      {
+        "id": "kst-36410-17",
+        "title": "Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Marijnissen over de bezuiniging van 233 miljoen op de ouderenzorg niet doorvoeren",
+        "date": "2023-09-21",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-36410-17.html",
+        "similarity_score": 1.6511573
+      },
+      {
+        "id": "kst-31409-172",
+        "title": "Zee- en binnenvaart; Gewijzigde motie (nader); Gewijzigde motie van het lid Van Helvert over een plan voor de missiefinanciering van het MARIN (t.v.v. 31409-162)",
+        "date": "2017-06-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31409-172.html",
+        "similarity_score": 1.6446738
+      },
+      {
+        "id": "kst-33763-17",
+        "title": "Toekomst van de krijgsmacht; Motie; Motie van het lid Knops over een vierde Patriotbatterij",
+        "date": "2013-11-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33763-17.html",
+        "similarity_score": 1.6413096
+      },
+      {
+        "id": "kst-34700-16",
+        "title": "Kabinetsformatie 2017; Motie; Motie van het lid Baudet over tot beleid vertalen van wisselende onderwerpen",
+        "date": "2017-05-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34700-16.html",
+        "similarity_score": 1.6402681
+      },
+      {
+        "id": "kst-34300-21",
+        "title": "Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Slob c.s. over fiscale vergroeningsmaatregelen als onderdeel van het lastenpakket",
+        "date": "2015-09-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34300-21.html",
+        "similarity_score": 1.6382027
+      },
+      {
+        "id": "kst-34313-10",
+        "title": "Initiatiefnota van de leden Van Gerven, Grashoff en Koser Kaya over wei voor de koe; Motie; Motie van het lid Ouwehand over het wettelijk borgen van weidegang voor koeien",
+        "date": "2017-02-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34313-10.html",
+        "similarity_score": 1.6369568
+      },
+      {
+        "id": "kst-21501-20-892",
+        "title": "Europese Raad; Motie; Motie van het lid Beertema over tot inzet maken van terughalen van bevoegdheden in plaats van overdragen van bevoegdheden",
+        "date": "2014-06-25",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-892.html",
+        "similarity_score": 1.6344169
+      },
+      {
+        "id": "kst-33917-17",
+        "title": "Regels voor bedrijveninvesteringszones (Wet op de bedrijveninvesteringszones); Motie; Motie van het lid Graus over ondernemerschap stimuleren middels lastenverlaging",
+        "date": "2014-07-02",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33917-17.html",
+        "similarity_score": 1.6251498
+      },
+      {
+        "id": "kst-27858-175",
+        "title": "Gewasbeschermingsbeleid; Motie; Motie van het lid Ouwehand over een heffing op chemische bestrijdingsmiddelen",
+        "date": "2013-07-01",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27858-175.html",
+        "similarity_score": 1.6219927
+      }
+    ]
+  },
+  {
+    "reference_id": 10,
+    "reference_text": "34834",
+    "reference_type": "explicit-dossier",
+    "document_type": "Motie",
+    "sentence": "Zij krijgt nr. 17, was nr. 9 (34834).",
+    "reference_information": {
+      "keywords": [
+        "dossier",
+        "motie",
+        "biomarkers"
+      ],
+      "summary": "Dossiernummer van de motie."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Valid reference - clear explicit dossier number reference for the motie.",
+    "is_valid": true,
+    "found_direct": "34834",
+    "query": "Zij krijgt nr. 17, was nr. 9 (). dossier motie biomarkers Dossiernummer van de motie.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.7324094
+      },
+      {
+        "id": "kst-34834-9",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie; Motie van het lid Van den Berg over onderzoek naar biomarkers",
+        "date": "2018-12-10",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-9.html",
+        "similarity_score": 1.707792
+      },
+      {
+        "id": "kst-27428-338",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Ouwehand over het herkenbaar zijn van eindproducten van veredelingstechnieken waarbij op DNA-niveau is ingegrepen",
+        "date": "2017-02-21",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-338.html",
+        "similarity_score": 1.7075415
+      },
+      {
+        "id": "kst-27428-275",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Van Gerven over een labelingsplicht voor cisgenese",
+        "date": "2014-05-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-275.html",
+        "similarity_score": 1.7056748
+      },
+      {
+        "id": "kst-27428-294",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Thieme over aanwijzing van groepen van genetisch gemodificeerde organismen",
+        "date": "2014-12-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-294.html",
+        "similarity_score": 1.6653618
+      },
+      {
+        "id": "kst-32123-9",
+        "title": "Nota over de toestand van 's Rijks Financiën; Motie waarin het vertrouwen in het kabinet wordt opgezegd",
+        "date": "2009-09-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-9.html",
+        "similarity_score": 1.6563537
+      },
+      {
+        "id": "kst-27428-199",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie-Ormel over een Europese onderbouwingsprocedure",
+        "date": "2011-06-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-199.html",
+        "similarity_score": 1.6548012
+      },
+      {
+        "id": "kst-29683-177",
+        "title": "Dierziektebeleid; Motie; Motie van het lid Thieme over een nationale etiketteringsplicht voor vlees",
+        "date": "2014-03-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29683-177.html",
+        "similarity_score": 1.652413
+      },
+      {
+        "id": "kst-26407-75",
+        "title": "Biodiversiteit; Motie; Motie van het lid Graus over het zenderen van zeezoogdieren",
+        "date": "2012-11-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-26407-75.html",
+        "similarity_score": 1.6484379
+      },
+      {
+        "id": "kst-27428-256",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie Ouwehand over een etiketteringsplicht voor cisgenese-ingrediënten",
+        "date": "2013-07-03",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-256.html",
+        "similarity_score": 1.6480843
+      }
+    ]
+  },
+  {
+    "reference_id": 11,
+    "reference_text": "de gewijzigde motie-Van den Berg",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Motie",
+    "sentence": "In stemming komt de gewijzigde motie-Van den Berg (34834, nr. 17, was nr. 9).",
+    "reference_information": {
+      "keywords": [
+        "stemming",
+        "gewijzigde motie",
+        "Van den Berg"
+      ],
+      "summary": "Stemming over de gewijzigde motie van Van den Berg."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Valid reference - clear implicit reference to the specific, now modified, motie.",
+    "is_valid": true,
+    "query": "de gewijzigde motie-Van den Berg In stemming komt de gewijzigde motie-Van den Berg (34834, nr. 17, was nr. 9). stemming gewijzigde motie Van den Berg Stemming over de gewijzigde motie van Van den Berg.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34723-16",
+        "title": "Wijziging van de Warmtewet (wijzigingen naar aanleiding van de evaluatie van de Warmtewet) ; Motie; Motie van de leden Wassenberg en Beckerman over voorrang voor duurzame warmte",
+        "date": "2018-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34723-16.html",
+        "similarity_score": 1.6642381
+      },
+      {
+        "id": "kst-34700-16",
+        "title": "Kabinetsformatie 2017; Motie; Motie van het lid Baudet over tot beleid vertalen van wisselende onderwerpen",
+        "date": "2017-05-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34700-16.html",
+        "similarity_score": 1.634716
+      },
+      {
+        "id": "kst-34270-12",
+        "title": "Uitvoering Wet raadgevend referendum; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in de minister-president",
+        "date": "2016-04-13",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34270-12.html",
+        "similarity_score": 1.6241612
+      },
+      {
+        "id": "kst-32417-34",
+        "title": "Kabinetsformatie 2010; Motie; Motie Wilders over bewerkstelligen dat de Koning geen deel meer uitmaakt van de regering",
+        "date": "2010-10-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32417-34.html",
+        "similarity_score": 1.6190528
+      },
+      {
+        "id": "kst-33852-35",
+        "title": "Wijziging van de Rijkswet op het Nederlanderschap ter verlenging van de termijnen voor verlening van het Nederlanderschap en enige andere wijzigingen; Motie; Motie van het lid Kuzu over intrekking van het wetsvoorstel",
+        "date": "2016-06-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33852-35.html",
+        "similarity_score": 1.6084706
+      },
+      {
+        "id": "kst-35927-54",
+        "title": "Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2022); Motie; Motie van de leden Edgar Mulder en Kops over het afschaffen van de ODE en de SDE++",
+        "date": "2021-11-10",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-35927-54.html",
+        "similarity_score": 1.6054633
+      },
+      {
+        "id": "kst-31968-11",
+        "title": "Aanpassing van een aantal wetten aan de Wet veiligheidsregio’s en enkele wijzigingen in de Wet veiligheidsregio’s (Aanpassingswet veiligheidsregio’s); Motie; Motie-Van Raak over niet afwijken van de opkomstnormen van de brandweer",
+        "date": "2010-01-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31968-11.html",
+        "similarity_score": 1.6040837
+      },
+      {
+        "id": "kst-34352-51",
+        "title": "Uitvoering en evaluatie Participatiewet; Motie; Motie van het lid Karabulut over 50-plussers in de Wajong categoriaal uitzonderen van de korting op de uitkering",
+        "date": "2017-02-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34352-51.html",
+        "similarity_score": 1.6016269
+      },
+      {
+        "id": "kst-21501-20-892",
+        "title": "Europese Raad; Motie; Motie van het lid Beertema over tot inzet maken van terughalen van bevoegdheden in plaats van overdragen van bevoegdheden",
+        "date": "2014-06-25",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-892.html",
+        "similarity_score": 1.5975196
+      },
+      {
+        "id": "kst-27428-275",
+        "title": "Beleidsnota Biotechnologie; Motie; Motie van het lid Van Gerven over een labelingsplicht voor cisgenese",
+        "date": "2014-05-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27428-275.html",
+        "similarity_score": 1.5968629
+      }
+    ]
+  },
+  {
+    "reference_id": 12,
+    "reference_text": "34834, nr. 17",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "In stemming komt de gewijzigde motie-Van den Berg (34834, nr. 17, was nr. 9).",
+    "reference_information": {
+      "keywords": [
+        "stemming",
+        "motie",
+        "gewijzigd"
+      ],
+      "summary": "Expliciete verwijzing naar de gewijzigde motie 34834, nummer 17."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Valid reference - clear explicit numerical reference to the specific, re-numbered motie.",
+    "is_valid": true,
+    "found_direct": "34834-17",
+    "query": ", nr.  In stemming komt de gewijzigde motie-Van den Berg (, nr. , was nr. 9). stemming motie gewijzigd Expliciete verwijzing naar de gewijzigde motie , nummer .",
+    "ranked_candidates": [
+      {
+        "id": "kst-34723-16",
+        "title": "Wijziging van de Warmtewet (wijzigingen naar aanleiding van de evaluatie van de Warmtewet) ; Motie; Motie van de leden Wassenberg en Beckerman over voorrang voor duurzame warmte",
+        "date": "2018-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34723-16.html",
+        "similarity_score": 1.6525798
+      },
+      {
+        "id": "kst-29817-109",
+        "title": "Sociale werkvoorziening; Motie; Motie van het lid Van Weyenberg over versterking van de positie van cliëntenraden",
+        "date": "2013-02-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29817-109.html",
+        "similarity_score": 1.646123
+      },
+      {
+        "id": "kst-31968-11",
+        "title": "Aanpassing van een aantal wetten aan de Wet veiligheidsregio’s en enkele wijzigingen in de Wet veiligheidsregio’s (Aanpassingswet veiligheidsregio’s); Motie; Motie-Van Raak over niet afwijken van de opkomstnormen van de brandweer",
+        "date": "2010-01-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31968-11.html",
+        "similarity_score": 1.6452211
+      },
+      {
+        "id": "kst-29509-91",
+        "title": "Palliatieve zorg; Motie; Motie van het lid Dobbe over geen omzetplafonds meer inzetten in de palliatieve zorg",
+        "date": "2024-11-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29509-91.html",
+        "similarity_score": 1.6426381
+      },
+      {
+        "id": "kst-31226-28",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-28.html",
+        "similarity_score": 1.6359979
+      },
+      {
+        "id": "kst-21501-20-892",
+        "title": "Europese Raad; Motie; Motie van het lid Beertema over tot inzet maken van terughalen van bevoegdheden in plaats van overdragen van bevoegdheden",
+        "date": "2014-06-25",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-892.html",
+        "similarity_score": 1.6333125
+      },
+      {
+        "id": "kst-28973-99",
+        "title": "Toekomst van de intensieve veehouderij; Motie; Motie Graus over een eenduidige omschrijving van het begrip megastal",
+        "date": "2012-03-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28973-99.html",
+        "similarity_score": 1.6303291
+      },
+      {
+        "id": "kst-34270-12",
+        "title": "Uitvoering Wet raadgevend referendum; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in de minister-president",
+        "date": "2016-04-13",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34270-12.html",
+        "similarity_score": 1.628507
+      },
+      {
+        "id": "kst-33852-35",
+        "title": "Wijziging van de Rijkswet op het Nederlanderschap ter verlenging van de termijnen voor verlening van het Nederlanderschap en enige andere wijzigingen; Motie; Motie van het lid Kuzu over intrekking van het wetsvoorstel",
+        "date": "2016-06-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33852-35.html",
+        "similarity_score": 1.6278534
+      },
+      {
+        "id": "kst-32125-3",
+        "title": "Staat van de Europese Unie 2009-2010; Motie om naast de Nederlandse vlag ook de Europese vlag te plaatsen op het gebouw van de Tweede Kamer",
+        "date": "2009-12-01",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32125-3.html",
+        "similarity_score": 1.6273091
+      }
+    ]
+  },
+  {
+    "reference_id": 13,
+    "reference_text": "nr. 9",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "In stemming komt de gewijzigde motie-Van den Berg (34834, nr. 17, was nr. 9).",
+    "reference_information": {
+      "keywords": [
+        "stemming",
+        "motie",
+        "oud nummer"
+      ],
+      "summary": "Verwijzing naar het oude nummer van de motie tijdens de stemming."
+    },
+    "confidence_score": 80,
+    "validation_notes": "Valid reference - refers to the old, previous number of the motie, mentioned for context during voting.",
+    "is_valid": true,
+    "query": "nr. 9 In stemming komt de gewijzigde motie-Van den Berg (34834, nr. 17, was nr. 9). stemming motie oud nummer Verwijzing naar het oude nummer van de motie tijdens de stemming.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34723-16",
+        "title": "Wijziging van de Warmtewet (wijzigingen naar aanleiding van de evaluatie van de Warmtewet) ; Motie; Motie van de leden Wassenberg en Beckerman over voorrang voor duurzame warmte",
+        "date": "2018-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34723-16.html",
+        "similarity_score": 1.6605848
+      },
+      {
+        "id": "kst-32123-9",
+        "title": "Nota over de toestand van 's Rijks Financiën; Motie waarin het vertrouwen in het kabinet wordt opgezegd",
+        "date": "2009-09-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-9.html",
+        "similarity_score": 1.647675
+      },
+      {
+        "id": "kst-21501-20-892",
+        "title": "Europese Raad; Motie; Motie van het lid Beertema over tot inzet maken van terughalen van bevoegdheden in plaats van overdragen van bevoegdheden",
+        "date": "2014-06-25",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-892.html",
+        "similarity_score": 1.6445633
+      },
+      {
+        "id": "kst-34700-16",
+        "title": "Kabinetsformatie 2017; Motie; Motie van het lid Baudet over tot beleid vertalen van wisselende onderwerpen",
+        "date": "2017-05-17",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34700-16.html",
+        "similarity_score": 1.639448
+      },
+      {
+        "id": "kst-34270-12",
+        "title": "Uitvoering Wet raadgevend referendum; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in de minister-president",
+        "date": "2016-04-13",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34270-12.html",
+        "similarity_score": 1.6303982
+      },
+      {
+        "id": "kst-31968-11",
+        "title": "Aanpassing van een aantal wetten aan de Wet veiligheidsregio’s en enkele wijzigingen in de Wet veiligheidsregio’s (Aanpassingswet veiligheidsregio’s); Motie; Motie-Van Raak over niet afwijken van de opkomstnormen van de brandweer",
+        "date": "2010-01-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31968-11.html",
+        "similarity_score": 1.6288325
+      },
+      {
+        "id": "kst-29509-91",
+        "title": "Palliatieve zorg; Motie; Motie van het lid Dobbe over geen omzetplafonds meer inzetten in de palliatieve zorg",
+        "date": "2024-11-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29509-91.html",
+        "similarity_score": 1.6280112
+      },
+      {
+        "id": "kst-34313-10",
+        "title": "Initiatiefnota van de leden Van Gerven, Grashoff en Koser Kaya over wei voor de koe; Motie; Motie van het lid Ouwehand over het wettelijk borgen van weidegang voor koeien",
+        "date": "2017-02-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34313-10.html",
+        "similarity_score": 1.6237451
+      },
+      {
+        "id": "kst-34352-51",
+        "title": "Uitvoering en evaluatie Participatiewet; Motie; Motie van het lid Karabulut over 50-plussers in de Wajong categoriaal uitzonderen van de korting op de uitkering",
+        "date": "2017-02-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34352-51.html",
+        "similarity_score": 1.6233945
+      },
+      {
+        "id": "kst-32417-34",
+        "title": "Kabinetsformatie 2010; Motie; Motie Wilders over bewerkstelligen dat de Koning geen deel meer uitmaakt van de regering",
+        "date": "2010-10-27",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32417-34.html",
+        "similarity_score": 1.6229502
+      }
+    ]
+  }
+]

@@ -14,7 +14,7 @@ LLM_TEMPERATURE = 0.2
 
 # Set vector database configuration
 VECTOR_DB_HOST = "http://localhost:9200"
-VECTOR_DB_INDEX = "obm_documents"
+VECTOR_DB_INDEX = "document_vectors"
 
 # Set directories
 PROMPTS_DIR = "./system/prompts"

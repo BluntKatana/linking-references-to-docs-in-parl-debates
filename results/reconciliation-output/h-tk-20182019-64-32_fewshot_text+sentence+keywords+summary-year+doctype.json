@@ -1,0 +1,551 @@
+[
+  {
+    "reference_id": 1,
+    "reference_text": "de stemming over een aangehouden motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\",",
+    "reference_information": {
+      "keywords": [
+        "inrichting van de overheid",
+        "stemming",
+        "motie"
+      ],
+      "summary": "Algemene verwijzing naar een aangehouden motie die in stemming komt."
+    },
+    "confidence_score": 75,
+    "validation_notes": "Valid reference - clear implicit reference to a specific motion that is being handled.",
+    "is_valid": true,
+    "query": "de stemming over een aangehouden motie Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\", inrichting van de overheid stemming motie Algemene verwijzing naar een aangehouden motie die in stemming komt.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.6889803
+      },
+      {
+        "id": "kst-29477-547",
+        "title": "Geneesmiddelenbeleid; Motie; Motie van het lid Van Gerven over uitzonderen van dure geneesmiddelen van het ziekenhuisbudget",
+        "date": "2019-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29477-547.html",
+        "similarity_score": 1.5950425
+      },
+      {
+        "id": "kst-24077-440",
+        "title": "Drugbeleid; Motie; Motie van het lid Van den Berge over een VN-onderzoek naar de effectiviteit van de drugsaanpak van de afgelopen vijf decennia",
+        "date": "2019-09-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24077-440.html",
+        "similarity_score": 1.5941328
+      },
+      {
+        "id": "kst-32043-492",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van het lid Van Kent over aanpassen van de rekenregels",
+        "date": "2019-09-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-492.html",
+        "similarity_score": 1.5589604
+      },
+      {
+        "id": "kst-35300-32",
+        "title": "Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Krol over een interactieve online tool voor rijksinkomsten en -uitgaven",
+        "date": "2019-09-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-35300-32.html",
+        "similarity_score": 1.5581423
+      },
+      {
+        "id": "kst-19637-2461",
+        "title": "Vreemdelingenbeleid; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in het kabinet",
+        "date": "2019-01-30",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-2461.html",
+        "similarity_score": 1.5566127
+      },
+      {
+        "id": "kst-32813-289",
+        "title": "Kabinetsaanpak Klimaatbeleid; Motie; Motie van het lid Kops over stoppen met elke vorm van klimaatbeleid",
+        "date": "2019-03-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32813-289.html",
+        "similarity_score": 1.5540385
+      },
+      {
+        "id": "kst-32852-108",
+        "title": "Grondstoffenvoorzieningszekerheid; Motie; Motie van het lid Ziengs over de importheffing op buitenlands afval",
+        "date": "2019-12-12",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32852-108.html",
+        "similarity_score": 1.5526378
+      },
+      {
+        "id": "kst-33576-174",
+        "title": "Natuurbeleid; Motie; Motie van het lid Wassenberg over verbieden van het kappen van bomen voor de houtpelletproductie",
+        "date": "2019-12-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33576-174.html",
+        "similarity_score": 1.5481282
+      },
+      {
+        "id": "kst-29398-661",
+        "title": "Maatregelen verkeersveiligheid; Motie; Motie van de leden Van Brenk en Von Martels over de kwaliteit van fietsverlichting",
+        "date": "2019-02-07",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29398-661.html",
+        "similarity_score": 1.5386072
+      }
+    ]
+  },
+  {
+    "reference_id": 2,
+    "reference_text": "de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\"",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Initiatiefnota",
+    "sentence": "Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\",",
+    "reference_information": {
+      "keywords": [
+        "geneesmiddelen en medische hulpmiddelen",
+        "markttoezicht",
+        "gezondheidszorg"
+      ],
+      "summary": "Initiatiefnota over de farmaceutische industrie en gezondheidsbeleid."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Valid reference - clear implicit reference to a specific initiatiefnota by its full title and authors.",
+    "is_valid": true,
+    "query": "de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\" Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\", geneesmiddelen en medische hulpmiddelen markttoezicht gezondheidszorg Initiatiefnota over de farmaceutische industrie en gezondheidsbeleid.",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 3,
+    "reference_text": "34834, nr. 9",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "te weten: -de motie-Van den Berg over onderzoek naar biomarkers (34834, nr. 9).",
+    "reference_information": {
+      "keywords": [
+        "geneesmiddelen en medische hulpmiddelen",
+        "onderzoek en wetenschap",
+        "ziekten en behandelingen"
+      ],
+      "summary": "Motie van Van den Berg over onderzoek naar biomarkers voor geneesmiddelen."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Valid reference - clear explicit dossier and document number for a specific motion.",
+    "is_valid": true,
+    "found_direct": "34834-9",
+    "query": "te weten: -de motie-Van den Berg over onderzoek naar biomarkers (). geneesmiddelen en medische hulpmiddelen onderzoek en wetenschap ziekten en behandelingen Motie van Van den Berg over onderzoek naar biomarkers voor geneesmiddelen.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.7210552
+      },
+      {
+        "id": "kst-29477-547",
+        "title": "Geneesmiddelenbeleid; Motie; Motie van het lid Van Gerven over uitzonderen van dure geneesmiddelen van het ziekenhuisbudget",
+        "date": "2019-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29477-547.html",
+        "similarity_score": 1.5745828
+      },
+      {
+        "id": "kst-24077-440",
+        "title": "Drugbeleid; Motie; Motie van het lid Van den Berge over een VN-onderzoek naar de effectiviteit van de drugsaanpak van de afgelopen vijf decennia",
+        "date": "2019-09-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24077-440.html",
+        "similarity_score": 1.5711251
+      },
+      {
+        "id": "kst-33576-174",
+        "title": "Natuurbeleid; Motie; Motie van het lid Wassenberg over verbieden van het kappen van bomen voor de houtpelletproductie",
+        "date": "2019-12-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33576-174.html",
+        "similarity_score": 1.5447694
+      },
+      {
+        "id": "kst-35300-32",
+        "title": "Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Krol over een interactieve online tool voor rijksinkomsten en -uitgaven",
+        "date": "2019-09-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-35300-32.html",
+        "similarity_score": 1.525765
+      },
+      {
+        "id": "kst-29398-661",
+        "title": "Maatregelen verkeersveiligheid; Motie; Motie van de leden Van Brenk en Von Martels over de kwaliteit van fietsverlichting",
+        "date": "2019-02-07",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29398-661.html",
+        "similarity_score": 1.5184119
+      },
+      {
+        "id": "kst-19637-2461",
+        "title": "Vreemdelingenbeleid; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in het kabinet",
+        "date": "2019-01-30",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-2461.html",
+        "similarity_score": 1.5002639
+      },
+      {
+        "id": "kst-32852-108",
+        "title": "Grondstoffenvoorzieningszekerheid; Motie; Motie van het lid Ziengs over de importheffing op buitenlands afval",
+        "date": "2019-12-12",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32852-108.html",
+        "similarity_score": 1.4986322
+      },
+      {
+        "id": "kst-32043-492",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van het lid Van Kent over aanpassen van de rekenregels",
+        "date": "2019-09-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-492.html",
+        "similarity_score": 1.4967119
+      },
+      {
+        "id": "kst-32813-289",
+        "title": "Kabinetsaanpak Klimaatbeleid; Motie; Motie van het lid Kops over stoppen met elke vorm van klimaatbeleid",
+        "date": "2019-03-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32813-289.html",
+        "similarity_score": 1.4873524
+      }
+    ]
+  },
+  {
+    "reference_id": 4,
+    "reference_text": "notaoverleg van 10 december 2018",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Overig",
+    "sentence": "(Zie notaoverleg van 10 december 2018.)",
+    "reference_information": {
+      "keywords": [
+        "inrichting van de overheid",
+        "vergadering",
+        "debat"
+      ],
+      "summary": "Verwijzing naar een specifiek notaoverleg."
+    },
+    "confidence_score": 30,
+    "validation_notes": "Invalid reference - refers to a specific parliamentary meeting/event ('notaoverleg') rather than a document.",
+    "is_valid": false,
+    "query": "notaoverleg van 10 december 2018 (Zie notaoverleg van 10 december 2018.) inrichting van de overheid vergadering debat Verwijzing naar een specifiek notaoverleg.",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 5,
+    "reference_text": "34834, nr. 9",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "De motie-Van den Berg (34834, nr. 9) is in die zin gewijzigd dat zij thans luidt:",
+    "reference_information": {
+      "keywords": [
+        "geneesmiddelen en medische hulpmiddelen",
+        "onderzoek en wetenschap",
+        "wijziging"
+      ],
+      "summary": "Wijziging van de motie-Van den Berg."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Valid reference - clear explicit dossier and document number for a specific motion.",
+    "is_valid": true,
+    "found_direct": "34834-9",
+    "query": "De motie-Van den Berg () is in die zin gewijzigd dat zij thans luidt: geneesmiddelen en medische hulpmiddelen onderzoek en wetenschap wijziging Wijziging van de motie-Van den Berg.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.6320417
+      },
+      {
+        "id": "kst-29477-547",
+        "title": "Geneesmiddelenbeleid; Motie; Motie van het lid Van Gerven over uitzonderen van dure geneesmiddelen van het ziekenhuisbudget",
+        "date": "2019-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29477-547.html",
+        "similarity_score": 1.5939639
+      },
+      {
+        "id": "kst-24077-440",
+        "title": "Drugbeleid; Motie; Motie van het lid Van den Berge over een VN-onderzoek naar de effectiviteit van de drugsaanpak van de afgelopen vijf decennia",
+        "date": "2019-09-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24077-440.html",
+        "similarity_score": 1.5782747
+      },
+      {
+        "id": "kst-33576-174",
+        "title": "Natuurbeleid; Motie; Motie van het lid Wassenberg over verbieden van het kappen van bomen voor de houtpelletproductie",
+        "date": "2019-12-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33576-174.html",
+        "similarity_score": 1.5453982
+      },
+      {
+        "id": "kst-32813-289",
+        "title": "Kabinetsaanpak Klimaatbeleid; Motie; Motie van het lid Kops over stoppen met elke vorm van klimaatbeleid",
+        "date": "2019-03-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32813-289.html",
+        "similarity_score": 1.5423789
+      },
+      {
+        "id": "kst-29398-661",
+        "title": "Maatregelen verkeersveiligheid; Motie; Motie van de leden Van Brenk en Von Martels over de kwaliteit van fietsverlichting",
+        "date": "2019-02-07",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29398-661.html",
+        "similarity_score": 1.5162843
+      },
+      {
+        "id": "kst-35300-32",
+        "title": "Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Krol over een interactieve online tool voor rijksinkomsten en -uitgaven",
+        "date": "2019-09-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-35300-32.html",
+        "similarity_score": 1.516013
+      },
+      {
+        "id": "kst-29984-843",
+        "title": "Spoor: vervoer- en beheerplan; Motie; Motie van het lid Drost over de toegankelijkheid van het ov voor mensen met een beperking",
+        "date": "2019-04-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29984-843.html",
+        "similarity_score": 1.508394
+      },
+      {
+        "id": "kst-19637-2461",
+        "title": "Vreemdelingenbeleid; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in het kabinet",
+        "date": "2019-01-30",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-2461.html",
+        "similarity_score": 1.4957961
+      },
+      {
+        "id": "kst-32043-492",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van het lid Van Kent over aanpassen van de rekenregels",
+        "date": "2019-09-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-492.html",
+        "similarity_score": 1.4938351
+      }
+    ]
+  },
+  {
+    "reference_id": 6,
+    "reference_text": "nr. 17, was nr. 9 (34834)",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Zij krijgt nr. 17, was nr. 9 (34834).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "nummering",
+        "wijziging"
+      ],
+      "summary": "Nieuwe nummering van de motie."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Valid reference - clear explicit document numbers (new and old) and dossier number for a specific motion.",
+    "is_valid": true,
+    "found_direct": "17-34834",
+    "query": "Zij krijgt . motie nummering wijziging Nieuwe nummering van de motie.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.634054
+      },
+      {
+        "id": "kst-32043-492",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van het lid Van Kent over aanpassen van de rekenregels",
+        "date": "2019-09-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-492.html",
+        "similarity_score": 1.6124436
+      },
+      {
+        "id": "kst-19637-2461",
+        "title": "Vreemdelingenbeleid; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in het kabinet",
+        "date": "2019-01-30",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-2461.html",
+        "similarity_score": 1.605009
+      },
+      {
+        "id": "kst-29398-661",
+        "title": "Maatregelen verkeersveiligheid; Motie; Motie van de leden Van Brenk en Von Martels over de kwaliteit van fietsverlichting",
+        "date": "2019-02-07",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29398-661.html",
+        "similarity_score": 1.6022627
+      },
+      {
+        "id": "kst-32813-289",
+        "title": "Kabinetsaanpak Klimaatbeleid; Motie; Motie van het lid Kops over stoppen met elke vorm van klimaatbeleid",
+        "date": "2019-03-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32813-289.html",
+        "similarity_score": 1.5881935
+      },
+      {
+        "id": "kst-35300-32",
+        "title": "Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Krol over een interactieve online tool voor rijksinkomsten en -uitgaven",
+        "date": "2019-09-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-35300-32.html",
+        "similarity_score": 1.5876175
+      },
+      {
+        "id": "kst-29984-843",
+        "title": "Spoor: vervoer- en beheerplan; Motie; Motie van het lid Drost over de toegankelijkheid van het ov voor mensen met een beperking",
+        "date": "2019-04-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29984-843.html",
+        "similarity_score": 1.5785469
+      },
+      {
+        "id": "kst-32852-108",
+        "title": "Grondstoffenvoorzieningszekerheid; Motie; Motie van het lid Ziengs over de importheffing op buitenlands afval",
+        "date": "2019-12-12",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32852-108.html",
+        "similarity_score": 1.5768986
+      },
+      {
+        "id": "kst-33576-174",
+        "title": "Natuurbeleid; Motie; Motie van het lid Wassenberg over verbieden van het kappen van bomen voor de houtpelletproductie",
+        "date": "2019-12-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33576-174.html",
+        "similarity_score": 1.5684981
+      },
+      {
+        "id": "kst-24077-440",
+        "title": "Drugbeleid; Motie; Motie van het lid Van den Berge over een VN-onderzoek naar de effectiviteit van de drugsaanpak van de afgelopen vijf decennia",
+        "date": "2019-09-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24077-440.html",
+        "similarity_score": 1.5625271
+      }
+    ]
+  },
+  {
+    "reference_id": 7,
+    "reference_text": "34834, nr. 17, was nr. 9",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "In stemming komt de gewijzigde motie-Van den Berg (34834, nr. 17, was nr. 9).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemming",
+        "geneesmiddelen en medische hulpmiddelen"
+      ],
+      "summary": "Stemming over de gewijzigde motie-Van den Berg."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Valid reference - clear explicit dossier and document numbers for the specific (changed) motion.",
+    "is_valid": true,
+    "found_direct": "34834-17",
+    "query": "In stemming komt de gewijzigde motie-Van den Berg (). motie stemming geneesmiddelen en medische hulpmiddelen Stemming over de gewijzigde motie-Van den Berg.",
+    "ranked_candidates": [
+      {
+        "id": "kst-34834-17",
+        "title": "Initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: “Big Farma: niet gezond!”; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van den Berg over geneesmiddelen voorzien van een biomarker (t.v.v. 34834-9)",
+        "date": "2019-03-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34834-17.html",
+        "similarity_score": 1.6610367
+      },
+      {
+        "id": "kst-29477-547",
+        "title": "Geneesmiddelenbeleid; Motie; Motie van het lid Van Gerven over uitzonderen van dure geneesmiddelen van het ziekenhuisbudget",
+        "date": "2019-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29477-547.html",
+        "similarity_score": 1.6475239
+      },
+      {
+        "id": "kst-24077-440",
+        "title": "Drugbeleid; Motie; Motie van het lid Van den Berge over een VN-onderzoek naar de effectiviteit van de drugsaanpak van de afgelopen vijf decennia",
+        "date": "2019-09-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24077-440.html",
+        "similarity_score": 1.612075
+      },
+      {
+        "id": "kst-33576-174",
+        "title": "Natuurbeleid; Motie; Motie van het lid Wassenberg over verbieden van het kappen van bomen voor de houtpelletproductie",
+        "date": "2019-12-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33576-174.html",
+        "similarity_score": 1.5783982
+      },
+      {
+        "id": "kst-32813-289",
+        "title": "Kabinetsaanpak Klimaatbeleid; Motie; Motie van het lid Kops over stoppen met elke vorm van klimaatbeleid",
+        "date": "2019-03-06",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32813-289.html",
+        "similarity_score": 1.564546
+      },
+      {
+        "id": "kst-29398-661",
+        "title": "Maatregelen verkeersveiligheid; Motie; Motie van de leden Van Brenk en Von Martels over de kwaliteit van fietsverlichting",
+        "date": "2019-02-07",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29398-661.html",
+        "similarity_score": 1.5612928
+      },
+      {
+        "id": "kst-29984-843",
+        "title": "Spoor: vervoer- en beheerplan; Motie; Motie van het lid Drost over de toegankelijkheid van het ov voor mensen met een beperking",
+        "date": "2019-04-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29984-843.html",
+        "similarity_score": 1.5514061
+      },
+      {
+        "id": "kst-32852-108",
+        "title": "Grondstoffenvoorzieningszekerheid; Motie; Motie van het lid Ziengs over de importheffing op buitenlands afval",
+        "date": "2019-12-12",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32852-108.html",
+        "similarity_score": 1.5452464
+      },
+      {
+        "id": "kst-32043-492",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van het lid Van Kent over aanpassen van de rekenregels",
+        "date": "2019-09-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-492.html",
+        "similarity_score": 1.5438722
+      },
+      {
+        "id": "kst-35300-32",
+        "title": "Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Krol over een interactieve online tool voor rijksinkomsten en -uitgaven",
+        "date": "2019-09-19",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-35300-32.html",
+        "similarity_score": 1.5401385
+      }
+    ]
+  }
+]

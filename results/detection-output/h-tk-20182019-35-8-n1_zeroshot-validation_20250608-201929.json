@@ -1,0 +1,995 @@
+{
+  "validated_references": [
+    {
+      "reference_id": 1,
+      "reference_text": "34834",
+      "reference_type": "explicit-dossier",
+      "document_type": null,
+      "sentence": "Ik stel voor dinsdag 18 december aanstaande ook te stemmen over de ingediende moties bij het notaoverleg over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\" (34834).",
+      "reference_information": {
+        "keywords": [
+          "Big Farma",
+          "gezondheid",
+          "geneesmiddelen",
+          "notaoverleg"
+        ],
+        "summary": "Dossiernummer van de initiatiefnota \"Big Farma: niet gezond!\""
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit dossier reference with standard 5-digit format, referring to an existing initiative note.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 2,
+      "reference_text": "de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\"",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Nota",
+      "sentence": "Ik stel voor dinsdag 18 december aanstaande ook te stemmen over de ingediende moties bij het notaoverleg over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\" (34834).",
+      "reference_information": {
+        "keywords": [
+          "Big Farma",
+          "gezondheid",
+          "geneesmiddelen",
+          "notaoverleg",
+          "Ploumen",
+          "Van Gerven",
+          "Ellemeet"
+        ],
+        "summary": "Initiatiefnota over de farmaceutische industrie"
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a specific, existing initiative note, explicitly named and attributed.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 3,
+      "reference_text": "32813, nr. 257",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "Ik deel aan de Kamer mee dat de fractie van D66 bij de stemmingen op 11 december jongstleden over de motie-Moorlag (32813, nr. 257) geacht wenst te worden voor deze motie te hebben gestemd.",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Moorlag",
+          "stemmingen"
+        ],
+        "summary": "Motie van Moorlag met specifiek nummer"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a specific motion by its dossier and document number.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 4,
+      "reference_text": "deze motie",
+      "reference_type": "impl-local",
+      "document_type": "Motie",
+      "sentence": "Ik deel aan de Kamer mee dat de fractie van D66 bij de stemmingen op 11 december jongstleden over de motie-Moorlag (32813, nr. 257) geacht wenst te worden voor deze motie te hebben gestemd.",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Moorlag",
+          "stemmingen"
+        ],
+        "summary": "Verwijzing naar de eerder genoemde motie van Moorlag"
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to the specific motion mentioned immediately prior in the same sentence.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 5,
+      "reference_text": "21501-07-1559",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 6,
+      "reference_text": "25424-430",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 7,
+      "reference_text": "25424-429",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 8,
+      "reference_text": "25763-30",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 9,
+      "reference_text": "29689-941",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 10,
+      "reference_text": "25424-425",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 11,
+      "reference_text": "25424-426",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 12,
+      "reference_text": "25424-424",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 13,
+      "reference_text": "33628-37",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 14,
+      "reference_text": "25763-29",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 15,
+      "reference_text": "25424-422",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 16,
+      "reference_text": "25424-423",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 17,
+      "reference_text": "25424-343",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 18,
+      "reference_text": "25424-417",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 19,
+      "reference_text": "25424-418",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 20,
+      "reference_text": "35000-A-28",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 21,
+      "reference_text": "31409-199",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 22,
+      "reference_text": "29668-49",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 23,
+      "reference_text": "34775-XII-76",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 24,
+      "reference_text": "31409-198",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van the stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 25,
+      "reference_text": "31409-196",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 26,
+      "reference_text": "31409-192",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 27,
+      "reference_text": "35059-3",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 28,
+      "reference_text": "23645-682",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 29,
+      "reference_text": "29984-797",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 30,
+      "reference_text": "29984-798",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 31,
+      "reference_text": "25268-172",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 32,
+      "reference_text": "31016-148",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 33,
+      "reference_text": "31016-150",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 34,
+      "reference_text": "31016-146",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 35,
+      "reference_text": "31016-147",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 36,
+      "reference_text": "33561-43",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 37,
+      "reference_text": "35103-1",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 38,
+      "reference_text": "25087-224",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 39,
+      "reference_text": "35020-2",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 40,
+      "reference_text": "2018Z21641",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number (Z-nummer), part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 41,
+      "reference_text": "34834-5",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 42,
+      "reference_text": "29664-191",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 43,
+      "reference_text": "32201-92",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 44,
+      "reference_text": "29675-192",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 45,
+      "reference_text": "2018Z07100",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number (Z-nummer), part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 46,
+      "reference_text": "31409-201",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 47,
+      "reference_text": "31409-193",
+      "reference_type": "explicit-parl-doc",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren van stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit reference to a parliamentary document number, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 48,
+      "reference_text": "34834",
+      "reference_type": "explicit-dossier",
+      "document_type": null,
+      "sentence": "Ik stel voor de volgende stukken van de stand van werkzaamheden af te voeren: 21501-07-1559; 25424-430; 25424-429; 25763-30; 29689-941; 25424-425; 25424-426; 25424-424; 33628-37; 25763-29; 25424-422; 25424-423; 25424-343; 25424-417; 25424-418; 35000-A-28; 31409-199; 29668-49; 34775-XII-76; 31409-198; 31409-196; 31409-192;35059-3; 23645-682; 29984-797; 29984-798; 25268-172; 31016-148; 31016-150; 31016-146; 31016-147; 33561-43; 35103-1; 25087-224;35020-2; 2018Z21641; 34834-5; 29664-191; 32201-92; 29675-192; 2018Z07100; 31409-201; 31409-193 en 34834.",
+      "reference_information": {
+        "keywords": [
+          "stand van werkzaamheden",
+          "afvoeren",
+          "stukken"
+        ],
+        "summary": "Afvoeren of stukken van de stand van werkzaamheden"
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit dossier reference, part of a list of existing documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 49,
+      "reference_text": "de documentaire Verdacht",
+      "reference_type": "impl-ext-third-party",
+      "document_type": null,
+      "sentence": "Ik heb gisteren een debat aangevraagd met hoofdelijke stemming over etnisch profileren door de politie naar aanleiding van de documentaire Verdacht.",
+      "reference_information": {
+        "keywords": [
+          "etnisch profileren",
+          "politie",
+          "documentaire",
+          "Verdacht"
+        ],
+        "summary": "Debat aangevraagd naar aanleiding van documentaire over etnisch profileren"
+      },
+      "confidence_score": 20,
+      "validation_notes": "Invalid reference - refers to an external, non-parliamentary documentary.",
+      "is_valid": false
+    },
+    {
+      "reference_id": 50,
+      "reference_text": "het programma De Kracht van het verschil",
+      "reference_type": "impl-ext-third-party",
+      "document_type": null,
+      "sentence": "Ik zou graag een brief willen hebben van de minister omdat er ook tijdens het mondelinge vragenuurtje onduidelijkheid over was of etnisch profileren nu wel of niet voorkomt in het programma De Kracht van het verschil.",
+      "reference_information": {
+        "keywords": [
+          "etnisch profileren",
+          "programma",
+          "De Kracht van het verschil",
+          "minister"
+        ],
+        "summary": "Verzoek om brief over etnisch profileren in een specifiek programma"
+      },
+      "confidence_score": 20,
+      "validation_notes": "Invalid reference - refers to an external program, not a parliamentary document.",
+      "is_valid": false
+    },
+    {
+      "reference_id": 51,
+      "reference_text": "het volledige onderzoeksrapport",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Verslag",
+      "sentence": "Daarom wil ik heel graag dat de Kamer het volledige onderzoeksrapport ontvangt.",
+      "reference_information": {
+        "keywords": [
+          "onderzoeksrapport",
+          "helikopterongeluk",
+          "Mali",
+          "informatie"
+        ],
+        "summary": "Verzoek om ontvangst van het volledige onderzoeksrapport over het helikopterongeluk in Mali"
+      },
+      "confidence_score": 75,
+      "validation_notes": "Implicit reference to an existing 'onderzoeksrapport' that the Kamer wishes to receive, implying it's a document intended for parliament.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 52,
+      "reference_text": "EenVandaag",
+      "reference_type": "impl-ext-third-party",
+      "document_type": null,
+      "sentence": "\"Minister Wiebes houdt cruciale informatie achter over giflek Farmsum\", kopt EenVandaag na onderzoek van Follow the Money en henzelf.",
+      "reference_information": {
+        "keywords": [
+          "giflek Farmsum",
+          "Minister Wiebes",
+          "informatie",
+          "onderzoek",
+          "EenVandaag"
+        ],
+        "summary": "Nieuwsbericht van EenVandaag over giflek Farmsum"
+      },
+      "confidence_score": 20,
+      "validation_notes": "Invalid reference - refers to a news organization, not a parliamentary document.",
+      "is_valid": false
+    },
+    {
+      "reference_id": 53,
+      "reference_text": "Follow the Money",
+      "reference_type": "impl-ext-third-party",
+      "document_type": null,
+      "sentence": "\"Minister Wiebes houdt cruciale informatie achter over giflek Farmsum\", kopt EenVandaag na onderzoek van Follow the Money en henzelf.",
+      "reference_information": {
+        "keywords": [
+          "giflek Farmsum",
+          "Minister Wiebes",
+          "informatie",
+          "onderzoek",
+          "Follow the Money"
+        ],
+        "summary": "Onderzoek van Follow the Money over giflek Farmsum"
+      },
+      "confidence_score": 20,
+      "validation_notes": "Invalid reference - refers to a journalistic platform, not a parliamentary document.",
+      "is_valid": false
+    },
+    {
+      "reference_id": 54,
+      "reference_text": "een feitenrelaas",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Brief",
+      "sentence": "Ik wil een debat, maar ik wil ook graag een feitenrelaas van de minister over wat er precies wanneer is gebeurd.",
+      "reference_information": {
+        "keywords": [
+          "feitenrelaas",
+          "giflek Farmsum",
+          "minister",
+          "informatie"
+        ],
+        "summary": "Verzoek om een feitenrelaas van de minister over de giflek in Farmsum"
+      },
+      "confidence_score": 30,
+      "validation_notes": "Invalid reference - refers to a document that is requested to be created and sent by the minister, thus a future document.",
+      "is_valid": false
+    }
+  ],
+  "summary": {
+    "total_candidates": 54,
+    "valid_references": 49,
+    "invalid_references": 5,
+    "high_confidence_references": 47
+  }
+}

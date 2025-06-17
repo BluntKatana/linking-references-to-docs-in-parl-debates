@@ -1,0 +1,3370 @@
+[
+  {
+    "reference_id": 1,
+    "reference_text": "19637, nr. 720",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Brief",
+    "sentence": "Aan de orde is de behandeling van: de brief van de minister voor Vreemdelingenzaken en Integratie over het gebruik van zijn discretionaire bevoegdheid (19637, nr. 720).",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenbeleid",
+        "integratie",
+        "discretionaire bevoegdheid",
+        "asielbeleid"
+      ],
+      "summary": "Behandeling van een brief over de discretionaire bevoegdheid van de minister voor Vreemdelingenzaken en Integratie."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit dossier and document number reference.",
+    "is_valid": true,
+    "found_direct": "19637-720",
+    "query": "Aan de orde is de behandeling van: de brief van de minister voor Vreemdelingenzaken en Integratie over het gebruik van zijn discretionaire bevoegdheid (). vreemdelingenbeleid integratie discretionaire bevoegdheid asielbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.8773918
+      }
+    ]
+  },
+  {
+    "reference_id": 2,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Welnu, de brief is vanochtend gekomen, nadat wij de mededeling uit het kabinet al hadden vernomen.",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenbeleid",
+        "asielzoekers",
+        "kabinet",
+        "communicatie"
+      ],
+      "summary": "Ontvangst van de brief van de minister over de voorgestelde regeling."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief Welnu, de brief is vanochtend gekomen, nadat wij de mededeling uit het kabinet al hadden vernomen. vreemdelingenbeleid asielzoekers kabinet communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.707395
+      }
+    ]
+  },
+  {
+    "reference_id": 3,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Het kabinet zegt in de brief niets te zien in het gebruikmaken van de discretionaire bevoegdheid, dus in het treffen van een aparte beleidsregel, zoals de minister het ook genoemd heeft.",
+    "reference_information": {
+      "keywords": [
+        "discretionaire bevoegdheid",
+        "beleidsregel",
+        "kabinet",
+        "vreemdelingenbeleid"
+      ],
+      "summary": "Kabinet wijst gebruik discretionaire bevoegdheid af in de brief."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief Het kabinet zegt in de brief niets te zien in het gebruikmaken van de discretionaire bevoegdheid, dus in het treffen van een aparte beleidsregel, zoals de minister het ook genoemd heeft. discretionaire bevoegdheid beleidsregel kabinet vreemdelingenbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6949322
+      }
+    ]
+  },
+  {
+    "reference_id": 4,
+    "reference_text": "de motie-Halsema/Hoekema",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Mijn fractie heeft al in april vorig jaar via de motie-Halsema/Hoekema aangegeven wat wij willen, namelijk een verblijfsvergunning voor mensen die vijf jaar of langer in Nederland zijn, die goed zijn ingeburgerd en die geen strafblad hebben.",
+    "reference_information": {
+      "keywords": [
+        "verblijfsvergunning",
+        "asielzoekers",
+        "integratie",
+        "strafrecht"
+      ],
+      "summary": "Verwijzing naar een eerdere motie over verblijfsvergunningen voor langdurig verblijvende asielzoekers."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, named motion.",
+    "is_valid": true,
+    "query": "de motie-Halsema/Hoekema Mijn fractie heeft al in april vorig jaar via de motie-Halsema/Hoekema aangegeven wat wij willen, namelijk een verblijfsvergunning voor mensen die vijf jaar of langer in Nederland zijn, die goed zijn ingeburgerd en die geen strafblad hebben. verblijfsvergunning asielzoekers integratie strafrecht",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.7679216
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.741374
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6793982
+      }
+    ]
+  },
+  {
+    "reference_id": 5,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Dit blijkt ook uit de brief die wij inmiddels van het kabinet hebben ontvangen.",
+    "reference_information": {
+      "keywords": [
+        "kabinet",
+        "vreemdelingenbeleid",
+        "communicatie"
+      ],
+      "summary": "Bevestiging van kabinetsstandpunt via de ontvangen brief."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief Dit blijkt ook uit de brief die wij inmiddels van het kabinet hebben ontvangen. kabinet vreemdelingenbeleid communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6865516
+      }
+    ]
+  },
+  {
+    "reference_id": 6,
+    "reference_text": "de oude Vreemdelingenwet",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Overig",
+    "sentence": "Zij zijn de slachtoffers van de oude Vreemdelingenwet die door een kabinet van CDA en PvdA is voorgesteld.",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenbeleid",
+        "wetgeving",
+        "recht"
+      ],
+      "summary": "Impact van de oude Vreemdelingenwet op asielzoekers."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, existing law.",
+    "is_valid": true,
+    "query": "de oude Vreemdelingenwet Zij zijn de slachtoffers van de oude Vreemdelingenwet die door een kabinet van CDA en PvdA is voorgesteld. vreemdelingenbeleid wetgeving recht",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 7,
+    "reference_text": "een nieuwe Vreemdelingenwet",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Overig",
+    "sentence": "Tegenwoordig is er een nieuwe Vreemdelingenwet, die door een paars kabinet is voorgesteld.",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenbeleid",
+        "wetgeving",
+        "recht"
+      ],
+      "summary": "Introductie van de nieuwe Vreemdelingenwet door een paars kabinet."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, existing law.",
+    "is_valid": true,
+    "query": "een nieuwe Vreemdelingenwet Tegenwoordig is er een nieuwe Vreemdelingenwet, die door een paars kabinet is voorgesteld. vreemdelingenbeleid wetgeving recht",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 8,
+    "reference_text": "de motie-Halsema/Hoekema",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Mijn fractie heeft al in april vorig jaar via de motie-Halsema/Hoekema aangegeven wat wij willen, namelijk een verblijfsvergunning voor mensen die vijf jaar of langer in Nederland zijn, die goed zijn ingeburgerd en die geen strafblad hebben.",
+    "reference_information": {
+      "keywords": [
+        "verblijfsvergunning",
+        "asielzoekers",
+        "integratie",
+        "strafrecht"
+      ],
+      "summary": "D66 verwijst naar eerdere motie over verblijfsvergunning voor langdurig verblijvende asielzoekers."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, named motion.",
+    "is_valid": true,
+    "query": "de motie-Halsema/Hoekema Mijn fractie heeft al in april vorig jaar via de motie-Halsema/Hoekema aangegeven wat wij willen, namelijk een verblijfsvergunning voor mensen die vijf jaar of langer in Nederland zijn, die goed zijn ingeburgerd en die geen strafblad hebben. verblijfsvergunning asielzoekers integratie strafrecht",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.7679216
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.741374
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6793982
+      }
+    ]
+  },
+  {
+    "reference_id": 9,
+    "reference_text": "een brief",
+    "reference_type": "impl-ext-third-party",
+    "document_type": "Brief",
+    "sentence": "Ik zag helaas deze week mijn ongerustheid over de aanzuigende werking al weer bevestigd, want wij kregen een brief waarin werd gepleit voor een pardonregeling voor witte illegalen, een groep die niet is genoemd door de minister, maar die zegt dat ook zij al langer dan vijf jaar in Nederland zijn en een beroep willen doen op de regeling.",
+    "reference_information": {
+      "keywords": [
+        "migratie",
+        "integratie",
+        "illegalen",
+        "pardonregeling"
+      ],
+      "summary": "Ontvangst van een brief van het Comité witte illegalen over een pardonregeling."
+    },
+    "confidence_score": 80,
+    "validation_notes": "Clear implicit reference to a specific letter received from an external organization.",
+    "is_valid": true,
+    "query": "een brief Ik zag helaas deze week mijn ongerustheid over de aanzuigende werking al weer bevestigd, want wij kregen een brief waarin werd gepleit voor een pardonregeling voor witte illegalen, een groep die niet is genoemd door de minister, maar die zegt dat ook zij al langer dan vijf jaar in Nederland zijn en een beroep willen doen op de regeling. migratie integratie illegalen pardonregeling",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6842351
+      }
+    ]
+  },
+  {
+    "reference_id": 10,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Ik wijs op de brief die wij allen waarschijnlijk gekregen hebben.",
+    "reference_information": {
+      "keywords": [
+        "migratie",
+        "illegalen",
+        "pardonregeling"
+      ],
+      "summary": "Verwijzing naar de ontvangen brief van het Comité witte illegalen."
+    },
+    "confidence_score": 80,
+    "validation_notes": "Clear implicit reference to the specific letter from the Comité witte illegalen.",
+    "is_valid": true,
+    "query": "de brief Ik wijs op de brief die wij allen waarschijnlijk gekregen hebben. migratie illegalen pardonregeling",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.671363
+      }
+    ]
+  },
+  {
+    "reference_id": 11,
+    "reference_text": "de brief van het Comité witte illegalen",
+    "reference_type": "impl-ext-third-party",
+    "document_type": "Brief",
+    "sentence": "De illustratie ligt in de vorm van de brief van het Comité witte illegalen op tafel.",
+    "reference_information": {
+      "keywords": [
+        "migratie",
+        "illegalen",
+        "pardonregeling"
+      ],
+      "summary": "De brief van het Comité witte illegalen als illustratie van aanzuigende werking."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear explicit reference to a specific letter from an external organization.",
+    "is_valid": true,
+    "query": "de brief van het Comité witte illegalen De illustratie ligt in de vorm van de brief van het Comité witte illegalen op tafel. migratie illegalen pardonregeling",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.5738208
+      }
+    ]
+  },
+  {
+    "reference_id": 12,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Als uw redenatie waar zou zijn, kan het niet zo zijn dat ik de brief ontvangen heb die ik heb ontvangen van de witte illegalen.",
+    "reference_information": {
+      "keywords": [
+        "migratie",
+        "illegalen",
+        "pardonregeling"
+      ],
+      "summary": "Discussie over the received brief of the white illegals."
+    },
+    "confidence_score": 80,
+    "validation_notes": "Clear implicit reference to the specific letter from the Comité witte illegalen.",
+    "is_valid": true,
+    "query": "de brief Als uw redenatie waar zou zijn, kan het niet zo zijn dat ik de brief ontvangen heb die ik heb ontvangen van de witte illegalen. migratie illegalen pardonregeling",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6291273
+      }
+    ]
+  },
+  {
+    "reference_id": 13,
+    "reference_text": "een brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Ik gaf al aan dat wij een brief hebben gekregen van de groep waar wij het niet over hebben, namelijk de witte illegalen, die op grond van het debat dat wij hier voeren, zeggen: wij willen ook graag een regeling.",
+    "reference_information": {
+      "keywords": [
+        "migratie",
+        "illegalen",
+        "pardonregeling"
+      ],
+      "summary": "Verwijzing naar the brief of the white illegals."
+    },
+    "confidence_score": 80,
+    "validation_notes": "Clear implicit reference to the specific letter from the Comité witte illegalen.",
+    "is_valid": true,
+    "query": "een brief Ik gaf al aan dat wij een brief hebben gekregen van de groep waar wij het niet over hebben, namelijk de witte illegalen, die op grond van het debat dat wij hier voeren, zeggen: wij willen ook graag een regeling. migratie illegalen pardonregeling",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6368539
+      }
+    ]
+  },
+  {
+    "reference_id": 14,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Wat betreft de brief gaat het daarbij om het volgende.",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenbeleid",
+        "discretionaire bevoegdheid"
+      ],
+      "summary": "Vragen over the content of the ministerial brief."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief Wat betreft de brief gaat het daarbij om het volgende. vreemdelingenbeleid discretionaire bevoegdheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.8280696
+      }
+    ]
+  },
+  {
+    "reference_id": 15,
+    "reference_text": "De voorliggende brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "De voorliggende brief is ondertekend door minister Nawijn.",
+    "reference_information": {
+      "keywords": [
+        "ministeriële communicatie",
+        "vreemdelingenbeleid"
+      ],
+      "summary": "Bevestiging van the signing of the brief by the minister."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "De voorliggende brief De voorliggende brief is ondertekend door minister Nawijn. ministeriële communicatie vreemdelingenbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6907823
+      }
+    ]
+  },
+  {
+    "reference_id": 16,
+    "reference_text": "de brief van 4 februari",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Brief",
+    "sentence": "Begrijp ik het goed dat wij in feite terug zijn bij de brief van 4 februari die verleden week ter bespreking voorlag?",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenbeleid",
+        "asielzoekers",
+        "beleid"
+      ],
+      "summary": "Verwijzing naar an earlier brief about asylum policy."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, dated brief.",
+    "is_valid": true,
+    "query": "de brief van 4 februari Begrijp ik het goed dat wij in feite terug zijn bij de brief van 4 februari die verleden week ter bespreking voorlag? vreemdelingenbeleid asielzoekers beleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.7285314
+      }
+    ]
+  },
+  {
+    "reference_id": 17,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Wij hebben goed nota genomen van de laatste zin van de brief die de minister vandaag aan de Kamer zond.",
+    "reference_information": {
+      "keywords": [
+        "ministeriële communicatie",
+        "discretionaire bevoegdheid"
+      ],
+      "summary": "CDA takes note of the last sentence of the ministerial brief."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief sent today (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief Wij hebben goed nota genomen van de laatste zin van de brief die de minister vandaag aan de Kamer zond. ministeriële communicatie discretionaire bevoegdheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.662626
+      }
+    ]
+  },
+  {
+    "reference_id": 18,
+    "reference_text": "het algemeen overleg",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Verslag",
+    "sentence": "De fractie van de ChristenUnie wilde graag dat de minister-president hier aanwezig zou zijn, omdat de minister in het algemeen overleg heeft aangegeven diezelfde ochtend nog met de minister-president over zijn voornemen gesproken te hebben.",
+    "reference_information": {
+      "keywords": [
+        "parlementair debat",
+        "kabinet",
+        "vreemdelingenbeleid"
+      ],
+      "summary": "Verwijzing naar the general consultation where the minister discussed his intention."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to a specific, recent parliamentary general consultation.",
+    "is_valid": true,
+    "query": "het algemeen overleg De fractie van de ChristenUnie wilde graag dat de minister-president hier aanwezig zou zijn, omdat de minister in het algemeen overleg heeft aangegeven diezelfde ochtend nog met de minister-president over zijn voornemen gesproken te hebben. parlementair debat kabinet vreemdelingenbeleid",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 19,
+    "reference_text": "het algemeen overleg",
+    "reference_type": "impl-local",
+    "document_type": "Verslag",
+    "sentence": "De inhoudelijke argumenten over wel of geen pardon en over het oprekken van de discrectionaire bevoegdheid zijn in het algemeen overleg gewisseld.",
+    "reference_information": {
+      "keywords": [
+        "pardonregeling",
+        "discretionaire bevoegdheid",
+        "parlementair debat"
+      ],
+      "summary": "Discussiepunten from the general consultation."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific, recent parliamentary general consultation.",
+    "is_valid": true,
+    "query": "het algemeen overleg De inhoudelijke argumenten over wel of geen pardon en over het oprekken van de discrectionaire bevoegdheid zijn in het algemeen overleg gewisseld. pardonregeling discretionaire bevoegdheid parlementair debat",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 20,
+    "reference_text": "een motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "De fractie van de ChristenUnie is van zins om een motie in te dienen.",
+    "reference_information": {
+      "keywords": [
+        "asielzoekers",
+        "humanitaire gevallen",
+        "motie"
+      ],
+      "summary": "ChristenUnie considers submitting a motion."
+    },
+    "confidence_score": 20,
+    "validation_notes": "Invalid reference - refers to a future document that has not yet been submitted.",
+    "is_valid": false,
+    "query": "een motie De fractie van de ChristenUnie is van zins om een motie in te dienen. asielzoekers humanitaire gevallen motie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6277573
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6198891
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6123385
+      }
+    ]
+  },
+  {
+    "reference_id": 21,
+    "reference_text": "de motie",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Zij lijkt op de motie die in april vorig jaar is ingediend en waar de ChristenUniefractie toen ook voor heeft gestemd.",
+    "reference_information": {
+      "keywords": [
+        "asielzoekers",
+        "humanitaire gevallen",
+        "motie"
+      ],
+      "summary": "Vergelijking met an earlier motion about asylum seekers."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to a specific, previously submitted motion.",
+    "is_valid": true,
+    "query": "de motie Zij lijkt op de motie die in april vorig jaar is ingediend en waar de ChristenUniefractie toen ook voor heeft gestemd. asielzoekers humanitaire gevallen motie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6886616
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6647407
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6624165
+      }
+    ]
+  },
+  {
+    "reference_id": 22,
+    "reference_text": "het asielbeleid",
+    "reference_type": "impl-ext-dossier",
+    "document_type": null,
+    "sentence": "Ik heb mij er indertijd over verbaasd dat de LPF in het kabinet niet een sterker punt heeft gemaakt van het asielbeleid dat door Fortuyn werd voorgestaan.",
+    "reference_information": {
+      "keywords": [
+        "asielbeleid",
+        "kabinet",
+        "politieke standpunten"
+      ],
+      "summary": "Verbazing over LPF's inzet op asylum policy."
+    },
+    "confidence_score": 30,
+    "validation_notes": "Invalid reference - refers to a general policy area, not a specific document.",
+    "is_valid": false,
+    "query": "het asielbeleid Ik heb mij er indertijd over verbaasd dat de LPF in het kabinet niet een sterker punt heeft gemaakt van het asielbeleid dat door Fortuyn werd voorgestaan. asielbeleid kabinet politieke standpunten",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.705569
+      },
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6865878
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6834195
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6780144
+      },
+      {
+        "id": "kst-29200-XVI-15",
+        "title": "Vaststelling begroting van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2004; Verslag schriftelijk overleg over de kabinetsreactie op het rapport 'Teruggaan en blijven' van de Stichting Bevordering Maatschappelijke Participatie",
+        "date": "2003-10-22",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29200-XVI-15.html",
+        "similarity_score": 1.6089765
+      },
+      {
+        "id": "kst-27925-97",
+        "title": "Bestrijding internationaal terrorisme; Verslag algemeen overleg van 26 juni 2003 over stand van zaken en kwartaalrapport ISAF",
+        "date": "2003-07-24",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27925-97.html",
+        "similarity_score": 1.604941
+      },
+      {
+        "id": "kst-21501-20-226",
+        "title": "Europese Raad; Brief staatssecretaris met verslag HLWG-bijeenkomst 19 september 2003",
+        "date": "2003-10-21",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-226.html",
+        "similarity_score": 1.5999627
+      },
+      {
+        "id": "kst-28374-19",
+        "title": "Aanslag op de heer W.S.P. Fortuyn; Brief minister n.a.v. een verzoek om een reactie op de uitlatingen van minister Remkes (BZK) over het vonnis van Volkert van der G.",
+        "date": "2003-04-18",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28374-19.html",
+        "similarity_score": 1.5764074
+      },
+      {
+        "id": "kst-24095-127",
+        "title": "Frequentiebeleid; Motie over het schrappen van de voorwaarde dat uitzendingen overdag in de Nederlandse taal moeten geschieden",
+        "date": "2003-02-20",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24095-127.html",
+        "similarity_score": 1.5748223
+      },
+      {
+        "id": "kst-29200-VI-91",
+        "title": "Vaststelling begroting van het Ministerie van Justitie (VI) voor het jaar 2004; Motie m.b.t. het formuleren van concrete doelstellingen ter vermindering van de criminaliteit door allochtone jongeren",
+        "date": "2003-11-03",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29200-VI-91.html",
+        "similarity_score": 1.5715077
+      }
+    ]
+  },
+  {
+    "reference_id": 23,
+    "reference_text": "een motie van mevrouw Halsema en de heer Hoekema",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Ik heb in eerder overleg gezegd dat de fractie van de PvdA destijds heeft geaarzeld of zij haar steun zou verlenen aan een motie van mevrouw Halsema en de heer Hoekema, mede in het licht van het feit dat er een formatie op stapel stond en dat het natuurlijk heel belangrijk zou zijn om afspraken te maken die ook gehonoreerd zouden kunnen worden.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "asielbeleid",
+        "politieke onderhandelingen"
+      ],
+      "summary": "PvdA's hesitation about supporting motion Halsema/Hoekema."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, named motion.",
+    "is_valid": true,
+    "query": "een motie van mevrouw Halsema en de heer Hoekema Ik heb in eerder overleg gezegd dat de fractie van de PvdA destijds heeft geaarzeld of zij haar steun zou verlenen aan een motie van mevrouw Halsema en de heer Hoekema, mede in het licht van het feit dat er een formatie op stapel stond en dat het natuurlijk heel belangrijk zou zijn om afspraken te maken die ook gehonoreerd zouden kunnen worden. motie asielbeleid politieke onderhandelingen",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6639184
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6589246
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6529922
+      }
+    ]
+  },
+  {
+    "reference_id": 24,
+    "reference_text": "de nieuwe Vreemdelingenwet",
+    "reference_type": "impl-local",
+    "document_type": "Overig",
+    "sentence": "Dit is onder de nieuwe Vreemdelingenwet een stuk beter.",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenbeleid",
+        "wetgeving",
+        "asielprocedure"
+      ],
+      "summary": "Verbeteringen under the new Aliens Act."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to the specific, existing new Vreemdelingenwet.",
+    "is_valid": true,
+    "query": "de nieuwe Vreemdelingenwet Dit is onder de nieuwe Vreemdelingenwet een stuk beter. vreemdelingenbeleid wetgeving asielprocedure",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 25,
+    "reference_text": "De moties",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "De moties die de Kamer aanneemt, zijn aan de regering gericht; niet aan de PvdA.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "parlementaire procedure"
+      ],
+      "summary": "Rol van motions in parliamentary process."
+    },
+    "confidence_score": 30,
+    "validation_notes": "Invalid reference - refers to multiple, general motions, not a specific document.",
+    "is_valid": false,
+    "query": "De moties De moties die de Kamer aanneemt, zijn aan de regering gericht; niet aan de PvdA. motie parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.5447541
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5392793
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5160477
+      }
+    ]
+  },
+  {
+    "reference_id": 26,
+    "reference_text": "het Strategisch akkoord",
+    "reference_type": "impl-ext-dossier",
+    "document_type": "Overig",
+    "sentence": "Bij mijn aantreden kreeg ik te maken met het Strategisch akkoord, waarin drie bepalingen staan die het asielbeleid betreffen: er kan geen sprake zijn van een generaal pardon, er kan geen sprake zijn van een specifiek pardon, maar de minister is wel gerechtigd om gebruik te maken van zijn discretionaire bevoegdheid.",
+    "reference_information": {
+      "keywords": [
+        "asielbeleid",
+        "kabinet",
+        "beleidsafspraken",
+        "discretionaire bevoegdheid"
+      ],
+      "summary": "Minister Nawijn over the Strategic Agreement and asylum policy."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, existing formal government agreement.",
+    "is_valid": true,
+    "query": "het Strategisch akkoord Bij mijn aantreden kreeg ik te maken met het Strategisch akkoord, waarin drie bepalingen staan die het asielbeleid betreffen: er kan geen sprake zijn van een generaal pardon, er kan geen sprake zijn van een specifiek pardon, maar de minister is wel gerechtigd om gebruik te maken van zijn discretionaire bevoegdheid. asielbeleid kabinet beleidsafspraken discretionaire bevoegdheid",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 27,
+    "reference_text": "deze wet",
+    "reference_type": "impl-local",
+    "document_type": "Overig",
+    "sentence": "Door een striktere toepassing van deze wet, wordt aan de poort zeer streng gecontroleerd of iemand terecht asiel aanvraagt in Nederland.",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenwet",
+        "asielprocedure",
+        "wetgeving"
+      ],
+      "summary": "Stricter application of the Aliens Act."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to the specific Vreemdelingenwet.",
+    "is_valid": true,
+    "query": "deze wet Door een striktere toepassing van deze wet, wordt aan de poort zeer streng gecontroleerd of iemand terecht asiel aanvraagt in Nederland. vreemdelingenwet asielprocedure wetgeving",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 28,
+    "reference_text": "het regeerakkoord",
+    "reference_type": "impl-ext-dossier",
+    "document_type": "Overig",
+    "sentence": "In het regeerakkoord staat dat ik van mijn discretionaire bevoegdheid gebruik mag maken.",
+    "reference_information": {
+      "keywords": [
+        "regeerakkoord",
+        "discretionaire bevoegdheid",
+        "kabinet"
+      ],
+      "summary": "Minister Nawijn about his discretionary power in the government agreement."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, existing formal government agreement.",
+    "is_valid": true,
+    "query": "het regeerakkoord In het regeerakkoord staat dat ik van mijn discretionaire bevoegdheid gebruik mag maken. regeerakkoord discretionaire bevoegdheid kabinet",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 29,
+    "reference_text": "het Strategisch akkoord",
+    "reference_type": "impl-local",
+    "document_type": "Overig",
+    "sentence": "Ik heb mij tijdens de bespreking met het kabinet exact gehouden aan het Strategisch akkoord.",
+    "reference_information": {
+      "keywords": [
+        "kabinet",
+        "beleidsafspraken",
+        "strategisch akkoord"
+      ],
+      "summary": "Minister Nawijn adhered to the Strategic Agreement during cabinet discussion."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to the specific, existing formal government agreement.",
+    "is_valid": true,
+    "query": "het Strategisch akkoord Ik heb mij tijdens de bespreking met het kabinet exact gehouden aan het Strategisch akkoord. kabinet beleidsafspraken strategisch akkoord",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 30,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "De lijn die wij in het kabinet hebben afgesproken is vastgelegd in de brief die ik naar de Kamer heb gezonden.",
+    "reference_information": {
+      "keywords": [
+        "kabinet",
+        "beleidsafspraken",
+        "ministeriële communicatie"
+      ],
+      "summary": "Kabinetsstandpunt laid down in the letter to the House."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief sent today (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief De lijn die wij in het kabinet hebben afgesproken is vastgelegd in de brief die ik naar de Kamer heb gezonden. kabinet beleidsafspraken ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.649741
+      }
+    ]
+  },
+  {
+    "reference_id": 31,
+    "reference_text": "In de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "In de brief staat precies wat het standpunt van het kabinet is voor het omgaan met de discretionaire bevoegdheid en, nog een andere mogelijkheid, de inherente afwijkingsbevoegdheid.",
+    "reference_information": {
+      "keywords": [
+        "discretionaire bevoegdheid",
+        "inherente afwijkingsbevoegdheid",
+        "kabinet",
+        "beleid"
+      ],
+      "summary": "Brief describes cabinet's position on discretionary and inherent deviation authority."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "In de brief In de brief staat precies wat het standpunt van het kabinet is voor het omgaan met de discretionaire bevoegdheid en, nog een andere mogelijkheid, de inherente afwijkingsbevoegdheid. discretionaire bevoegdheid inherente afwijkingsbevoegdheid kabinet beleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.7650332
+      }
+    ]
+  },
+  {
+    "reference_id": 32,
+    "reference_text": "mijn brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "U kunt in het einde van mijn brief lezen dat ik mij beraad op de invulling van de mogelijkheid die ik nog heb, de inherente afwijkingsbevoegdheid.",
+    "reference_information": {
+      "keywords": [
+        "inherente afwijkingsbevoegdheid",
+        "ministeriële bevoegdheid",
+        "beleid"
+      ],
+      "summary": "Minister reflects on the interpretation of inherent deviation authority."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "mijn brief U kunt in het einde van mijn brief lezen dat ik mij beraad op de invulling van de mogelijkheid die ik nog heb, de inherente afwijkingsbevoegdheid. inherente afwijkingsbevoegdheid ministeriële bevoegdheid beleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.7000746
+      }
+    ]
+  },
+  {
+    "reference_id": 33,
+    "reference_text": "de brief van 4 februari",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Begrijp ik het goed dat wij in feite terug zijn bij de brief van 4 februari die verleden week ter bespreking voorlag?",
+    "reference_information": {
+      "keywords": [
+        "ministeriële communicatie",
+        "beleid"
+      ],
+      "summary": "Return to the content of the letter of February 4."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, dated brief.",
+    "is_valid": true,
+    "query": "de brief van 4 februari Begrijp ik het goed dat wij in feite terug zijn bij de brief van 4 februari die verleden week ter bespreking voorlag? ministeriële communicatie beleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6261637
+      }
+    ]
+  },
+  {
+    "reference_id": 34,
+    "reference_text": "de brief van 4 februari",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Waarom wordt in de brief van 4 februari alleen maar gerept over die inherente afwijkingsbevoegdheid?",
+    "reference_information": {
+      "keywords": [
+        "inherente afwijkingsbevoegdheid",
+        "ministeriële communicatie"
+      ],
+      "summary": "Question about the focus on inherent deviation authority in the letter of February 4."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, dated brief.",
+    "is_valid": true,
+    "query": "de brief van 4 februari Waarom wordt in de brief van 4 februari alleen maar gerept over die inherente afwijkingsbevoegdheid? inherente afwijkingsbevoegdheid ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6873177
+      }
+    ]
+  },
+  {
+    "reference_id": 35,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Alleen, ik zeg niet dat ik geen gebruik zal maken van de discretionaire bevoegdheid of de inherente afwijkingsbevoegdheid. Daar laat de brief ook een opening toe.",
+    "reference_information": {
+      "keywords": [
+        "discretionaire bevoegdheid",
+        "inherente afwijkingsbevoegdheid",
+        "ministeriële communicatie"
+      ],
+      "summary": "Brief allows for the use of discretionary/inherent deviation authority."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief Alleen, ik zeg niet dat ik geen gebruik zal maken van de discretionaire bevoegdheid of de inherente afwijkingsbevoegdheid. Daar laat de brief ook een opening toe. discretionaire bevoegdheid inherente afwijkingsbevoegdheid ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6724122
+      }
+    ]
+  },
+  {
+    "reference_id": 36,
+    "reference_text": "een voorstel van de LPF-fractie",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Let wel, in de media betrof het een voorstel van de LPF-fractie dat de heer Varela heeft ingebracht, respectievelijk het voorstel dat de LPF naar voren heeft gebracht.",
+    "reference_information": {
+      "keywords": [
+        "politieke standpunten",
+        "asielbeleid",
+        "LPF"
+      ],
+      "summary": "Minister Nawijn about the proposal of the LPF faction in the media."
+    },
+    "confidence_score": 80,
+    "validation_notes": "Clear implicit reference to a specific proposal/motion made by the LPF-fractie.",
+    "is_valid": true,
+    "query": "een voorstel van de LPF-fractie Let wel, in de media betrof het een voorstel van de LPF-fractie dat de heer Varela heeft ingebracht, respectievelijk het voorstel dat de LPF naar voren heeft gebracht. politieke standpunten asielbeleid LPF",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6442984
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6224369
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6102251
+      }
+    ]
+  },
+  {
+    "reference_id": 37,
+    "reference_text": "mijn brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Ik zal zeker proberen daarin inhoud te geven in lijn met hetgeen ik in mijn brief heb gezegd.",
+    "reference_information": {
+      "keywords": [
+        "ministeriële communicatie",
+        "beleid"
+      ],
+      "summary": "Minister will act in line with his letter."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "mijn brief Ik zal zeker proberen daarin inhoud te geven in lijn met hetgeen ik in mijn brief heb gezegd. ministeriële communicatie beleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6333994
+      }
+    ]
+  },
+  {
+    "reference_id": 38,
+    "reference_text": "het Vreemdelingenbesluit",
+    "reference_type": "impl-ext-parl-doc",
+    "document_type": "Overig",
+    "sentence": "In het Vreemdelingenbesluit staat dat de minister in bepaalde gevallen kan afwijken van de bestaande beleidsregels.",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenbeleid",
+        "wetgeving",
+        "beleidsregels"
+      ],
+      "summary": "Aliens Decree regulates the minister's discretionary power."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, existing legal decree.",
+    "is_valid": true,
+    "query": "het Vreemdelingenbesluit In het Vreemdelingenbesluit staat dat de minister in bepaalde gevallen kan afwijken van de bestaande beleidsregels. vreemdelingenbeleid wetgeving beleidsregels",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 39,
+    "reference_text": "mijn brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Ik heb de mening van het kabinet over de toepassing van mijn discretionaire bevoegdheid in mijn brief weergegeven.",
+    "reference_information": {
+      "keywords": [
+        "discretionaire bevoegdheid",
+        "kabinet",
+        "ministeriële communicatie"
+      ],
+      "summary": "Minister presents cabinet's opinion on discretionary power in his letter."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "mijn brief Ik heb de mening van het kabinet over de toepassing van mijn discretionaire bevoegdheid in mijn brief weergegeven. discretionaire bevoegdheid kabinet ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.7353393
+      }
+    ]
+  },
+  {
+    "reference_id": 40,
+    "reference_text": "zijn brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Dit wordt bevestigd in zijn brief.",
+    "reference_information": {
+      "keywords": [
+        "discretionaire bevoegdheid",
+        "beleidsregels",
+        "ministeriële communicatie"
+      ],
+      "summary": "Confirmation of possibility of policy rules in letter."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "zijn brief Dit wordt bevestigd in zijn brief. discretionaire bevoegdheid beleidsregels ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.7266508
+      }
+    ]
+  },
+  {
+    "reference_id": 41,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "De lijn die wij in het kabinet hebben afgesproken is vastgelegd in de brief die ik naar de Kamer heb gezonden.",
+    "reference_information": {
+      "keywords": [
+        "kabinet",
+        "beleidsafspraken",
+        "ministeriële communicatie"
+      ],
+      "summary": "Cabinet line laid down in the letter."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief sent today (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief De lijn die wij in het kabinet hebben afgesproken is vastgelegd in de brief die ik naar de Kamer heb gezonden. kabinet beleidsafspraken ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.649741
+      }
+    ]
+  },
+  {
+    "reference_id": 42,
+    "reference_text": "De brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "De brief die er nu ligt, wordt dus volledig door de minister gedragen.",
+    "reference_information": {
+      "keywords": [
+        "ministeriële communicatie",
+        "kabinet"
+      ],
+      "summary": "Minister fully supports the letter."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "De brief De brief die er nu ligt, wordt dus volledig door de minister gedragen. ministeriële communicatie kabinet",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.5604671
+      }
+    ]
+  },
+  {
+    "reference_id": 43,
+    "reference_text": "mijn brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "U kunt in het einde van mijn brief lezen dat ik mij beraad op de invulling van de mogelijkheid die ik nog heb, de inherente afwijkingsbevoegdheid.",
+    "reference_information": {
+      "keywords": [
+        "inherente afwijkingsbevoegdheid",
+        "ministeriële bevoegdheid",
+        "beleid"
+      ],
+      "summary": "Minister reflects on the interpretation of inherent deviation authority."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "mijn brief U kunt in het einde van mijn brief lezen dat ik mij beraad op de invulling van de mogelijkheid die ik nog heb, de inherente afwijkingsbevoegdheid. inherente afwijkingsbevoegdheid ministeriële bevoegdheid beleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.7000746
+      }
+    ]
+  },
+  {
+    "reference_id": 44,
+    "reference_text": "de brief van 4 februari",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Begrijp ik het goed dat wij in feite terug zijn bij de brief van 4 februari die verleden week ter bespreking voorlag?",
+    "reference_information": {
+      "keywords": [
+        "ministeriële communicatie",
+        "beleid"
+      ],
+      "summary": "Return to the content of the letter of February 4."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, dated brief.",
+    "is_valid": true,
+    "query": "de brief van 4 februari Begrijp ik het goed dat wij in feite terug zijn bij de brief van 4 februari die verleden week ter bespreking voorlag? ministeriële communicatie beleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6261637
+      }
+    ]
+  },
+  {
+    "reference_id": 45,
+    "reference_text": "de brief van 4 februari",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Waarom wordt in de brief van 4 februari alleen maar gerept over die inherente afwijkingsbevoegdheid?",
+    "reference_information": {
+      "keywords": [
+        "inherente afwijkingsbevoegdheid",
+        "ministeriële communicatie"
+      ],
+      "summary": "Question about the focus on inherent deviation authority in the letter of February 4."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, dated brief.",
+    "is_valid": true,
+    "query": "de brief van 4 februari Waarom wordt in de brief van 4 februari alleen maar gerept over die inherente afwijkingsbevoegdheid? inherente afwijkingsbevoegdheid ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6873177
+      }
+    ]
+  },
+  {
+    "reference_id": 46,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Alleen, ik zeg niet dat ik geen gebruik zal maken van de discretionaire bevoegdheid of de inherente afwijkingsbevoegdheid. Daar laat de brief ook een opening toe.",
+    "reference_information": {
+      "keywords": [
+        "discretionaire bevoegdheid",
+        "inherente afwijkingsbevoegdheid",
+        "ministeriële communicatie"
+      ],
+      "summary": "Brief allows for the use of discretionary/inherent deviation authority."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief Alleen, ik zeg niet dat ik geen gebruik zal maken van de discretionaire bevoegdheid of de inherente afwijkingsbevoegdheid. Daar laat de brief ook een opening toe. discretionaire bevoegdheid inherente afwijkingsbevoegdheid ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6724122
+      }
+    ]
+  },
+  {
+    "reference_id": 47,
+    "reference_text": "het Strategisch akkoord",
+    "reference_type": "impl-local",
+    "document_type": "Overig",
+    "sentence": "Dit demissionaire kabinet is nog wel politiek gebonden aan het Strategisch akkoord, zeg ik in de richting van mevrouw Vos.",
+    "reference_information": {
+      "keywords": [
+        "kabinet",
+        "beleidsafspraken",
+        "strategisch akkoord"
+      ],
+      "summary": "Cabinet remains bound by the Strategic Agreement."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, existing formal government agreement.",
+    "is_valid": true,
+    "query": "het Strategisch akkoord Dit demissionaire kabinet is nog wel politiek gebonden aan het Strategisch akkoord, zeg ik in de richting van mevrouw Vos. kabinet beleidsafspraken strategisch akkoord",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 48,
+    "reference_text": "een motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik dien een motie in inzake het probleem van de grote groepen mensen die in onzekerheid verkeren en die een oplossing wensen.",
+    "reference_information": {
+      "keywords": [
+        "asielzoekers",
+        "motie",
+        "onzekerheid"
+      ],
+      "summary": "Submission of a motion regarding the problem of large groups of people in uncertainty."
+    },
+    "confidence_score": 20,
+    "validation_notes": "Invalid reference - refers to a future document that has not yet been submitted.",
+    "is_valid": false,
+    "query": "een motie Ik dien een motie in inzake het probleem van de grote groepen mensen die in onzekerheid verkeren en die een oplossing wensen. asielzoekers motie onzekerheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6759043
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6625934
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6475991
+      }
+    ]
+  },
+  {
+    "reference_id": 49,
+    "reference_text": "nr. 721(19637)",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Zij krijgt nr. 721(19637).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "parlementaire documenten"
+      ],
+      "summary": "Numbering of the submitted motion."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit dossier and document number reference for a motion.",
+    "is_valid": true,
+    "found_direct": "721-19637",
+    "query": "Zij krijgt . motie parlementaire documenten",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6286854
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6102735
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5978588
+      }
+    ]
+  },
+  {
+    "reference_id": 50,
+    "reference_text": "een brief van het kabinet",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Vervolgens ontvangt de Kamer een brief van het kabinet waarin staat: \"Gelet op het voorgaande is het kabinet dan ook tot de conclusie gekomen dat in het kader van de onderhavige problematiek geen gebruik kan worden gemaakt van de discretionaire bevoegdheid.\"",
+    "reference_information": {
+      "keywords": [
+        "kabinet",
+        "discretionaire bevoegdheid",
+        "ministeriële communicatie"
+      ],
+      "summary": "Cabinet letter about not using discretionary power."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "een brief van het kabinet Vervolgens ontvangt de Kamer een brief van het kabinet waarin staat: \"Gelet op het voorgaande is het kabinet dan ook tot de conclusie gekomen dat in het kader van de onderhavige problematiek geen gebruik kan worden gemaakt van de discretionaire bevoegdheid.\" kabinet discretionaire bevoegdheid ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.696521
+      }
+    ]
+  },
+  {
+    "reference_id": 51,
+    "reference_text": "de eerdere motie-Halsema/Hoekema",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Daarom heb ik, in navolging van de eerdere motie-Halsema/Hoekema, met mevrouw Van der Laan de volgende motie opgesteld.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "asielbeleid"
+      ],
+      "summary": "Drafting a motion following an earlier motion."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, named motion.",
+    "is_valid": true,
+    "query": "de eerdere motie-Halsema/Hoekema Daarom heb ik, in navolging van de eerdere motie-Halsema/Hoekema, met mevrouw Van der Laan de volgende motie opgesteld. motie asielbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.7069873
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6994648
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6992443
+      }
+    ]
+  },
+  {
+    "reference_id": 52,
+    "reference_text": "nr. 722(19637)",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Zij krijgt nr. 722(19637).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "parlementaire documenten"
+      ],
+      "summary": "Numbering of the submitted motion."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit dossier and document number reference for a motion.",
+    "is_valid": true,
+    "found_direct": "722-19637",
+    "query": "Zij krijgt . motie parlementaire documenten",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6286854
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6102735
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5978588
+      }
+    ]
+  },
+  {
+    "reference_id": 53,
+    "reference_text": "de motie-Vos/Van der Laan",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik denk dat door het voorlezen van de motie-Vos/Van der Laan al duidelijk is hoe ongelukkig wij zijn met de gang van zaken.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "asielbeleid"
+      ],
+      "summary": "Explanation of the motion-Vos/Van der Laan."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "de motie-Vos/Van der Laan Ik denk dat door het voorlezen van de motie-Vos/Van der Laan al duidelijk is hoe ongelukkig wij zijn met de gang van zaken. motie asielbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.7294573
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6954943
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6859487
+      }
+    ]
+  },
+  {
+    "reference_id": 54,
+    "reference_text": "de volgende motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Daarom dien ik de volgende motie in.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "vreemdelingenbeleid"
+      ],
+      "summary": "Submission of a motion."
+    },
+    "confidence_score": 20,
+    "validation_notes": "Invalid reference - refers to a future document that has not yet been submitted.",
+    "is_valid": false,
+    "query": "de volgende motie Daarom dien ik de volgende motie in. motie vreemdelingenbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6873767
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6872604
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6704518
+      }
+    ]
+  },
+  {
+    "reference_id": 55,
+    "reference_text": "nr. 723(19637)",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Zij krijgt nr. 723(19637).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "parlementaire documenten"
+      ],
+      "summary": "Numbering of the submitted motion."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit dossier and document number reference for a motion.",
+    "is_valid": true,
+    "found_direct": "723-19637",
+    "query": "Zij krijgt . motie parlementaire documenten",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6286854
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6102735
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5978588
+      }
+    ]
+  },
+  {
+    "reference_id": 56,
+    "reference_text": "uw motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik begrijp niet goed op welk punt uw motie zo fundamenteel verschilt van de onze dat u zegt de motie-Vos/Van der Laan niet te kunnen steunen.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "politieke standpunten"
+      ],
+      "summary": "Comparison of motions."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "uw motie Ik begrijp niet goed op welk punt uw motie zo fundamenteel verschilt van de onze dat u zegt de motie-Vos/Van der Laan niet te kunnen steunen. motie politieke standpunten",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6044418
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.5787864
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5744104
+      }
+    ]
+  },
+  {
+    "reference_id": 57,
+    "reference_text": "de motie-Vos/Van der Laan",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik begrijp niet goed op welk punt uw motie zo fundamenteel verschilt van de onze dat u zegt de motie-Vos/Van der Laan niet te kunnen steunen.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "politieke standpunten"
+      ],
+      "summary": "Comparison of whether motion-Vos/Van der Laan can be supported."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "de motie-Vos/Van der Laan Ik begrijp niet goed op welk punt uw motie zo fundamenteel verschilt van de onze dat u zegt de motie-Vos/Van der Laan niet te kunnen steunen. motie politieke standpunten",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5915664
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.5596257
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5587399
+      }
+    ]
+  },
+  {
+    "reference_id": 58,
+    "reference_text": "de criteria van mevrouw Van der Laan",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Hoe verhouden zij zich tot de criteria van mevrouw Van der Laan?",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "criteria",
+        "asielbeleid"
+      ],
+      "summary": "Question about the relationship between criteria in motions."
+    },
+    "confidence_score": 70,
+    "validation_notes": "Refers to specific criteria outlined within a named motion, which is part of the document's content.",
+    "is_valid": true,
+    "query": "de criteria van mevrouw Van der Laan Hoe verhouden zij zich tot de criteria van mevrouw Van der Laan? motie criteria asielbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.7568883
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.7457162
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.7348914
+      }
+    ]
+  },
+  {
+    "reference_id": 59,
+    "reference_text": "zijn brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "De minister heeft aangegeven dat hij volmondig achter zijn brief staat en dat er geen sprake is van – zoas de LPF-woordvoerder even suggereerde – een verschil tussen een welwillende minister en een andere minister die deze brief heeft geschreven.",
+    "reference_information": {
+      "keywords": [
+        "ministeriële communicatie",
+        "kabinet",
+        "vreemdelingenbeleid"
+      ],
+      "summary": "Minister supports his letter."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "zijn brief De minister heeft aangegeven dat hij volmondig achter zijn brief staat en dat er geen sprake is van – zoas de LPF-woordvoerder even suggereerde – een verschil tussen een welwillende minister en een andere minister die deze brief heeft geschreven. ministeriële communicatie kabinet vreemdelingenbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6107631
+      }
+    ]
+  },
+  {
+    "reference_id": 60,
+    "reference_text": "De motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "De motie wil uiteindelijk dat naast onder andere de criteria die door de LPF worden aangegeven, het kabinet en de minister met een heldere regel komen.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "criteria",
+        "asielbeleid"
+      ],
+      "summary": "Goal of the motion: clear rule from the cabinet."
+    },
+    "confidence_score": 75,
+    "validation_notes": "Implicit reference to one of the specific motions recently introduced in the debate.",
+    "is_valid": true,
+    "query": "De motie De motie wil uiteindelijk dat naast onder andere de criteria die door de LPF worden aangegeven, het kabinet en de minister met een heldere regel komen. motie criteria asielbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6966349
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6737255
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6709855
+      }
+    ]
+  },
+  {
+    "reference_id": 61,
+    "reference_text": "het Vreemdelingenbesluit",
+    "reference_type": "impl-local",
+    "document_type": "Overig",
+    "sentence": "Ik heb de toelichting op het Vreemdelingenbesluit erop nageslagen.",
+    "reference_information": {
+      "keywords": [
+        "vreemdelingenbeleid",
+        "wetgeving",
+        "juridische interpretatie"
+      ],
+      "summary": "Explanation of the Aliens Decree."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, existing legal decree and its official explanation.",
+    "is_valid": true,
+    "query": "het Vreemdelingenbesluit Ik heb de toelichting op het Vreemdelingenbesluit erop nageslagen. vreemdelingenbeleid wetgeving juridische interpretatie",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 62,
+    "reference_text": "de volgende motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Met het oog op deze twee aspecten hebben wij de volgende motie voorbereid.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "asielbeleid"
+      ],
+      "summary": "Preparation of a motion."
+    },
+    "confidence_score": 20,
+    "validation_notes": "Invalid reference - refers to a future document that has not yet been submitted.",
+    "is_valid": false,
+    "query": "de volgende motie Met het oog op deze twee aspecten hebben wij de volgende motie voorbereid. motie asielbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6617826
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6573175
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6572206
+      }
+    ]
+  },
+  {
+    "reference_id": 63,
+    "reference_text": "nr. 724(19637)",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Zij krijgt nr. 724(19637).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "parlementaire documenten"
+      ],
+      "summary": "Numbering of the submitted motion."
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit dossier and document number reference for a motion.",
+    "is_valid": true,
+    "found_direct": "724-19637",
+    "query": "Zij krijgt . motie parlementaire documenten",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6286854
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6102735
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5978588
+      }
+    ]
+  },
+  {
+    "reference_id": 64,
+    "reference_text": "deze motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Wat voegt deze motie toe aan hetgeen de minister in zijn brief en vandaag in de Kamer heeft gezegd?",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "ministeriële communicatie"
+      ],
+      "summary": "Question about the added value of the motion."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "deze motie Wat voegt deze motie toe aan hetgeen de minister in zijn brief en vandaag in de Kamer heeft gezegd? motie ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6787268
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6210513
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6000589
+      }
+    ]
+  },
+  {
+    "reference_id": 65,
+    "reference_text": "zijn brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Wat voegt deze motie toe aan hetgeen de minister in zijn brief en vandaag in de Kamer heeft gezegd?",
+    "reference_information": {
+      "keywords": [
+        "ministeriële communicatie",
+        "beleid"
+      ],
+      "summary": "Comparison of motion with ministerial brief."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "zijn brief Wat voegt deze motie toe aan hetgeen de minister in zijn brief en vandaag in de Kamer heeft gezegd? ministeriële communicatie beleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6737806
+      }
+    ]
+  },
+  {
+    "reference_id": 66,
+    "reference_text": "deze motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Is deze motie niet volstrekt overbodig?",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "parlementaire procedure"
+      ],
+      "summary": "Question about the necessity of the motion."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "deze motie Is deze motie niet volstrekt overbodig? motie parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6257553
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.608964
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6041113
+      }
+    ]
+  },
+  {
+    "reference_id": 67,
+    "reference_text": "het woordje \"humaan\"",
+    "reference_type": "impl-local",
+    "document_type": null,
+    "sentence": "Welke betekenis geeft u aan het woordje \"humaan\"?",
+    "reference_information": {
+      "keywords": [
+        "humaniteit",
+        "beleidsinterpretatie"
+      ],
+      "summary": "Question about the meaning of 'humane' in the motion."
+    },
+    "confidence_score": 10,
+    "validation_notes": "Invalid reference - refers to a specific word/concept in the discussion, not a document.",
+    "is_valid": false,
+    "query": "het woordje \"humaan\" Welke betekenis geeft u aan het woordje \"humaan\"? humaniteit beleidsinterpretatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.5640569
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5580025
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.5575398
+      },
+      {
+        "id": "kst-28785-3",
+        "title": "Armoedebestrijding: de financiële ondersteuning; Lijst van vragen en antwoorden",
+        "date": "2003-03-10",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28785-3.html",
+        "similarity_score": 1.5518531
+      },
+      {
+        "id": "kst-21501-20-226",
+        "title": "Europese Raad; Brief staatssecretaris met verslag HLWG-bijeenkomst 19 september 2003",
+        "date": "2003-10-21",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-226.html",
+        "similarity_score": 1.5373336
+      },
+      {
+        "id": "kst-24077-123",
+        "title": "Drugbeleid; Brief minister over de voortzetting van de heroïneverstrekking aan zwaar verslaafden",
+        "date": "2003-12-11",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24077-123.html",
+        "similarity_score": 1.5359915
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5356892
+      },
+      {
+        "id": "kst-27223-50",
+        "title": "Arbeidsmarktbeleid etnische minderheden 2000-2003; Motie over registratie van minderheden op de arbeidsmarkt",
+        "date": "2003-12-18",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-27223-50.html",
+        "similarity_score": 1.5288002
+      },
+      {
+        "id": "kst-29200-XVI-15",
+        "title": "Vaststelling begroting van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2004; Verslag schriftelijk overleg over de kabinetsreactie op het rapport 'Teruggaan en blijven' van de Stichting Bevordering Maatschappelijke Participatie",
+        "date": "2003-10-22",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29200-XVI-15.html",
+        "similarity_score": 1.5255866
+      },
+      {
+        "id": "kst-25074-60",
+        "title": "Ministeriële Conferentie van de Wereld Handelsorganisatie (WTO); Lijst van vragen en antwoorden over de brief van de staatssecretaris van Economische Zaken van 4 december 2002 over de onderhandelingen in WTO-kader",
+        "date": "2003-03-25",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-25074-60.html",
+        "similarity_score": 1.5230663
+      }
+    ]
+  },
+  {
+    "reference_id": 68,
+    "reference_text": "haar motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Mevrouw Vroonhoven wil nu dat de minister op grond van haar motie gebruik maakt van zijn discretionaire bevoegdheid om groepen asielzoekers alsnog op een humane manier te behandelen.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "discretionaire bevoegdheid",
+        "asielbeleid"
+      ],
+      "summary": "Interpretation of Vroonhoven's motion."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "haar motie Mevrouw Vroonhoven wil nu dat de minister op grond van haar motie gebruik maakt van zijn discretionaire bevoegdheid om groepen asielzoekers alsnog op een humane manier te behandelen. motie discretionaire bevoegdheid asielbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.7910864
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.735379
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.7257645
+      }
+    ]
+  },
+  {
+    "reference_id": 69,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "Maar in welke mate kan de minister daarvan gebruik maken, als hij dat in feite niet mag op grond van de brief die er nu ligt?",
+    "reference_information": {
+      "keywords": [
+        "ministeriële bevoegdheid",
+        "ministeriële communicatie"
+      ],
+      "summary": "Question about the limitations of the ministerial authority due to the letter."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief Maar in welke mate kan de minister daarvan gebruik maken, als hij dat in feite niet mag op grond van de brief die er nu ligt? ministeriële bevoegdheid ministeriële communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6132058
+      }
+    ]
+  },
+  {
+    "reference_id": 70,
+    "reference_text": "de motie van mevrouw Vroonhoven",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "In de motie van mevrouw Vroonhoven wordt gesproken over de discretionaire bevoegdheid van de minister.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "discretionaire bevoegdheid"
+      ],
+      "summary": "Motion by Vroonhoven on discretionary power."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "de motie van mevrouw Vroonhoven In de motie van mevrouw Vroonhoven wordt gesproken over de discretionaire bevoegdheid van de minister. motie discretionaire bevoegdheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6246755
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5492045
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5393363
+      }
+    ]
+  },
+  {
+    "reference_id": 71,
+    "reference_text": "de brief",
+    "reference_type": "impl-local",
+    "document_type": "Brief",
+    "sentence": "In de brief die hij ons stuurt, schrijft hij juist dat hij geen gebruik kan maken van zijn discretionaire bevoegdheid, maar uitsluitend van de inherente bevoegdheid.",
+    "reference_information": {
+      "keywords": [
+        "ministeriële communicatie",
+        "discretionaire bevoegdheid",
+        "inherente afwijkingsbevoegdheid"
+      ],
+      "summary": "Minister's letter about authorities."
+    },
+    "confidence_score": 85,
+    "validation_notes": "Clear implicit reference to the specific brief being discussed (19637, nr. 720).",
+    "is_valid": true,
+    "query": "de brief In de brief die hij ons stuurt, schrijft hij juist dat hij geen gebruik kan maken van zijn discretionaire bevoegdheid, maar uitsluitend van de inherente bevoegdheid. ministeriële communicatie discretionaire bevoegdheid inherente afwijkingsbevoegdheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6594969
+      }
+    ]
+  },
+  {
+    "reference_id": 72,
+    "reference_text": "haar discretionaire bevoegdheid",
+    "reference_type": "impl-local",
+    "document_type": null,
+    "sentence": "Mevrouw Vroonhoven roept de minister opnieuw op om op humane wijze invulling te geven aan zijn discretionaire bevoegdheid te geven.",
+    "reference_information": {
+      "keywords": [
+        "discretionaire bevoegdheid",
+        "humaniteit",
+        "ministeriële bevoegdheid"
+      ],
+      "summary": "Call for the minister to humanely exercise his discretionary power."
+    },
+    "confidence_score": 10,
+    "validation_notes": "Invalid reference - refers to a general concept/power (discretionary authority), not a specific document.",
+    "is_valid": false,
+    "query": "haar discretionaire bevoegdheid Mevrouw Vroonhoven roept de minister opnieuw op om op humane wijze invulling te geven aan zijn discretionaire bevoegdheid te geven. discretionaire bevoegdheid humaniteit ministeriële bevoegdheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6758616
+      },
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6693661
+      },
+      {
+        "id": "kst-24077-123",
+        "title": "Drugbeleid; Brief minister over de voortzetting van de heroïneverstrekking aan zwaar verslaafden",
+        "date": "2003-12-11",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24077-123.html",
+        "similarity_score": 1.6121871
+      },
+      {
+        "id": "kst-28374-19",
+        "title": "Aanslag op de heer W.S.P. Fortuyn; Brief minister n.a.v. een verzoek om een reactie op de uitlatingen van minister Remkes (BZK) over het vonnis van Volkert van der G.",
+        "date": "2003-04-18",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28374-19.html",
+        "similarity_score": 1.6082349
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6036538
+      },
+      {
+        "id": "kst-20022003-28462-175",
+        "title": "Wijziging Bjj i.v.m. met afdelingen voor intensieve zorg en voor intensieve behandeling in justitiële jeugdinrichtingen; Gewijzigd voorstel van wet",
+        "date": "2003-03-20",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-20022003-28462-175.html",
+        "similarity_score": 1.5886543
+      },
+      {
+        "id": "kst-29218-21",
+        "title": "Wet op de uitgebreide identificatieplicht; Verslag wetgevingsoverleg",
+        "date": "2003-12-11",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29218-21.html",
+        "similarity_score": 1.5818275
+      },
+      {
+        "id": "kst-28995-3",
+        "title": "Wet dualisering gemeentelijke medebewindsbevoegdheden; Memorie van toelichting",
+        "date": "2003-07-25",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28995-3.html",
+        "similarity_score": 1.5792887
+      },
+      {
+        "id": "kst-28808-1",
+        "title": "Implementatiewet EG-kaderrichtlijn water; Voorstel van wet",
+        "date": "2003-03-05",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28808-1.html",
+        "similarity_score": 1.5791229
+      },
+      {
+        "id": "kst-28171-40",
+        "title": "Wijziging Natuurbeschermingswet 1998 i.v.m. Europeesrechtelijke verplichtingen; Amendement met verzoek om parlement op de hoogte te stellen van voorgenomen AMVB's en mogelijkheid tot overleg met minister",
+        "date": "2003-12-08",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28171-40.html",
+        "similarity_score": 1.5789368
+      }
+    ]
+  },
+  {
+    "reference_id": 73,
+    "reference_text": "de CDA-fractie",
+    "reference_type": "impl-ext-dossier",
+    "document_type": null,
+    "sentence": "Ik waardeer de opstelling van de CDA-fractie.",
+    "reference_information": {
+      "keywords": [
+        "politieke standpunten",
+        "CDA"
+      ],
+      "summary": "Appreciation for the CDA faction's stance."
+    },
+    "confidence_score": 10,
+    "validation_notes": "Invalid reference - refers to a political group, not a specific document.",
+    "is_valid": false,
+    "query": "de CDA-fractie Ik waardeer de opstelling van de CDA-fractie. politieke standpunten CDA",
+    "ranked_candidates": [
+      {
+        "id": "kst-20032004-29200-I-A",
+        "title": "Vaststelling begroting van het Huis der Koningin (I) voor het jaar 2004; Eindverslag",
+        "date": "2003-10-21",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-20032004-29200-I-A.html",
+        "similarity_score": 1.4957402
+      },
+      {
+        "id": "kst-24095-127",
+        "title": "Frequentiebeleid; Motie over het schrappen van de voorwaarde dat uitzendingen overdag in de Nederlandse taal moeten geschieden",
+        "date": "2003-02-20",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24095-127.html",
+        "similarity_score": 1.4875405
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.4847844
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.4812875
+      },
+      {
+        "id": "kst-24095-146",
+        "title": "Frequentiebeleid; Gewijzigde motie over kavel A8 voor landelijke commerciële radio-omroep",
+        "date": "2003-06-26",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24095-146.html",
+        "similarity_score": 1.4783348
+      },
+      {
+        "id": "kst-28756-4",
+        "title": "Uitbreiding van de Wet gemeenschappelijke regelingen (Wgr-plus); Brief minister",
+        "date": "2003-12-19",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28756-4.html",
+        "similarity_score": 1.476159
+      },
+      {
+        "id": "kst-29200-VI-91",
+        "title": "Vaststelling begroting van het Ministerie van Justitie (VI) voor het jaar 2004; Motie m.b.t. het formuleren van concrete doelstellingen ter vermindering van de criminaliteit door allochtone jongeren",
+        "date": "2003-11-03",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29200-VI-91.html",
+        "similarity_score": 1.475914
+      },
+      {
+        "id": "kst-28786-1",
+        "title": "Grotestedenbeleid: stand van zaken 2002; Brief Algemene Rekenkamer ter aanbieding van het rapport \"Grotestedenbeleid: stand van zaken 2002\"",
+        "date": "2003-02-11",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28786-1.html",
+        "similarity_score": 1.4704448
+      },
+      {
+        "id": "kst-20032004-29041-B",
+        "title": "Wet toezicht trustkantoren; Verslag",
+        "date": "2003-12-05",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-20032004-29041-B.html",
+        "similarity_score": 1.4684678
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.4659706
+      }
+    ]
+  },
+  {
+    "reference_id": 74,
+    "reference_text": "een bevoegdheid",
+    "reference_type": "impl-local",
+    "document_type": null,
+    "sentence": "Vindt u het niet merkwaardig om de minister op te roepen, gebruik te maken van een bevoegdheid die hij sowieso heeft en daarbij de opmerking te maken dat hij dat op humane wijze moet doen, alsof u het voor mogelijk houdt dat hij dat op inhumane wijze zal doen?",
+    "reference_information": {
+      "keywords": [
+        "ministeriële bevoegdheid",
+        "humaniteit",
+        "parlementaire controle"
+      ],
+      "summary": "Question about the call for the minister to use his authority humanely."
+    },
+    "confidence_score": 10,
+    "validation_notes": "Invalid reference - refers to a general concept/power, not a specific document.",
+    "is_valid": false,
+    "query": "een bevoegdheid Vindt u het niet merkwaardig om de minister op te roepen, gebruik te maken van een bevoegdheid die hij sowieso heeft en daarbij de opmerking te maken dat hij dat op humane wijze moet doen, alsof u het voor mogelijk houdt dat hij dat op inhumane wijze zal doen? ministeriële bevoegdheid humaniteit parlementaire controle",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6350062
+      },
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6092927
+      },
+      {
+        "id": "kst-29218-21",
+        "title": "Wet op de uitgebreide identificatieplicht; Verslag wetgevingsoverleg",
+        "date": "2003-12-11",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29218-21.html",
+        "similarity_score": 1.5992789
+      },
+      {
+        "id": "kst-28374-19",
+        "title": "Aanslag op de heer W.S.P. Fortuyn; Brief minister n.a.v. een verzoek om een reactie op de uitlatingen van minister Remkes (BZK) over het vonnis van Volkert van der G.",
+        "date": "2003-04-18",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28374-19.html",
+        "similarity_score": 1.579212
+      },
+      {
+        "id": "kst-28804-9",
+        "title": "Wijziging Wet medisch-wetenschappelijk onderzoek met mensen ter implementatie EG-richtlijn onderzoek met geneesmiddelen; Amendement over verlenging beoordelingstermijn bezwaren",
+        "date": "2003-11-11",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28804-9.html",
+        "similarity_score": 1.5790987
+      },
+      {
+        "id": "kst-24077-123",
+        "title": "Drugbeleid; Brief minister over de voortzetting van de heroïneverstrekking aan zwaar verslaafden",
+        "date": "2003-12-11",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-24077-123.html",
+        "similarity_score": 1.5772061
+      },
+      {
+        "id": "kst-23432-120",
+        "title": "De situatie in het Midden-Oosten; Verslag algemeen overleg op 25 juni 2003 over de mogelijke Nederlandse bijdrage aan de stabilisatiemacht voor Irak",
+        "date": "2003-07-02",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-23432-120.html",
+        "similarity_score": 1.5753255
+      },
+      {
+        "id": "kst-28995-3",
+        "title": "Wet dualisering gemeentelijke medebewindsbevoegdheden; Memorie van toelichting",
+        "date": "2003-07-25",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28995-3.html",
+        "similarity_score": 1.5748218
+      },
+      {
+        "id": "kst-28600-XI-105",
+        "title": "Vaststelling begroting van het Ministerie van VROM (XI) voor het jaar 2003; Brief minister over de motie-Spies (28600 XI, nr. 77) inzake proefboringen in en onder Nationaal Park de Biesbosch",
+        "date": "2003-04-25",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28600-XI-105.html",
+        "similarity_score": 1.5743535
+      },
+      {
+        "id": "kst-22112-265",
+        "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief staatssecretaris ter aanbieding van acht fiches opgesteld door de Werkgroep Beoordeling Nieuwe Comissievoorstellen",
+        "date": "2003-04-02",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-22112-265.html",
+        "similarity_score": 1.5719982
+      }
+    ]
+  },
+  {
+    "reference_id": 75,
+    "reference_text": "een merkwaardige en in ieder geval overbodige motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Mijn fractie vindt het een merkwaardige en in ieder geval overbodige motie.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "parlementaire procedure"
+      ],
+      "summary": "ChristenUnie finds the motion superfluous."
+    },
+    "confidence_score": 80,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion, despite the descriptive language.",
+    "is_valid": true,
+    "query": "een merkwaardige en in ieder geval overbodige motie Mijn fractie vindt het een merkwaardige en in ieder geval overbodige motie. motie parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6010183
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5643063
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5577859
+      }
+    ]
+  },
+  {
+    "reference_id": 76,
+    "reference_text": "de motie-Vos/Van der Laan",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Daarom heeft mijn fractie besloten geen eigen motie in te dienen, maar te stemmen voor de motie-Vos/Van der Laan.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemgedrag",
+        "asielbeleid"
+      ],
+      "summary": "ChristenUnie supports motion-Vos/Van der Laan."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "de motie-Vos/Van der Laan Daarom heeft mijn fractie besloten geen eigen motie in te dienen, maar te stemmen voor de motie-Vos/Van der Laan. motie stemgedrag asielbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.7228297
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6979347
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6930485
+      }
+    ]
+  },
+  {
+    "reference_id": 77,
+    "reference_text": "de motie van mevrouw Vroonhoven",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik was blij met de uitleg van de motie van mevrouw Vroonhoven.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "parlementair debat"
+      ],
+      "summary": "De Vries pleased with explanation of Vroonhoven's motion."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "de motie van mevrouw Vroonhoven Ik was blij met de uitleg van de motie van mevrouw Vroonhoven. motie parlementair debat",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.5910307
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5591345
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5532618
+      }
+    ]
+  },
+  {
+    "reference_id": 78,
+    "reference_text": "mijn eerste betoog",
+    "reference_type": "impl-local",
+    "document_type": null,
+    "sentence": "Ik begon mijn eerste betoog met de mededeling dat het geven van valse hoop aan een groep mensen in een kwetsbare positie heel schadelijk is voor die mensen.",
+    "reference_information": {
+      "keywords": [
+        "parlementair debat",
+        "communicatie"
+      ],
+      "summary": "Reference to earlier argument about false hope."
+    },
+    "confidence_score": 20,
+    "validation_notes": "Invalid reference - refers to a specific part of the current debate (a speech), not a document.",
+    "is_valid": false,
+    "query": "mijn eerste betoog Ik begon mijn eerste betoog met de mededeling dat het geven van valse hoop aan een groep mensen in een kwetsbare positie heel schadelijk is voor die mensen. parlementair debat communicatie",
+    "ranked_candidates": [
+      {
+        "id": "kst-29200-VI-91",
+        "title": "Vaststelling begroting van het Ministerie van Justitie (VI) voor het jaar 2004; Motie m.b.t. het formuleren van concrete doelstellingen ter vermindering van de criminaliteit door allochtone jongeren",
+        "date": "2003-11-03",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29200-VI-91.html",
+        "similarity_score": 1.6034349
+      },
+      {
+        "id": "kst-29218-21",
+        "title": "Wet op de uitgebreide identificatieplicht; Verslag wetgevingsoverleg",
+        "date": "2003-12-11",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29218-21.html",
+        "similarity_score": 1.5921769
+      },
+      {
+        "id": "kst-20022003-28462-175",
+        "title": "Wijziging Bjj i.v.m. met afdelingen voor intensieve zorg en voor intensieve behandeling in justitiële jeugdinrichtingen; Gewijzigd voorstel van wet",
+        "date": "2003-03-20",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-20022003-28462-175.html",
+        "similarity_score": 1.5891545
+      },
+      {
+        "id": "kst-29374-2",
+        "title": "Debat georganiseerde solidariteit; Motie over de stijging van de lokale lasten voor 2005 en 2006",
+        "date": "2003-12-16",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29374-2.html",
+        "similarity_score": 1.5877625
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.582498
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5809968
+      },
+      {
+        "id": "kst-28762-15",
+        "title": "Wijziging van enkele onderwijswetten i.v.m. verruiming bestedingsvrijheid voor scholen primair en voortg. onderwijs; Motie inzake informatie over opzet, verloop en effecten van pilots lumpsum aan Kamer",
+        "date": "2003-09-10",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28762-15.html",
+        "similarity_score": 1.5739958
+      },
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.5738366
+      },
+      {
+        "id": "kst-20032004-29041-B",
+        "title": "Wet toezicht trustkantoren; Verslag",
+        "date": "2003-12-05",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-20032004-29041-B.html",
+        "similarity_score": 1.571003
+      },
+      {
+        "id": "kst-23432-120",
+        "title": "De situatie in het Midden-Oosten; Verslag algemeen overleg op 25 juni 2003 over de mogelijke Nederlandse bijdrage aan de stabilisatiemacht voor Irak",
+        "date": "2003-07-02",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-23432-120.html",
+        "similarity_score": 1.5689168
+      }
+    ]
+  },
+  {
+    "reference_id": 79,
+    "reference_text": "de motie-Varela",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "U zegt dat u als minister aanvaarding van de motie-Varela moet ontraden.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "ministeriële positie"
+      ],
+      "summary": "Minister advises against accepting motion-Varela."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "de motie-Varela U zegt dat u als minister aanvaarding van de motie-Varela moet ontraden. motie ministeriële positie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6241715
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5812776
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5780317
+      }
+    ]
+  },
+  {
+    "reference_id": 80,
+    "reference_text": "die motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik praat nu als minister. Ik moet aanvaarding van die motie ontraden, gelet op het kabinetsstandpunt.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "kabinet",
+        "ministeriële positie"
+      ],
+      "summary": "Minister advises against accepting motion from cabinet's perspective."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "die motie Ik praat nu als minister. Ik moet aanvaarding van die motie ontraden, gelet op het kabinetsstandpunt. motie kabinet ministeriële positie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6399202
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5945978
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5794002
+      }
+    ]
+  },
+  {
+    "reference_id": 81,
+    "reference_text": "de motie-Vos/Van der Laan",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ook in de motie-Vos/Van der Laan wordt om een specifieke regeling gevraagd.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "specifieke regeling",
+        "asielbeleid"
+      ],
+      "summary": "Motion-Vos/Van der Laan also requests a specific regulation."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "de motie-Vos/Van der Laan Ook in de motie-Vos/Van der Laan wordt om een specifieke regeling gevraagd. motie specifieke regeling asielbeleid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.7380334
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.7208949
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.7138674
+      }
+    ]
+  },
+  {
+    "reference_id": 82,
+    "reference_text": "deze motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ook aanvaarding van deze motie moet ik ontraden.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "ministeriële positie"
+      ],
+      "summary": "Minister advises against accepting this motion as well."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "deze motie Ook aanvaarding van deze motie moet ik ontraden. motie ministeriële positie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6646626
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6147852
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.6002719
+      }
+    ]
+  },
+  {
+    "reference_id": 83,
+    "reference_text": "de motie-Varela",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ten slotte moet ik als minister ook aanvaarding van de motie-Varela ontraden.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "ministeriële positie"
+      ],
+      "summary": "Finally, as minister, I must also advise against accepting the motion-Varela."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "de motie-Varela Ten slotte moet ik als minister ook aanvaarding van de motie-Varela ontraden. motie ministeriële positie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6404241
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.6020392
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5983144
+      }
+    ]
+  },
+  {
+    "reference_id": 84,
+    "reference_text": "de motie-Varela",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "U zegt dat u als minister aanvaarding van de motie-Varela moet ontraden.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "ministeriële positie"
+      ],
+      "summary": "Question about minister's advice against motion-Varela."
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear implicit reference to a specific, newly introduced motion.",
+    "is_valid": true,
+    "query": "de motie-Varela U zegt dat u als minister aanvaarding van de motie-Varela moet ontraden. motie ministeriële positie",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6241715
+      },
+      {
+        "id": "kst-19637-721",
+        "title": "Vreemdelingenbeleid; Motie over een specifieke regeling voor asielzoekers die per 1 maart 2003 vijf jaar of langer in Nederland verblijven",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-721.html",
+        "similarity_score": 1.5812776
+      },
+      {
+        "id": "kst-19637-722",
+        "title": "Vreemdelingenbeleid; Motie over voorstel voor regeling voor het verstrekken van een verblijfsvergunning aan bepaalde asielzoekers die langer dan vijf jaar in Nederland zijn",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-722.html",
+        "similarity_score": 1.5780317
+      }
+    ]
+  },
+  {
+    "reference_id": 85,
+    "reference_text": "deze bepaling in de wet",
+    "reference_type": "impl-local",
+    "document_type": null,
+    "sentence": "Het raakt inderdaad aan de vraag van de heer Van der Staaij of deze bepaling in de wet wel geschikt is om deze problematiek te benaderen.",
+    "reference_information": {
+      "keywords": [
+        "wetgeving",
+        "discretionaire bevoegdheid",
+        "inherente afwijkingsbevoegdheid"
+      ],
+      "summary": "Suitability of legal provision for the problem."
+    },
+    "confidence_score": 70,
+    "validation_notes": "Refers to a specific provision within an existing law.",
+    "is_valid": true,
+    "query": "deze bepaling in de wet Het raakt inderdaad aan de vraag van de heer Van der Staaij of deze bepaling in de wet wel geschikt is om deze problematiek te benaderen. wetgeving discretionaire bevoegdheid inherente afwijkingsbevoegdheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-19637-720",
+        "title": "Vreemdelingenbeleid; Brief minister inzake uitkomst discussie over bevoegdheden minister i.v.m. oplossing langdurig in Nederland verblijvende asielzoekers",
+        "date": "2003-02-18",
+        "type": "Brief",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-720.html",
+        "similarity_score": 1.6988617
+      },
+      {
+        "id": "kst-19637-724",
+        "title": "Vreemdelingenbeleid; Motie over het gebruiken van de inherente afwijkingsbevoegdheid door de minister voor schrijnende gevallen",
+        "date": "2003-02-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-19637-724.html",
+        "similarity_score": 1.6945604
+      },
+      {
+        "id": "kst-28996-1",
+        "title": "Wet buitenspeelruimte; Geleidende brief",
+        "date": "2003-07-24",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28996-1.html",
+        "similarity_score": 1.6313932
+      },
+      {
+        "id": "kst-28374-19",
+        "title": "Aanslag op de heer W.S.P. Fortuyn; Brief minister n.a.v. een verzoek om een reactie op de uitlatingen van minister Remkes (BZK) over het vonnis van Volkert van der G.",
+        "date": "2003-04-18",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28374-19.html",
+        "similarity_score": 1.6133733
+      },
+      {
+        "id": "kst-29316-4",
+        "title": "Wet dualisering provinciale medebewindsbevoegdheden; Advies en nader rapport",
+        "date": "2003-11-28",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29316-4.html",
+        "similarity_score": 1.6093583
+      },
+      {
+        "id": "kst-29218-21",
+        "title": "Wet op de uitgebreide identificatieplicht; Verslag wetgevingsoverleg",
+        "date": "2003-12-11",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29218-21.html",
+        "similarity_score": 1.6078919
+      },
+      {
+        "id": "kst-28171-40",
+        "title": "Wijziging Natuurbeschermingswet 1998 i.v.m. Europeesrechtelijke verplichtingen; Amendement met verzoek om parlement op de hoogte te stellen van voorgenomen AMVB's en mogelijkheid tot overleg met minister",
+        "date": "2003-12-08",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28171-40.html",
+        "similarity_score": 1.6078782
+      },
+      {
+        "id": "kst-28170-18",
+        "title": "Wet gelijke behandeling op grond van leeftijd bij de arbeid; Gewijzigd amendement inzake vervanging van artikel 9 in verband met motiveringsplicht",
+        "date": "2003-09-08",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28170-18.html",
+        "similarity_score": 1.6074938
+      },
+      {
+        "id": "kst-28870-39",
+        "title": "Wet werk en bijstand; Amendement over voorwaarden met betrekking tot o.a. kinderopvang bij de verplichting beschikbaar te zijn voor de arbeidsmarkt van alleenstaande ouders",
+        "date": "2003-08-25",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28870-39.html",
+        "similarity_score": 1.6064358
+      },
+      {
+        "id": "kst-28788-A",
+        "title": "Protocol houdende wijziging van de Eenvormige Beneluxwet inzake tekeningen of modellen; Brussel 20 juni 2002; Advies en nader rapport",
+        "date": "2003-02-12",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28788-A.html",
+        "similarity_score": 1.6063617
+      }
+    ]
+  }
+]

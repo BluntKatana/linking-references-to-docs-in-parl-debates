@@ -1,0 +1,249 @@
+{
+  "validated_references": [
+    {
+      "reference_id": 1,
+      "reference_text": "de stemming over een aangehouden motie",
+      "reference_type": "impl-local",
+      "document_type": "Motie",
+      "sentence": "Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\",",
+      "reference_information": {
+        "keywords": [
+          "stemming",
+          "aangehouden motie",
+          "debat"
+        ],
+        "summary": "Reference to a specific, previously debated motion being put to a vote."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific, previously mentioned motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 2,
+      "reference_text": "de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\"",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Overig",
+      "sentence": "Aan de orde is de stemming over een aangehouden motie, ingediend bij het debat over de initiatiefnota van de leden Ploumen, Van Gerven en Ellemeet: \"Big Farma: niet gezond!\",",
+      "reference_information": {
+        "keywords": [
+          "initiatiefnota",
+          "Ploumen",
+          "Van Gerven",
+          "Ellemeet",
+          "Big Farma",
+          "niet gezond"
+        ],
+        "summary": "Reference to a specific initiative note by named members of parliament."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to a specific initiative note by named members.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 3,
+      "reference_text": "de motie-Van den Berg over onderzoek naar biomarkers",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Motie",
+      "sentence": "te weten: -de motie-Van den Berg over onderzoek naar biomarkers (34834, nr. 9).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Van den Berg",
+          "biomarkers",
+          "onderzoek"
+        ],
+        "summary": "Implicit reference to a specific motion by Van den Berg."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to a specific motion by name.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 4,
+      "reference_text": "34834, nr. 9",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "te weten: -de motie-Van den Berg over onderzoek naar biomarkers (34834, nr. 9).",
+      "reference_information": {
+        "keywords": [
+          "dossier",
+          "documentnummer",
+          "motie"
+        ],
+        "summary": "Explicit numerical reference to a motion."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit numerical reference to a parliamentary document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 5,
+      "reference_text": "notaoverleg van 10 december 2018",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Verslag",
+      "sentence": "(Zie notaoverleg van 10 december 2018.)",
+      "reference_information": {
+        "keywords": [
+          "notaoverleg",
+          "datum",
+          "vergadering"
+        ],
+        "summary": "Reference to a specific parliamentary meeting's minutes/report."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific parliamentary meeting's record.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 6,
+      "reference_text": "De motie-Van den Berg",
+      "reference_type": "impl-local",
+      "document_type": "Motie",
+      "sentence": "De motie-Van den Berg (34834, nr. 9) is in die zin gewijzigd dat zij thans luidt:",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Van den Berg",
+          "gewijzigd"
+        ],
+        "summary": "Implicit reference to the specific motion by Van den Berg, noting its modification."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to the specific motion previously mentioned.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 7,
+      "reference_text": "34834, nr. 9",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "De motie-Van den Berg (34834, nr. 9) is in die zin gewijzigd dat zij thans luidt:",
+      "reference_information": {
+        "keywords": [
+          "dossier",
+          "documentnummer",
+          "motie"
+        ],
+        "summary": "Explicit numerical reference to a motion."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit numerical reference to a parliamentary document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 8,
+      "reference_text": "Motie",
+      "reference_type": "impl-local",
+      "document_type": "Motie",
+      "sentence": "## Motie",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "tekst"
+        ],
+        "summary": "Heading indicating the text of a motion."
+      },
+      "confidence_score": 75,
+      "validation_notes": "Heading clearly indicating the type of document presented immediately after.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 9,
+      "reference_text": "Zij",
+      "reference_type": "impl-local",
+      "document_type": "Motie",
+      "sentence": "Naar mij blijkt, wordt de indiening ervan voldoende ondersteund. Zij krijgt nr. 17, was nr. 9 (34834).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "nummering",
+          "ondersteuning"
+        ],
+        "summary": "Pronoun referring to the motion, indicating its new number."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Pronoun clearly referring to the specific motion just detailed.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 10,
+      "reference_text": "nr. 17, was nr. 9 (34834)",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "Zij krijgt nr. 17, was nr. 9 (34834).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "nummering",
+          "dossier"
+        ],
+        "summary": "Explicit numerical reference to the motion's new and old numbers within its dossier."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit numerical reference to a parliamentary document, including old and new numbers.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 11,
+      "reference_text": "de gewijzigde motie-Van den Berg",
+      "reference_type": "impl-local",
+      "document_type": "Motie",
+      "sentence": "In stemming komt de gewijzigde motie-Van den Berg (34834, nr. 17, was nr. 9).",
+      "reference_information": {
+        "keywords": [
+          "gewijzigde motie",
+          "Van den Berg",
+          "stemming"
+        ],
+        "summary": "Implicit reference to the specific modified motion by Van den Berg."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to the specific modified motion by name.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 12,
+      "reference_text": "34834, nr. 17, was nr. 9",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "In stemming komt de gewijzigde motie-Van den Berg (34834, nr. 17, was nr. 9).",
+      "reference_information": {
+        "keywords": [
+          "dossier",
+          "documentnummer",
+          "motie",
+          "gewijzigd"
+        ],
+        "summary": "Explicit numerical reference to the modified motion, including old and new numbers."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit numerical reference to a parliamentary document, including old and new numbers.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 13,
+      "reference_text": "deze gewijzigde motie",
+      "reference_type": "impl-local",
+      "document_type": "Motie",
+      "sentence": "Ik constateer dat de leden van de fracties van de SP, de PvdA, GroenLinks, de PvdD, DENK, 50PLUS, D66, de VVD, de SGP, het CDA, de ChristenUnie en FvD voor deze gewijzigde motie hebben gestemd en de leden van de fractie van de PVV ertegen, zodat zij is aangenomen.",
+      "reference_information": {
+        "keywords": [
+          "gewijzigde motie",
+          "stemming",
+          "aangenomen"
+        ],
+        "summary": "Implicit reference to the specific modified motion that was just voted on."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to the specific modified motion that was just voted on.",
+      "is_valid": true
+    }
+  ],
+  "summary": {
+    "total_references_processed": 13,
+    "valid_references": 13,
+    "invalid_references": 0,
+    "average_confidence_score_valid": 85.54,
+    "average_confidence_score_invalid": null
+  }
+}

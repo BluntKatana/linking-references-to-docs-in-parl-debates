@@ -1,0 +1,950 @@
+{
+  "validated_references": [
+    {
+      "reference_id": 1,
+      "reference_text": "Rijksoctrooiwet",
+      "reference_type": "impl-ext-dossier",
+      "document_type": "Voorstel van wet",
+      "sentence": "Op verzoek van de staatssecretaris stel ik voor, de stemmingen in verband met de Rijksoctrooiwet een week uit te stellen (punt 15 en 16 van de agenda).",
+      "reference_information": {
+        "keywords": [
+          "Rijksoctrooiwet",
+          "stemmingen",
+          "uitstel"
+        ],
+        "summary": "Postponement of votes related to the Rijksoctrooiwet."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific law/dossier.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 2,
+      "reference_text": "een brief",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Brief",
+      "sentence": "De Kamer heeft daarover een brief ontvangen.",
+      "reference_information": {
+        "keywords": [
+          "brief",
+          "ontvangen",
+          "Rijksoctrooiwet"
+        ],
+        "summary": "Mention of a letter received by the Chamber regarding the Rijksoctrooiwet."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to an existing received brief.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 3,
+      "reference_text": "Wijziging van de Opiumwet",
+      "reference_type": "impl-ext-dossier",
+      "document_type": "Voorstel van wet",
+      "sentence": "Ik stel voor, donderdag a.s. te stemmen over: - Wijziging van de Opiumwet.",
+      "reference_information": {
+        "keywords": [
+          "Opiumwet",
+          "wijziging",
+          "stemmen"
+        ],
+        "summary": "Proposal to vote on the amendment of the Opiumwet."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific legislative proposal/dossier.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 4,
+      "reference_text": "PKB Mainportontwikkeling Rotterdam",
+      "reference_type": "impl-ext-dossier",
+      "document_type": null,
+      "sentence": "Ik stel voor dinsdag a.s. te stemmen over de moties PKB Mainportontwikkeling Rotterdam, te weten:",
+      "reference_information": {
+        "keywords": [
+          "PKB",
+          "Mainportontwikkeling",
+          "Rotterdam",
+          "moties"
+        ],
+        "summary": "Voting on motions related to the PKB Mainport Development Rotterdam."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific policy dossier.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 5,
+      "reference_text": "24691, nr. 35",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "de motie-Feenstra c.s. over de rol van het Rijk (24691, nr. 35);",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Feenstra",
+          "rol Rijk",
+          "24691",
+          "35"
+        ],
+        "summary": "Motion by Feenstra et al. regarding the role of the State."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 6,
+      "reference_text": "24691, nr. 36",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "de motie-Klein Molekamp c.s. over alternatieven van Albrandswaard (24691, nr. 36);",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Klein Molekamp",
+          "alternatieven",
+          "Albrandswaard",
+          "24691",
+          "36"
+        ],
+        "summary": "Motion by Klein Molekamp et al. regarding alternatives for Albrandswaard."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 7,
+      "reference_text": "24691, nr. 44",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "de gewijzigde motie-Buijs c.s. over een schaderegeling voor de visserijsector (24691, nr. 44);",
+      "reference_information": {
+        "keywords": [
+          "gewijzigde motie",
+          "Buijs",
+          "schaderegeling",
+          "visserijsector",
+          "24691",
+          "44"
+        ],
+        "summary": "Amended motion by Buijs et al. regarding compensation for the fishing sector."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 8,
+      "reference_text": "24691, nr. 39",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "de motie-Ravestein c.s. over ontsluiting voor de binnenvaart (24691, nr. 39);",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Ravestein",
+          "ontsluiting",
+          "binnenvaart",
+          "24691",
+          "39"
+        ],
+        "summary": "Motion by Ravestein et al. regarding access for inland shipping."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 9,
+      "reference_text": "24691, nr. 40",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "de motie-Van der Steenhoven/Van Bommel over 750 ha extra natuur (24691, nr. 40);",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Van der Steenhoven",
+          "Van Bommel",
+          "extra natuur",
+          "24691",
+          "40"
+        ],
+        "summary": "Motion by Van der Steenhoven/Van Bommel regarding 750 ha extra nature."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 10,
+      "reference_text": "24691, nr. 41",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "de motie-Van der Steenhoven over gevolgen voor de Noordzeekust en de Waddenzee (24691, nr. 41);",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Van der Steenhoven",
+          "gevolgen",
+          "Noordzeekust",
+          "Waddenzee",
+          "24691",
+          "41"
+        ],
+        "summary": "Motion by Van der Steenhoven regarding consequences for the North Sea coast and Wadden Sea."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 11,
+      "reference_text": "24691, nr. 42",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "de motie-Van Bommel/Van der Steenhoven over samenwerking tussen Antwerpen en Rotterdam (24691, nr. 42);",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Van Bommel",
+          "Van der Steenhoven",
+          "samenwerking",
+          "Antwerpen",
+          "Rotterdam",
+          "24691",
+          "42"
+        ],
+        "summary": "Motion by Van Bommel/Van der Steenhoven regarding cooperation between Antwerp and Rotterdam."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 12,
+      "reference_text": "24691, nr. 43",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "de motie-Klein Molekamp c.s. over de omvang van het zeereservaat (24691, nr. 43).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Klein Molekamp",
+          "omvang",
+          "zeereservaat",
+          "24691",
+          "43"
+        ],
+        "summary": "Motion by Klein Molekamp et al. regarding the size of the marine reserve."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 13,
+      "reference_text": "27482",
+      "reference_type": "explicit-dossier",
+      "document_type": "Voorstel van wet",
+      "sentence": "Op verzoek van de fractie van de VVD stel ik voor, de stemmingen over de wetsvoorstellen Spoorwegwet (27482) en Concessiewet (27216) (punten 3, 4 en 5) uit te stellen tot aanstaande dinsdag.",
+      "reference_information": {
+        "keywords": [
+          "wetsvoorstel",
+          "Spoorwegwet",
+          "stemmingen",
+          "uitstel",
+          "27482"
+        ],
+        "summary": "Postponement of votes on the Spoorwegwet bill."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit dossier reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 14,
+      "reference_text": "27216",
+      "reference_type": "explicit-dossier",
+      "document_type": "Voorstel van wet",
+      "sentence": "Op verzoek van de fractie van de VVD stel ik voor, de stemmingen over de wetsvoorstellen Spoorwegwet (27482) en Concessiewet (27216) (punten 3, 4 en 5) uit te stellen tot aanstaande dinsdag.",
+      "reference_information": {
+        "keywords": [
+          "wetsvoorstel",
+          "Concessiewet",
+          "stemmingen",
+          "uitstel",
+          "27216"
+        ],
+        "summary": "Postponement of votes on the Concessiewet bill."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit dossier reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 15,
+      "reference_text": "27661",
+      "reference_type": "explicit-dossier",
+      "document_type": "Voorstel van wet",
+      "sentence": "Op verzoek van de fractie van de PvdA stel ik voor, de stemmingen over het wetsvoorstel Richtlijn arbeidsovereenkomsten (27661) één week uit te stellen (punt 14 van de agenda).",
+      "reference_information": {
+        "keywords": [
+          "wetsvoorstel",
+          "Richtlijn arbeidsovereenkomsten",
+          "stemmingen",
+          "uitstel",
+          "27661"
+        ],
+        "summary": "Postponement of votes on the Richtlijn arbeidsovereenkomsten bill."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit dossier reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 16,
+      "reference_text": "het verslag van het algemeen overleg inzake orgaandonaties",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Verslag",
+      "sentence": "Ik wil u vragen om het verslag van het algemeen overleg inzake orgaandonaties op de agenda te zetten.",
+      "reference_information": {
+        "keywords": [
+          "verslag",
+          "algemeen overleg",
+          "orgaandonaties",
+          "agenda"
+        ],
+        "summary": "Request to put the report of the general consultation on organ donation on the agenda."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to an existing report of a past consultation.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 17,
+      "reference_text": "wetsontwerpen terzake",
+      "reference_type": "impl-ext-dossier",
+      "document_type": "Voorstel van wet",
+      "sentence": "Verder willen wij haar vragen de Kamer de volle ruimte te geven om het parlementaire debat over wetsontwerpen terzake af te ronden.",
+      "reference_information": {
+        "keywords": [
+          "wetsontwerpen",
+          "privatisering",
+          "Obragas",
+          "parlementair debat"
+        ],
+        "summary": "Request for space to conclude parliamentary debate on related legislative proposals concerning Obragas privatization."
+      },
+      "confidence_score": 75,
+      "validation_notes": "Implicit reference to existing or pending legislative proposals on the matter.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 18,
+      "reference_text": "een reactie van de minister-president",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Brief",
+      "sentence": "Vorige week hebben wij inderdaad een reactie van de minister-president gekregen.",
+      "reference_information": {
+        "keywords": [
+          "reactie",
+          "minister-president",
+          "zegeningen Paars"
+        ],
+        "summary": "Mention of a response received from the Prime Minister."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to an existing received document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 19,
+      "reference_text": "het resultaat van het bedoelde onderzoek",
+      "reference_type": "impl-ext-third-party",
+      "document_type": "Overig",
+      "sentence": "Bovendien is het resultaat van het bedoelde onderzoek te downloaden bij de RVD.",
+      "reference_information": {
+        "keywords": [
+          "onderzoek",
+          "resultaat",
+          "RVD",
+          "zegeningen Paars"
+        ],
+        "summary": "Reference to the results of a government study available for download from the RVD."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to an existing external document/report.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 20,
+      "reference_text": "wetsvoorstel exploitatie zorginstellingen",
+      "reference_type": "impl-ext-dossier",
+      "document_type": "Voorstel van wet",
+      "sentence": "Het wetsvoorstel exploitatie zorginstellingen is aangemeld voor plenaire behandeling, maar wij zijn nog niet in het bezit van de tweede tranche van de vervolguitvoeringstoets van het College bouw ziekenhuisvoorzieningen inzake de spreiding van de ziekenhuiszorg.",
+      "reference_information": {
+        "keywords": [
+          "wetsvoorstel",
+          "exploitatie zorginstellingen",
+          "plenaire behandeling"
+        ],
+        "summary": "Reference to a bill on the exploitation of healthcare institutions."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to an existing bill.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 21,
+      "reference_text": "de tweede tranche van de vervolguitvoeringstoets van het College bouw ziekenhuisvoorzieningen inzake de spreiding van de ziekenhuiszorg",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Verslag",
+      "sentence": "maar wij zijn nog niet in het bezit van de tweede tranche van de vervolguitvoeringstoets van het College bouw ziekenhuisvoorzieningen inzake de spreiding van de ziekenhuiszorg.",
+      "reference_information": {
+        "keywords": [
+          "tweede tranche",
+          "uitvoeringstoets",
+          "College bouw ziekenhuisvoorzieningen",
+          "spreiding ziekenhuiszorg"
+        ],
+        "summary": "Request for the second tranche of the follow-up implementation test regarding hospital care distribution."
+      },
+      "confidence_score": 75,
+      "validation_notes": "Implicit reference to a specific, identifiable document that is expected/requested and likely exists or is near completion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 22,
+      "reference_text": "de eerste tranche van de uitvoeringstoets",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Verslag",
+      "sentence": "Immers, in de eerste tranche van de uitvoeringstoets staat dat verwacht wordt dat in het eerste kwartaal van 2002 de tweede tranche kan worden uitgebracht, en dat blijkt vertraagd te zijn.",
+      "reference_information": {
+        "keywords": [
+          "eerste tranche",
+          "uitvoeringstoets",
+          "verwachting",
+          "vertraging"
+        ],
+        "summary": "Reference to the first tranche of the implementation test, stating expectations for the second tranche."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to an existing document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 23,
+      "reference_text": "dit wetsvoorstel",
+      "reference_type": "impl-local",
+      "document_type": "Voorstel van wet",
+      "sentence": "Inderdaad is in de commissie uitvoerig over dit wetsvoorstel gesproken.",
+      "reference_information": {
+        "keywords": [
+          "wetsvoorstel",
+          "commissie",
+          "plenaire behandeling"
+        ],
+        "summary": "Reference to the previously mentioned bill on exploitation of healthcare institutions."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a previously mentioned document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 24,
+      "reference_text": "de motie die zij in dit verband heeft ingediend",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Motie",
+      "sentence": "Hoe denkt mevrouw Hermann om te gaan met de motie die zij in dit verband heeft ingediend?",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "ingediend",
+          "Hermann"
+        ],
+        "summary": "Inquiry about a motion submitted by Ms. Hermann."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific, existing motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 25,
+      "reference_text": "de motie",
+      "reference_type": "impl-local",
+      "document_type": "Motie",
+      "sentence": "Precies zoals u het nu aangeeft, is het verwoord in het dictum van de motie.",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "dictum"
+        ],
+        "summary": "Reference to the previously mentioned motion by Ms. Hermann."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a previously mentioned document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 26,
+      "reference_text": "het wetsvoorstel",
+      "reference_type": "impl-local",
+      "document_type": "Voorstel van wet",
+      "sentence": "Vervolgens werd door een meerderheid besloten om het wetsvoorstel wél te behandelen.",
+      "reference_information": {
+        "keywords": [
+          "wetsvoorstel",
+          "behandeling",
+          "procedurevergadering"
+        ],
+        "summary": "Reference to the previously mentioned bill on exploitation of healthcare institutions."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a previously mentioned document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 27,
+      "reference_text": "de informatie die mevrouw Hermann wil",
+      "reference_type": "impl-local",
+      "document_type": "Verslag",
+      "sentence": "Wij hebben afgesproken dat de informatie die mevrouw Hermann wil, naar de Kamer wordt gestuurd.",
+      "reference_information": {
+        "keywords": [
+          "informatie",
+          "Hermann",
+          "Kamer",
+          "verzoek"
+        ],
+        "summary": "Reference to the information requested by Ms. Hermann (the second tranche of the implementation test)."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a previously mentioned specific document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 28,
+      "reference_text": "27659",
+      "reference_type": "explicit-dossier",
+      "document_type": "Voorstel van wet",
+      "sentence": "Tot dat moment is het wetsvoorstel 27659 van de agenda afgevoerd.",
+      "reference_information": {
+        "keywords": [
+          "wetsvoorstel",
+          "agenda",
+          "afgevoerd",
+          "27659"
+        ],
+        "summary": "Bill 27659 has been removed from the agenda."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit dossier reference; highly confident.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 29,
+      "reference_text": "een motie",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Motie",
+      "sentence": "In november 2001 heeft de Kamer een motie aanvaard waarin de regering werd gevraagd haar een notitie toe te sturen.",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "aanvaard",
+          "regering",
+          "notitie",
+          "godsdienstvrijheid",
+          "meningsuiting"
+        ],
+        "summary": "Reference to a motion adopted in November 2001 requesting a note from the government."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to a specific, existing motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 30,
+      "reference_text": "een notitie",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Nota",
+      "sentence": "In november 2001 heeft de Kamer een motie aanvaard waarin de regering werd gevraagd haar een notitie toe te sturen.",
+      "reference_information": {
+        "keywords": [
+          "notitie",
+          "regering",
+          "godsdienstvrijheid",
+          "meningsuiting",
+          "homoseksualiteit"
+        ],
+        "summary": "Reference to a note requested from the government regarding freedom of religion and expression."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific, requested document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 31,
+      "reference_text": "de motie",
+      "reference_type": "impl-local",
+      "document_type": "Motie",
+      "sentence": "Het is nu april en de motie is nog niet uitgevoerd.",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "uitvoering"
+        ],
+        "summary": "Reference to the previously mentioned motion."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a previously mentioned document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 32,
+      "reference_text": "de uitspraak van de rechter in de zaak tegen de Rotterdamse imam",
+      "reference_type": "impl-ext-third-party",
+      "document_type": "Overig",
+      "sentence": "Inmiddels hebben wij wel kennisgenomen van de uitspraak van de rechter in de zaak tegen de Rotterdamse imam, waarover deze kwestie gaat.",
+      "reference_information": {
+        "keywords": [
+          "uitspraak",
+          "rechter",
+          "Rotterdamse imam",
+          "jurisprudentie"
+        ],
+        "summary": "Reference to a court ruling in the case against the Rotterdam imam."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific, identifiable external document/event.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 33,
+      "reference_text": "de door de Kamer verlangde notitie",
+      "reference_type": "impl-local",
+      "document_type": "Nota",
+      "sentence": "Ik verzoek de regering om uiterlijk volgende week de door de Kamer verlangde notitie aan haar toe te sturen.",
+      "reference_information": {
+        "keywords": [
+          "notitie",
+          "Kamer",
+          "verzoek",
+          "regering"
+        ],
+        "summary": "Request for the previously mentioned note to be sent by next week."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a previously mentioned document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 34,
+      "reference_text": "de notitie",
+      "reference_type": "impl-local",
+      "document_type": "Nota",
+      "sentence": "De notitie moet niet specifiek over deze zaak gaan, maar meer in het algemeen, en wel binnen de tijdslimiet die de heer Dittrich heeft genoemd.",
+      "reference_information": {
+        "keywords": [
+          "notitie",
+          "algemeen",
+          "tijdslimiet"
+        ],
+        "summary": "Further discussion on the scope and deadline for the requested note."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a previously mentioned document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 35,
+      "reference_text": "schriftelijke vragen",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Vragen",
+      "sentence": "Mijn collega Scheltema en ik hebben schriftelijke vragen gesteld over de opheffing van de kunst- en antiekafdeling bij het Korps landelijke politiediensten.",
+      "reference_information": {
+        "keywords": [
+          "schriftelijke vragen",
+          "politie",
+          "kunst- en antiekafdeling",
+          "Korps landelijke politiediensten"
+        ],
+        "summary": "Reference to written questions submitted regarding the disbandment of the art and antiques department of the national police."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to existing questions.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 36,
+      "reference_text": "het verslag van het algemeen overleg",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Verslag",
+      "sentence": "Namens de fracties van VVD, CDA, GroenLinks en D66 verzoek ik u om het verslag van het algemeen overleg nog deze week op de plenaire agenda te zetten.",
+      "reference_information": {
+        "keywords": [
+          "verslag",
+          "algemeen overleg",
+          "UMTS-veiling",
+          "plenaire agenda"
+        ],
+        "summary": "Request to put the report of the general consultation on the UMTS auction on the plenary agenda this week."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to an existing report of a past consultation.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 37,
+      "reference_text": "NRC-Handelsblad",
+      "reference_type": "impl-ext-third-party",
+      "document_type": "Overig",
+      "sentence": "Afgelopen zaterdag maakte NRC-Handelsblad melding van het voornemen van de ministers Zalm en Hermans om bedrijven te gaan betrekken bij het wegwerken van het lokalentekort in het basisonderwijs en voortgezet onderwijs.",
+      "reference_information": {
+        "keywords": [
+          "NRC-Handelsblad",
+          "melding",
+          "voornemen",
+          "lokalentekort",
+          "onderwijs"
+        ],
+        "summary": "Reference to a report in NRC-Handelsblad about ministers' intentions regarding school building shortages."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a specific external publication.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 38,
+      "reference_text": "de voorjaarsnota",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Nota",
+      "sentence": "Wij ontvangen de toelichting graag voor het weekend, omdat wij aanstaande maandag de feitelijke vragen over de voorjaarsnota moeten indienen.",
+      "reference_information": {
+        "keywords": [
+          "voorjaarsnota",
+          "feitelijke vragen",
+          "behandeling"
+        ],
+        "summary": "Reference to the Spring Memorandum, for which factual questions need to be submitted."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to a specific, existing government document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 39,
+      "reference_text": "een brief",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Brief",
+      "sentence": "Mijn fractie verzoekt de minister van Sociale Zaken en Werkgelegenheid om een brief met daarin een uitleg over het volgende.",
+      "reference_information": {
+        "keywords": [
+          "brief",
+          "verzoek",
+          "minister SZW",
+          "uitleg"
+        ],
+        "summary": "Request for a letter from the Minister of Social Affairs and Employment."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific, requested document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 40,
+      "reference_text": "de brief van de minister-president van Marokko aan onze minister-president",
+      "reference_type": "impl-ext-third-party",
+      "document_type": "Brief",
+      "sentence": "Het gaat over de brief van de minister-president van Marokko aan onze minister-president, waarin de bereidheid is uitgesproken een verdrag af te sluiten met Nederland vóór 1 juli; het betreft het socialezekerheidsverdrag.",
+      "reference_information": {
+        "keywords": [
+          "brief",
+          "minister-president Marokko",
+          "minister-president Nederland",
+          "socialezekerheidsverdrag"
+        ],
+        "summary": "Reference to a letter from the Moroccan Prime Minister to the Dutch Prime Minister regarding a social security treaty."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to a specific, identifiable external document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 41,
+      "reference_text": "het socialezekerheidsverdrag",
+      "reference_type": "impl-ext-dossier",
+      "document_type": "Verdrag",
+      "sentence": "Het gaat over de brief van de minister-president van Marokko aan onze minister-president, waarin de bereidheid is uitgesproken een verdrag af te sluiten met Nederland vóór 1 juli; het betreft het socialezekerheidsverdrag.",
+      "reference_information": {
+        "keywords": [
+          "socialezekerheidsverdrag",
+          "verdrag",
+          "Marokko",
+          "Nederland"
+        ],
+        "summary": "Reference to a social security treaty to be concluded with Morocco."
+      },
+      "confidence_score": 80,
+      "validation_notes": "Clear implicit reference to a specific, identifiable international agreement/dossier.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 42,
+      "reference_text": "het verslag bij het wetsvoorstel",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Verslag",
+      "sentence": "Wij hebben precies dezelfde vraag gesteld in het verslag bij het wetsvoorstel en die vraag is vorige week vrijdag beantwoord.",
+      "reference_information": {
+        "keywords": [
+          "verslag",
+          "wetsvoorstel",
+          "vraag",
+          "beantwoord"
+        ],
+        "summary": "Reference to a question asked and answered in the report accompanying the bill."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to an existing parliamentary document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 43,
+      "reference_text": "een brief",
+      "reference_type": "impl-local",
+      "document_type": "Brief",
+      "sentence": "Ik vraag juist om een brief met het oog op een goed debat morgen.",
+      "reference_information": {
+        "keywords": [
+          "brief",
+          "debat",
+          "toelichting"
+        ],
+        "summary": "Reiteration of the request for a letter to facilitate the debate."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Clear implicit reference to a previously mentioned document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 44,
+      "reference_text": "de nota naar aanleiding van het verslag",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Nota",
+      "sentence": "Ik vraag een nadere toelichting, want de beantwoording in de nota naar aanleiding van het verslag is niet afdoende.",
+      "reference_information": {
+        "keywords": [
+          "nota",
+          "verslag",
+          "beantwoording",
+          "toelichting"
+        ],
+        "summary": "Reference to the note in response to the report, stating its answers are insufficient."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to a specific, existing parliamentary document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 45,
+      "reference_text": "brieven tussen ministers-presidenten",
+      "reference_type": "impl-ext-third-party",
+      "document_type": "Brief",
+      "sentence": "Ik heb datzelfde gevraagd en toen heeft de regering geantwoord dat brieven tussen ministers-presidenten niet naar de Kamer worden gezonden.",
+      "reference_information": {
+        "keywords": [
+          "brieven",
+          "ministers-presidenten",
+          "Kamer"
+        ],
+        "summary": "Reference to the government's stance on not sending letters between prime ministers to the Chamber."
+      },
+      "confidence_score": 75,
+      "validation_notes": "Implicit reference to a general category of existing external documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 46,
+      "reference_text": "een verslag van dit algemeen overleg",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Verslag",
+      "sentence": "Omdat dit na de regeling van werkzaamheden is, wil ik u nu vast vragen om donderdag tijd in te ruimen voor een debat naar aanleiding van een verslag van dit algemeen overleg, zodat er een motie ingediend kan worden over dat onderwerp.",
+      "reference_information": {
+        "keywords": [
+          "verslag",
+          "algemeen overleg",
+          "Midden-Oosten",
+          "debat",
+          "motie"
+        ],
+        "summary": "Request for a debate based on a report of the general consultation on the Middle East, to allow for a motion."
+      },
+      "confidence_score": 70,
+      "validation_notes": "Implicit reference to a report that will be generated from a scheduled AO. This is a standard parliamentary procedure, implying future availability of an existing document type.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 47,
+      "reference_text": "de interpellatie van vorige week",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Interpellatie",
+      "sentence": "Er zijn sinds het vorige overleg hierover, sinds de interpellatie van vorige week, door regeringspartijen dusdanige uitspraken gedaan dat een nadere uitspraak van de Kamer op een aantal onderdelen gewenst is, bijvoorbeeld met betrekking tot diplomatieke stappen of een militair embargo.",
+      "reference_information": {
+        "keywords": [
+          "interpellatie",
+          "vorige week",
+          "Midden-Oosten"
+        ],
+        "summary": "Reference to an interpellation held last week regarding the Middle East."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to a specific, past parliamentary event/document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 48,
+      "reference_text": "de motie of de moties van de heer Van Bommel",
+      "reference_type": "impl-ext-parl-doc",
+      "document_type": "Motie",
+      "sentence": "Ik wilde zeggen dat ik de motie of de moties van de heer Van Bommel nu ongeveer wel kan schrijven; daar gaat het niet om.",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "Van Bommel",
+          "Midden-Oosten"
+        ],
+        "summary": "Reference to anticipated motions by Mr. Van Bommel."
+      },
+      "confidence_score": 20,
+      "validation_notes": "Invalid: Refers to potential documents ('kan schrijven'), not existing ones.",
+      "is_valid": false
+    },
+    {
+      "reference_id": 49,
+      "reference_text": "het rapport van de Algemene Rekenkamer in het kader van de ondernemende samenleving",
+      "reference_type": "impl-ext-third-party",
+      "document_type": "Verslag",
+      "sentence": "Ik wil een VAO aanvragen over het rapport van de Algemene Rekenkamer in het kader van de ondernemende samenleving.",
+      "reference_information": {
+        "keywords": [
+          "rapport",
+          "Algemene Rekenkamer",
+          "ondernemende samenleving",
+          "VAO"
+        ],
+        "summary": "Request for a VAO (Verzamelde Algemene Overleg) on the report from the Court of Audit regarding the entrepreneurial society."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit reference to a specific, existing report from an external body submitted to parliament.",
+      "is_valid": true
+    }
+  ],
+  "summary": {
+    "total_references_processed": 49,
+    "valid_references": 48,
+    "invalid_references": 1,
+    "average_confidence_score_valid": 84.44,
+    "average_confidence_score_invalid": 20.0
+  }
+}
