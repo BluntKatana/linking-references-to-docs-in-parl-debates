@@ -1,8 +1,8 @@
 import elasticsearch
-from config import VECTOR_DB_INDEX
+from config import VECTOR_DB_HOST, VECTOR_DB_INDEX
 from elasticsearch import Elasticsearch
 
-es = Elasticsearch("http://localhost:9200")
+es = Elasticsearch(VECTOR_DB_HOST)
 
 def document_exists(document_id):
     """
@@ -47,7 +47,6 @@ def setup_elasticsearch(dangerously_overwrite_existing_index=False):
     Set up Elasticsearch with the correct index and mappings for vector search.
     """
     # Initialize Elasticsearch client
-    es = Elasticsearch('http://localhost:9200')
     es.ping()
 
     # Delete index if it exists
