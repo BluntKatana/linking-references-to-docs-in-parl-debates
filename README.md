@@ -19,7 +19,7 @@ The project focuses on improving the accessibility of Dutch parliamentary minute
 - [File Structure](#file-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Citation](#citation)
+<!-- - [Citation](#citation) -->
 - [License](#license)
 
 ## File Structure
