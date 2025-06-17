@@ -1,0 +1,742 @@
+{
+  "validated_references": [
+    {
+      "reference_id": 1,
+      "reference_text": "31226",
+      "reference_type": "explicit-dossier",
+      "document_type": "Voorstel van wet",
+      "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+      "reference_information": {
+        "keywords": [
+          "pensioenwet",
+          "pensioenregeling",
+          "sociale zekerheid",
+          "recht"
+        ],
+        "summary": "Wetsvoorstel betreffende wijzigingen in de Pensioenwet en Wet verplichte beroepspensioenregeling."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit dossier reference for a specific legislative proposal.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 2,
+      "reference_text": "31226, nr. 27",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "armoede",
+          "partnertoeslag",
+          "sociale zekerheid",
+          "pensioen"
+        ],
+        "summary": "Motie van Luijben over het voorkomen van armoede na afschaffing partnertoeslag."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference (dossier + document number) for a specific motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 3,
+      "reference_text": "31226, nr. 28",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "pensioenfonds",
+          "nationaal",
+          "pensioen",
+          "sociale zekerheid"
+        ],
+        "summary": "Motie van Luijben over het instellen van een nationaal pensioenfonds."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 4,
+      "reference_text": "31226, nr. 29",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "pensioenvermogens",
+          "juridisch eigendom",
+          "pensioenfondsen",
+          "verzekeraars",
+          "recht",
+          "economie"
+        ],
+        "summary": "Motie van Omtzigt/Hamer over juridisch eigendom van pensioenvermogens."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 5,
+      "reference_text": "31226, nr. 30",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "waardeoverdracht",
+          "pensioenrechten",
+          "sociale zekerheid"
+        ],
+        "summary": "Motie van Omtzigt over oplossing van problematiek waardeoverdracht pensioenrechten."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 6,
+      "reference_text": "stuk nr. 12, I",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het amendement-Blok (stuk nr. 12, I).",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "stemming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Amendement van Blok, stuknummer 12, I, ter stemming."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference (stuknummer + sub-item) for a specific amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 7,
+      "reference_text": "dit amendement",
+      "reference_type": "impl-local",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de verwerping van dit amendement het andere op stuk nr. 12 voorkomende amendement als verworpen kan worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "verwerping",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar het eerder genoemde amendement-Blok (stuk nr. 12, I)."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit local reference to a specific, previously mentioned amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 8,
+      "reference_text": "stuk nr. 12",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de verwerping van dit amendement het andere op stuk nr. 12 voorkomende amendement als verworpen kan worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "verwerping",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar een ander amendement op stuknummer 12."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Explicit reference to a document number, even if it's 'the other' one. The context makes it clear it's a specific document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 9,
+      "reference_text": "stuk nr. 33, I",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het nader gewijzigde amendement-Hamer/Omtzigt (stuk nr. 33, I).",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "wijziging",
+          "stemming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Nader gewijzigd amendement van Hamer/Omtzigt, stuknummer 33, I, ter stemming."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 10,
+      "reference_text": "dit nader gewijzigde amendement",
+      "reference_type": "impl-local",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de aanneming van dit nader gewijzigde amendement het andere op stuk nr. 33 voorkomende nader gewijzigde amendement als aangenomen kan worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar het eerder genoemde nader gewijzigde amendement-Hamer/Omtzigt (stuk nr. 33, I)."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit local reference to a specific, previously mentioned amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 11,
+      "reference_text": "stuk nr. 33",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de aanneming van dit nader gewijzigde amendement het andere op stuk nr. 33 voorkomende nader gewijzigde amendement als aangenomen kan worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar een ander nader gewijzigd amendement op stuknummer 33."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Explicit reference to a document number, even if it's 'the other' one. The context makes it clear it's a specific document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 12,
+      "reference_text": "stuk nr. 20",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het amendement-Luijben (stuk nr. 20).",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "stemming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Amendement van Luijben, stuknummer 20, ter stemming."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 13,
+      "reference_text": "stuk nr. 5",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het amendement-Blok (stuk nr. 5).",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "stemming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Amendement van Blok, stuknummer 5, ter stemming."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 14,
+      "reference_text": "stuk nr. 16, I",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het amendement-Luijben (stuk nr. 16, I).",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "stemming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Amendement van Luijben, stuknummer 16, I, ter stemming."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 15,
+      "reference_text": "dit amendement",
+      "reference_type": "impl-local",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de verwerping van dit amendement de overige op stuk nr. 16 voorkomende amendementen als verworpen kunnen worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "verwerping",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar het eerder genoemde amendement-Luijben (stuk nr. 16, I)."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit local reference to a specific, previously mentioned amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 16,
+      "reference_text": "stuk nr. 16",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de verwerping van dit amendement de overige op stuk nr. 16 voorkomende amendementen als verworpen kunnen worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendementen",
+          "verwerping",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar overige amendementen op stuknummer 16."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Explicit reference to a document number, even if it's 'the other' ones. The context makes it clear it's specific documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 17,
+      "reference_text": "stuk nr. 31, I",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het gewijzigde amendement-Blok (stuk nr. 31, I).",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "wijziging",
+          "stemming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Gewijzigd amendement van Blok, stuknummer 31, I, ter stemming."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 18,
+      "reference_text": "dit gewijzigde amendement",
+      "reference_type": "impl-local",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de verwerping van dit gewijzigde amendement de overige op stuk nr. 31 voorkomende gewijzigde amendementen als verworpen kunnen worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "wijziging",
+          "verwerping",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar het eerder genoemde gewijzigde amendement-Blok (stuk nr. 31, I)."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit local reference to a specific, previously mentioned amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 19,
+      "reference_text": "stuk nr. 31",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de verwerping van dit gewijzigde amendement de overige op stuk nr. 31 voorkomende gewijzigde amendementen als verworpen kunnen worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendementen",
+          "wijziging",
+          "verwerping",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar overige gewijzigde amendementen op stuknummer 31."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Explicit reference to a document number, even if it's 'the other' ones. The context makes it clear it's specific documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 20,
+      "reference_text": "stuk nr. 32, I",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het gewijzigde amendement-Omtzigt/Hamer (stuk nr. 32, I).",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "wijziging",
+          "stemming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Gewijzigd amendement van Omtzigt/Hamer, stuknummer 32, I, ter stemming."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 21,
+      "reference_text": "dit gewijzigde amendement",
+      "reference_type": "impl-local",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de aanneming van dit gewijzigde amendement het andere op stuk nr. 32 voorkomende gewijzigde amendement als aangenomen kan worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "wijziging",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar het eerder genoemde gewijzigde amendement-Omtzigt/Hamer (stuk nr. 32, I)."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit local reference to a specific, previously mentioned amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 22,
+      "reference_text": "stuk nr. 32",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de aanneming van dit gewijzigde amendement het andere op stuk nr. 32 voorkomende gewijzigde amendement als aangenomen kan worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendementen",
+          "wijziging",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar een ander gewijzigd amendement op stuknummer 32."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Explicit reference to a document number, even if it's 'the other' one. The context makes it clear it's a specific document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 23,
+      "reference_text": "stuk nr. 24, I",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het gewijzigde amendement-Omtzigt/Hamer (stuk nr. 24, I).",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "wijziging",
+          "stemming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Gewijzigd amendement van Omtzigt/Hamer, stuknummer 24, I, ter stemming."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 24,
+      "reference_text": "dit gewijzigde amendement",
+      "reference_type": "impl-local",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de aanneming van dit gewijzigde amendement de overige op stuk nr. 24 voorkomende gewijzigde amendementen als aangenomen kunnen worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "wijziging",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar het eerder genoemde gewijzigde amendement-Omtzigt/Hamer (stuk nr. 24, I)."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit local reference to a specific, previously mentioned amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 25,
+      "reference_text": "stuk nr. 24",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de aanneming van dit gewijzigde amendement de overige op stuk nr. 24 voorkomende gewijzigde amendementen als aangenomen kunnen worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendementen",
+          "wijziging",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar overige gewijzigde amendementen op stuknummer 24."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Explicit reference to a document number, even if it's 'the other' ones. The context makes it clear it's specific documents.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 26,
+      "reference_text": "stuk nr. 17, I",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het amendement-Omtzigt/Hamer (stuk nr. 17, I).",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "stemming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Amendement van Omtzigt/Hamer, stuknummer 17, I, ter stemming."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 27,
+      "reference_text": "dit amendement",
+      "reference_type": "impl-local",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de aanneming van dit amendement het andere op stuk nr. 17 voorkomende amendement als aangenomen kan worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendement",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar het eerder genoemde amendement-Omtzigt/Hamer (stuk nr. 17, I)."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit local reference to a specific, previously mentioned amendment.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 28,
+      "reference_text": "stuk nr. 17",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "Ik stel vast dat door de aanneming van dit amendement het andere op stuk nr. 17 voorkomende amendement als aangenomen kan worden beschouwd.",
+      "reference_information": {
+        "keywords": [
+          "amendementen",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Verwijzing naar een ander amendement op stuknummer 17."
+      },
+      "confidence_score": 90,
+      "validation_notes": "Explicit reference to a document number, even if it's 'the other' one. The context makes it clear it's a specific document.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 29,
+      "reference_text": "het wetsvoorstel",
+      "reference_type": "impl-local",
+      "document_type": "Voorstel van wet",
+      "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+      "reference_information": {
+        "keywords": [
+          "wetsvoorstel",
+          "stemming",
+          "wijziging",
+          "pensioenwet",
+          "recht"
+        ],
+        "summary": "Verwijzing naar het eerder genoemde wetsvoorstel (31226) dat ter stemming komt."
+      },
+      "confidence_score": 85,
+      "validation_notes": "Clear implicit local reference to the main legislative proposal.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 30,
+      "reference_text": "stuk nrs. 33, I en II",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+      "reference_information": {
+        "keywords": [
+          "amendementen",
+          "wijziging",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Nader gewijzigde amendementen van Hamer/Omtzigt, stuknummers 33, I en II."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for specific amendments.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 31,
+      "reference_text": "stuk nrs. 32, I en II",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+      "reference_information": {
+        "keywords": [
+          "amendementen",
+          "wijziging",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Gewijzigde amendementen van Omtzigt/Hamer, stuknummers 32, I en II."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for specific amendments.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 32,
+      "reference_text": "stuk nrs. 24, I tot en met VI",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+      "reference_information": {
+        "keywords": [
+          "amendementen",
+          "wijziging",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Gewijzigde amendementen van Omtzigt/Hamer, stuknummers 24, I tot en met VI."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for specific amendments.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 33,
+      "reference_text": "stuk nrs. 17, I en II",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Amendement",
+      "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+      "reference_information": {
+        "keywords": [
+          "amendementen",
+          "wijziging",
+          "aanneming",
+          "procedure",
+          "recht"
+        ],
+        "summary": "Gewijzigde amendementen van Omtzigt/Hamer, stuknummers 17, I en II."
+      },
+      "confidence_score": 95,
+      "validation_notes": "Clear explicit parliamentary document reference for specific amendments.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 34,
+      "reference_text": "31226, nr. 27",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "In stemming komt de motie-Luijben (31226, nr. 27).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "stemming",
+          "procedure",
+          "armoede",
+          "partnertoeslag",
+          "sociale zekerheid"
+        ],
+        "summary": "Motie van Luijben, dossier 31226, nummer 27, ter stemming."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 35,
+      "reference_text": "31226, nr. 28",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "In stemming komt de motie-Luijben (31226, nr. 28).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "stemming",
+          "procedure",
+          "pensioenfonds",
+          "sociale zekerheid"
+        ],
+        "summary": "Motie van Luijben, dossier 31226, nummer 28, ter stemming."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 36,
+      "reference_text": "31226, nr. 29",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "In stemming komt de motie-Omtzigt/Hamer (31226, nr. 29).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "stemming",
+          "procedure",
+          "pensioenvermogens",
+          "eigendom",
+          "recht",
+          "economie"
+        ],
+        "summary": "Motie van Omtzigt/Hamer, dossier 31226, nummer 29, ter stemming."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific motion.",
+      "is_valid": true
+    },
+    {
+      "reference_id": 37,
+      "reference_text": "31226, nr. 30",
+      "reference_type": "explicit-parl-doc",
+      "document_type": "Motie",
+      "sentence": "In stemming komt de motie-Omtzigt (31226, nr. 30).",
+      "reference_information": {
+        "keywords": [
+          "motie",
+          "stemming",
+          "procedure",
+          "waardeoverdracht",
+          "pensioenrechten",
+          "sociale zekerheid"
+        ],
+        "summary": "Motie van Omtzigt, dossier 31226, nummer 30, ter stemming."
+      },
+      "confidence_score": 98,
+      "validation_notes": "Clear explicit parliamentary document reference for a specific motion.",
+      "is_valid": true
+    }
+  ],
+  "summary": {
+    "total_references_processed": 37,
+    "valid_references": 37,
+    "invalid_references": 0,
+    "average_confidence_score_valid": 93.92,
+    "average_confidence_score_invalid": 0
+  }
+}

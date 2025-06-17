@@ -1,0 +1,3874 @@
+[
+  {
+    "reference_id": 1,
+    "reference_text": "31226",
+    "reference_type": "explicit-dossier",
+    "document_type": "Voorstel van wet",
+    "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+    "reference_information": {
+      "keywords": [
+        "pensioenwet",
+        "beroepspensioenregeling",
+        "wetgeving",
+        "sociale zekerheid"
+      ],
+      "summary": "Stemmingen over wetsvoorstel wijzigingen Pensioenwet en beroepspensioenregeling"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit dossier reference with standard 5-digit format, referring to a specific wetsvoorstel.",
+    "is_valid": true,
+    "found_direct": "31226",
+    "query": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (, nr. 30). pensioenwet beroepspensioenregeling wetgeving sociale zekerheid",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 2,
+    "reference_text": "31226, nr. 27",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "armoede",
+        "partnertoeslag",
+        "pensioen",
+        "sociale zekerheid"
+      ],
+      "summary": "Motie over voorkomen van armoede na afschaffen partnertoeslag"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific motion using dossier and document number.",
+    "is_valid": true,
+    "found_direct": "31226-27",
+    "query": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30). motie armoede partnertoeslag pensioen sociale zekerheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-27",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-27.html",
+        "similarity_score": 1.8605555
+      },
+      {
+        "id": "kst-31226-29",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van de leden Omtzigt en Hamer",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-29.html",
+        "similarity_score": 1.8343122
+      },
+      {
+        "id": "kst-31226-28",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-28.html",
+        "similarity_score": 1.8242877
+      },
+      {
+        "id": "kst-31226-30",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Omtzigt",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-30.html",
+        "similarity_score": 1.8148806
+      },
+      {
+        "id": "kst-32477-10",
+        "title": "Wijziging van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 en de Wet verplichte beroepspensioenregeling in verband met wijziging van de markt- en overheidbepalingen; Motie; Motie Vermeij/Koolmees over een evaluatie van de markt- en overheidbepalingen",
+        "date": "2012-03-28",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32477-10.html",
+        "similarity_score": 1.7842169
+      },
+      {
+        "id": "kst-32043-123",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Klaver c.s. over het levensaanpassingsmechanisme",
+        "date": "2012-07-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-123.html",
+        "similarity_score": 1.7781657
+      },
+      {
+        "id": "kst-32043-58",
+        "title": "Toekomst pensioenstelsel; Motie; Motie-Van den Besselaar over zeer risicovol beleggen",
+        "date": "2011-06-29",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-58.html",
+        "similarity_score": 1.7592515
+      },
+      {
+        "id": "kst-32043-77",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Omtzigt over vereenvouding van de Pensioenwet",
+        "date": "2011-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-77.html",
+        "similarity_score": 1.7568121
+      },
+      {
+        "id": "kst-32043-649",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van het lid Van Kent over pensioenfondsen verplichten om deelnemers het al dan niet invaren via een referendum voor te leggen",
+        "date": "2024-05-30",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-649.html",
+        "similarity_score": 1.7498782
+      },
+      {
+        "id": "kst-32043-662",
+        "title": "Toekomst pensioenstelsel; Motie (gewijzigd/nader); Gewijzigde motie van de leden Van Kent en Stultiens over een vroegpensioenregeling mogelijk maken die voor werknemers werkzaam in zware beroepen bruikbaar en passend is (t.v.v. 32043-659)",
+        "date": "2024-10-01",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-662.html",
+        "similarity_score": 1.7463096
+      }
+    ]
+  },
+  {
+    "reference_id": 3,
+    "reference_text": "31226, nr. 28",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "pensioenfonds",
+        "pensioen",
+        "sociale zekerheid"
+      ],
+      "summary": "Motie over instellen van een nationaal pensioenfonds"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific motion using dossier and document number.",
+    "is_valid": true,
+    "found_direct": "31226-28",
+    "query": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30). motie pensioenfonds pensioen sociale zekerheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-27",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-27.html",
+        "similarity_score": 1.8516833
+      },
+      {
+        "id": "kst-31226-29",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van de leden Omtzigt en Hamer",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-29.html",
+        "similarity_score": 1.836143
+      },
+      {
+        "id": "kst-31226-28",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-28.html",
+        "similarity_score": 1.830716
+      },
+      {
+        "id": "kst-31226-30",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Omtzigt",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-30.html",
+        "similarity_score": 1.8155752
+      },
+      {
+        "id": "kst-32043-123",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Klaver c.s. over het levensaanpassingsmechanisme",
+        "date": "2012-07-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-123.html",
+        "similarity_score": 1.7803752
+      },
+      {
+        "id": "kst-32477-10",
+        "title": "Wijziging van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 en de Wet verplichte beroepspensioenregeling in verband met wijziging van de markt- en overheidbepalingen; Motie; Motie Vermeij/Koolmees over een evaluatie van de markt- en overheidbepalingen",
+        "date": "2012-03-28",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32477-10.html",
+        "similarity_score": 1.7758536
+      },
+      {
+        "id": "kst-32043-58",
+        "title": "Toekomst pensioenstelsel; Motie; Motie-Van den Besselaar over zeer risicovol beleggen",
+        "date": "2011-06-29",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-58.html",
+        "similarity_score": 1.7629541
+      },
+      {
+        "id": "kst-32043-77",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Omtzigt over vereenvouding van de Pensioenwet",
+        "date": "2011-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-77.html",
+        "similarity_score": 1.7612283
+      },
+      {
+        "id": "kst-32043-649",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van het lid Van Kent over pensioenfondsen verplichten om deelnemers het al dan niet invaren via een referendum voor te leggen",
+        "date": "2024-05-30",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-649.html",
+        "similarity_score": 1.7604411
+      },
+      {
+        "id": "kst-32043-662",
+        "title": "Toekomst pensioenstelsel; Motie (gewijzigd/nader); Gewijzigde motie van de leden Van Kent en Stultiens over een vroegpensioenregeling mogelijk maken die voor werknemers werkzaam in zware beroepen bruikbaar en passend is (t.v.v. 32043-659)",
+        "date": "2024-10-01",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-662.html",
+        "similarity_score": 1.7464384
+      }
+    ]
+  },
+  {
+    "reference_id": 4,
+    "reference_text": "31226, nr. 29",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "pensioenvermogens",
+        "pensioenfondsen",
+        "verzekeraars",
+        "juridisch eigendom",
+        "recht",
+        "sociale zekerheid"
+      ],
+      "summary": "Motie over juridisch eigendom van pensioenvermogens"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific motion using dossier and document number.",
+    "is_valid": true,
+    "found_direct": "31226-29",
+    "query": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30). motie pensioenvermogens pensioenfondsen verzekeraars juridisch eigendom recht sociale zekerheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-27",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-27.html",
+        "similarity_score": 1.851128
+      },
+      {
+        "id": "kst-31226-29",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van de leden Omtzigt en Hamer",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-29.html",
+        "similarity_score": 1.8413737
+      },
+      {
+        "id": "kst-31226-28",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-28.html",
+        "similarity_score": 1.834556
+      },
+      {
+        "id": "kst-31226-30",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Omtzigt",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-30.html",
+        "similarity_score": 1.8168247
+      },
+      {
+        "id": "kst-32477-10",
+        "title": "Wijziging van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 en de Wet verplichte beroepspensioenregeling in verband met wijziging van de markt- en overheidbepalingen; Motie; Motie Vermeij/Koolmees over een evaluatie van de markt- en overheidbepalingen",
+        "date": "2012-03-28",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32477-10.html",
+        "similarity_score": 1.7852894
+      },
+      {
+        "id": "kst-32043-123",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Klaver c.s. over het levensaanpassingsmechanisme",
+        "date": "2012-07-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-123.html",
+        "similarity_score": 1.7780455
+      },
+      {
+        "id": "kst-32043-58",
+        "title": "Toekomst pensioenstelsel; Motie; Motie-Van den Besselaar over zeer risicovol beleggen",
+        "date": "2011-06-29",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-58.html",
+        "similarity_score": 1.764006
+      },
+      {
+        "id": "kst-32043-649",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van het lid Van Kent over pensioenfondsen verplichten om deelnemers het al dan niet invaren via een referendum voor te leggen",
+        "date": "2024-05-30",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-649.html",
+        "similarity_score": 1.7561197
+      },
+      {
+        "id": "kst-32043-77",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Omtzigt over vereenvouding van de Pensioenwet",
+        "date": "2011-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-77.html",
+        "similarity_score": 1.7548782
+      },
+      {
+        "id": "kst-32043-269",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van de leden Lodders en Vermeij over shoprecht bij het tweede aankoopmoment van de pensioenknip",
+        "date": "2015-09-23",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-269.html",
+        "similarity_score": 1.7468392
+      }
+    ]
+  },
+  {
+    "reference_id": 5,
+    "reference_text": "31226, nr. 30",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (31226, nr. 30).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "waardeoverdracht",
+        "pensioenrechten",
+        "pensioen",
+        "sociale zekerheid"
+      ],
+      "summary": "Motie over oplossing problematiek waardeoverdracht pensioenrechten"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific motion using dossier and document number.",
+    "is_valid": true,
+    "found_direct": "31226-30",
+    "query": "Aan de orde zijn de stemmingen in verband met het wetsvoorstel Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten (31226), en over: - de motie-Luijben over voorstellen om dreigende armoede na het afschaffen van de partnertoeslag te voorkomen (31226, nr. 27); - de motie-Luijben over het instellen van een nationaal pensioenfonds (31226, nr. 28); - de motie-Omtzigt/Hamer over het juridische eigendom van pensioenvermogens bij pensioenfondsen en verzekeraars (31226, nr. 29); - de motie-Omtzigt over oplossing van de problematiek van waardeoverdracht van pensioenrechten (). motie waardeoverdracht pensioenrechten pensioen sociale zekerheid",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-27",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-27.html",
+        "similarity_score": 1.8471714
+      },
+      {
+        "id": "kst-31226-29",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van de leden Omtzigt en Hamer",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-29.html",
+        "similarity_score": 1.8358265
+      },
+      {
+        "id": "kst-31226-28",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-28.html",
+        "similarity_score": 1.8220799
+      },
+      {
+        "id": "kst-31226-30",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Omtzigt",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-30.html",
+        "similarity_score": 1.8164616
+      },
+      {
+        "id": "kst-32043-123",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Klaver c.s. over het levensaanpassingsmechanisme",
+        "date": "2012-07-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-123.html",
+        "similarity_score": 1.7753683
+      },
+      {
+        "id": "kst-32477-10",
+        "title": "Wijziging van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 en de Wet verplichte beroepspensioenregeling in verband met wijziging van de markt- en overheidbepalingen; Motie; Motie Vermeij/Koolmees over een evaluatie van de markt- en overheidbepalingen",
+        "date": "2012-03-28",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32477-10.html",
+        "similarity_score": 1.772668
+      },
+      {
+        "id": "kst-32043-58",
+        "title": "Toekomst pensioenstelsel; Motie; Motie-Van den Besselaar over zeer risicovol beleggen",
+        "date": "2011-06-29",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-58.html",
+        "similarity_score": 1.7559615
+      },
+      {
+        "id": "kst-32043-77",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Omtzigt over vereenvouding van de Pensioenwet",
+        "date": "2011-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-77.html",
+        "similarity_score": 1.7525088
+      },
+      {
+        "id": "kst-32043-649",
+        "title": "Toekomst pensioenstelsel; Motie; Motie van het lid Van Kent over pensioenfondsen verplichten om deelnemers het al dan niet invaren via een referendum voor te leggen",
+        "date": "2024-05-30",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-649.html",
+        "similarity_score": 1.750012
+      },
+      {
+        "id": "kst-32043-662",
+        "title": "Toekomst pensioenstelsel; Motie (gewijzigd/nader); Gewijzigde motie van de leden Van Kent en Stultiens over een vroegpensioenregeling mogelijk maken die voor werknemers werkzaam in zware beroepen bruikbaar en passend is (t.v.v. 32043-659)",
+        "date": "2024-10-01",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-662.html",
+        "similarity_score": 1.7422519
+      }
+    ]
+  },
+  {
+    "reference_id": 6,
+    "reference_text": "vergadering van 11 december 2007",
+    "reference_type": "impl-ext-third-party",
+    "document_type": null,
+    "sentence": "(Zie vergadering van 11 december 2007.)",
+    "reference_information": {
+      "keywords": [
+        "vergadering",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwijzing naar eerdere vergadering"
+    },
+    "confidence_score": 20,
+    "validation_notes": "Invalid reference - refers to an event (a meeting/session) rather than a specific document.",
+    "is_valid": false,
+    "query": "vergadering van 11 december 2007 (Zie vergadering van 11 december 2007.) vergadering parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-28",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-28.html",
+        "similarity_score": 1.6916299
+      },
+      {
+        "id": "kst-31226-30",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Omtzigt",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-30.html",
+        "similarity_score": 1.6885085
+      },
+      {
+        "id": "kst-30800-XIV-121",
+        "title": "Vaststelling begroting ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) voor het jaar 2007; Motie om het Dierentuinbesluit te evalueren, met aandacht voor functie, huisvestingseisen, en fok- en transactiebeleid",
+        "date": "2007-07-05",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-30800-XIV-121.html",
+        "similarity_score": 1.6675296
+      },
+      {
+        "id": "kst-30545-11",
+        "title": "Uitvoering Wet Werk en Bijstand; Motie over aanpassingen in het verdeelmodel WWB",
+        "date": "2006-10-26",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-30545-11.html",
+        "similarity_score": 1.6571916
+      },
+      {
+        "id": "kst-31290-C-1",
+        "title": "Wijziging begroting provinciefonds 2007 (wijziging samenhangende met de Najaarsnota); Voorstel van Wet",
+        "date": "2007-11-28",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31290-C-1.html",
+        "similarity_score": 1.6556423
+      },
+      {
+        "id": "kst-31384-12",
+        "title": "Goedkeuring Verdrag van Lissabon tot wijziging Verdrag EU en Verdrag EG (Trb. 2008, 11); Gewijzigd Amendement van het lid Ten Broeke c.s. ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2008-06-04",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31384-12.html",
+        "similarity_score": 1.6553385
+      },
+      {
+        "id": "kst-30800-C-1",
+        "title": "Vaststelling begroting provinciefonds voor het jaar 2007; Voorstel van wet",
+        "date": "2006-09-19",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-30800-C-1.html",
+        "similarity_score": 1.6548511
+      },
+      {
+        "id": "kst-20072008-31444-XV-A",
+        "title": "Jaarverslag en slotwet ministerie van Sociale Zaken en Werkgelegenheid 2007; Eindverslag van de vaste commissie voor Sociale Zaken en Werkgelegenheid",
+        "date": "2008-09-12",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-20072008-31444-XV-A.html",
+        "similarity_score": 1.653457
+      },
+      {
+        "id": "kst-21501-07-583",
+        "title": "Raad voor Economische en Financiële Zaken; Brief van de Staatssecretaris van Buitenlandse Zaken",
+        "date": "2007-11-16",
+        "type": "Kamerstuk",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-07-583.html",
+        "similarity_score": 1.6512705
+      },
+      {
+        "id": "kst-31226-29",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van de leden Omtzigt en Hamer",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-29.html",
+        "similarity_score": 1.6437902
+      }
+    ]
+  },
+  {
+    "reference_id": 7,
+    "reference_text": "nr. 12, I",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het amendement-Blok (stuk nr. 12, I).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over amendement-Blok"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific amendement using document number and sub-number.",
+    "is_valid": true,
+    "query": "nr. 12, I In stemming komt het amendement-Blok (stuk nr. 12, I). amendement stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.7209364
+      },
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.6785252
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6733357
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.64555
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6347513
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6225572
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6195331
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.5933517
+      }
+    ]
+  },
+  {
+    "reference_id": 8,
+    "reference_text": "dit amendement",
+    "reference_type": "impl-local",
+    "document_type": "Amendement",
+    "sentence": "Ik constateer dat de aanwezige leden van de fracties van D66, de VVD en het lid Verdonk voor dit amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van het amendement"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific amendement.",
+    "is_valid": true,
+    "query": "dit amendement Ik constateer dat de aanwezige leden van de fracties van D66, de VVD en het lid Verdonk voor dit amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen. amendement stemming verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7210728
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6877569
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6803266
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6732993
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6631025
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6601425
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6572967
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6412414
+      }
+    ]
+  },
+  {
+    "reference_id": 9,
+    "reference_text": "nr. 12",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "Ik stel vast dat door de verwerping van dit amendement het andere op stuk nr. 12 voorkomende amendement als verworpen kan worden beschouwd.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van ander amendement op stuk nr. 12"
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear explicit reference to a specific amendement within a known document number.",
+    "is_valid": true,
+    "query": "nr. 12 Ik stel vast dat door de verwerping van dit amendement het andere op stuk nr. 12 voorkomende amendement als verworpen kan worden beschouwd. amendement verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6836814
+      },
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.638584
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6248755
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6189568
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6160434
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6033688
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.584575
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.5702688
+      }
+    ]
+  },
+  {
+    "reference_id": 10,
+    "reference_text": "nr. 33, I",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het nader gewijzigde amendement-Hamer/Omtzigt (stuk nr. 33, I).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over nader gewijzigd amendement-Hamer/Omtzigt"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific amendement using document number and sub-number.",
+    "is_valid": true,
+    "query": "nr. 33, I In stemming komt het nader gewijzigde amendement-Hamer/Omtzigt (stuk nr. 33, I). amendement stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.8005266
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6873916
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6775075
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6754798
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6532872
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6526529
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.652501
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6047665
+      }
+    ]
+  },
+  {
+    "reference_id": 11,
+    "reference_text": "dit nader gewijzigde amendement",
+    "reference_type": "impl-local",
+    "document_type": "Amendement",
+    "sentence": "Ik constateer dat dit nader gewijzigde amendement met algemene stemmen is aangenomen.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van het nader gewijzigde amendement"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific amendement.",
+    "is_valid": true,
+    "query": "dit nader gewijzigde amendement Ik constateer dat dit nader gewijzigde amendement met algemene stemmen is aangenomen. amendement stemming aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7107185
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6816927
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6759704
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6598688
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6485791
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6463455
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6433749
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6348557
+      }
+    ]
+  },
+  {
+    "reference_id": 12,
+    "reference_text": "nr. 33",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "Ik stel vast dat door de aanneming van dit nader gewijzigde amendement het andere op stuk nr. 33 voorkomende nader gewijzigde amendement als aangenomen kan worden beschouwd.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van ander nader gewijzigd amendement op stuk nr. 33"
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear explicit reference to a specific amendement within a known document number.",
+    "is_valid": true,
+    "query": "nr. 33 Ik stel vast dat door de aanneming van dit nader gewijzigde amendement het andere op stuk nr. 33 voorkomende nader gewijzigde amendement als aangenomen kan worden beschouwd. amendement aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7525575
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6617392
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6542606
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6366787
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6334399
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6331329
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6284904
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6131463
+      }
+    ]
+  },
+  {
+    "reference_id": 13,
+    "reference_text": "nr. 20",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het amendement-Luijben (stuk nr. 20).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over amendement-Luijben"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific amendement using document number.",
+    "is_valid": true,
+    "query": "nr. 20 In stemming komt het amendement-Luijben (stuk nr. 20). amendement stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.6583493
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6541333
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6475343
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6469297
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6408159
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6111001
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.5889663
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.5740635
+      }
+    ]
+  },
+  {
+    "reference_id": 14,
+    "reference_text": "dit amendement",
+    "reference_type": "impl-local",
+    "document_type": "Amendement",
+    "sentence": "Ik constateer dat de aanwezige leden van de fracties van de SP en de PvdD voor dit amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van het amendement"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific amendement.",
+    "is_valid": true,
+    "query": "dit amendement Ik constateer dat de aanwezige leden van de fracties van de SP en de PvdD voor dit amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen. amendement stemming verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7221713
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.7120944
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.7062849
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.695023
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6852897
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6743515
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6621219
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6261779
+      }
+    ]
+  },
+  {
+    "reference_id": 15,
+    "reference_text": "nr. 5",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het amendement-Blok (stuk nr. 5).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over amendement-Blok"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific amendement using document number.",
+    "is_valid": true,
+    "query": "nr. 5 In stemming komt het amendement-Blok (stuk nr. 5). amendement stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.6484314
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6383803
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6223772
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6222436
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6206117
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6204501
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.5771816
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.5637534
+      }
+    ]
+  },
+  {
+    "reference_id": 16,
+    "reference_text": "dit amendement",
+    "reference_type": "impl-local",
+    "document_type": "Amendement",
+    "sentence": "Ik constateer dat de aanwezige leden van de fracties van D66, de VVD, de PVV en het lid Verdonk voor dit amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van het amendement"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific amendement.",
+    "is_valid": true,
+    "query": "dit amendement Ik constateer dat de aanwezige leden van de fracties van D66, de VVD, de PVV en het lid Verdonk voor dit amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen. amendement stemming verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7217127
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6942894
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6886102
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6747539
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.665706
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6642772
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6639956
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6426299
+      }
+    ]
+  },
+  {
+    "reference_id": 17,
+    "reference_text": "nr. 16, I",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het amendement-Luijben (stuk nr. 16, I).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over amendement-Luijben"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific amendement using document number and sub-number.",
+    "is_valid": true,
+    "query": "nr. 16, I In stemming komt het amendement-Luijben (stuk nr. 16, I). amendement stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.7051688
+      },
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.6820718
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6493658
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6470335
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6459435
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6214452
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6017672
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.5985305
+      }
+    ]
+  },
+  {
+    "reference_id": 18,
+    "reference_text": "dit amendement",
+    "reference_type": "impl-local",
+    "document_type": "Amendement",
+    "sentence": "Ik constateer dat de aanwezige leden van de fracties van de SP, GroenLinks, D66, de PvdD en de PVV voor dit amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van het amendement"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific amendement.",
+    "is_valid": true,
+    "query": "dit amendement Ik constateer dat de aanwezige leden van de fracties van de SP, GroenLinks, D66, de PvdD en de PVV voor dit amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen. amendement stemming verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.718091
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.7033632
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6961123
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6792792
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6772639
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6619493
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6585325
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6315333
+      }
+    ]
+  },
+  {
+    "reference_id": 19,
+    "reference_text": "nr. 16",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "Ik stel vast dat door de verwerping van dit amendement de overige op stuk nr. 16 voorkomende amendementen als verworpen kunnen worden beschouwd.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van overige amendementen op stuk nr. 16"
+    },
+    "confidence_score": 75,
+    "validation_notes": "Valid reference - refers to a specific set of documents identified by a clear document number, not a vague general collection.",
+    "is_valid": true,
+    "query": "nr. 16 Ik stel vast dat door de verwerping van dit amendement de overige op stuk nr. 16 voorkomende amendementen als verworpen kunnen worden beschouwd. amendement verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.637214
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6335635
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6304313
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6297163
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6045678
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6042488
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6039398
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.5743473
+      }
+    ]
+  },
+  {
+    "reference_id": 20,
+    "reference_text": "nr. 31, I",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het gewijzigde amendement-Blok (stuk nr. 31, I).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over gewijzigd amendement-Blok"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific amendement using document number and sub-number.",
+    "is_valid": true,
+    "query": "nr. 31, I In stemming komt het gewijzigde amendement-Blok (stuk nr. 31, I). amendement stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.7647786
+      },
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7291579
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.7058184
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.7015035
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6590029
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6574936
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.651647
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.642769
+      }
+    ]
+  },
+  {
+    "reference_id": 21,
+    "reference_text": "dit gewijzigde amendement",
+    "reference_type": "impl-local",
+    "document_type": "Amendement",
+    "sentence": "Ik constateer dat de aanwezige leden van de fracties van de SP, GroenLinks, D66, de PvdD, de VVD, de SGP, de PVV en het lid Verdonk voor dit gewijzigde amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van het gewijzigde amendement"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific amendement.",
+    "is_valid": true,
+    "query": "dit gewijzigde amendement Ik constateer dat de aanwezige leden van de fracties van de SP, GroenLinks, D66, de PvdD, de VVD, de SGP, de PVV en het lid Verdonk voor dit gewijzigde amendement hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat het is verworpen. amendement stemming verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7292781
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.7113532
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.7084928
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6827148
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6796826
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6647552
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6629994
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6389377
+      }
+    ]
+  },
+  {
+    "reference_id": 22,
+    "reference_text": "nr. 31",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "Ik stel vast dat door de verwerping van dit gewijzigde amendement de overige op stuk nr. 31 voorkomende gewijzigde amendementen als verworpen kunnen worden beschouwd.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van overige gewijzigde amendementen op stuk nr. 31"
+    },
+    "confidence_score": 75,
+    "validation_notes": "Valid reference - refers to a specific set of documents identified by a clear document number, not a vague general collection.",
+    "is_valid": true,
+    "query": "nr. 31 Ik stel vast dat door de verwerping van dit gewijzigde amendement de overige op stuk nr. 31 voorkomende gewijzigde amendementen als verworpen kunnen worden beschouwd. amendement verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.7094814
+      },
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.6821645
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6710689
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6572638
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6445698
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6384453
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6165671
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6154274
+      }
+    ]
+  },
+  {
+    "reference_id": 23,
+    "reference_text": "nr. 32, I",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het gewijzigde amendement-Omtzigt/Hamer (stuk nr. 32, I).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over gewijzigd amendement-Omtzigt/Hamer"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific amendement using document number and sub-number.",
+    "is_valid": true,
+    "query": "nr. 32, I In stemming komt het gewijzigde amendement-Omtzigt/Hamer (stuk nr. 32, I). amendement stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7694931
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.7066971
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.706026
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.702554
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6970993
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6888187
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6550227
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.632567
+      }
+    ]
+  },
+  {
+    "reference_id": 24,
+    "reference_text": "dit gewijzigde amendement",
+    "reference_type": "impl-local",
+    "document_type": "Amendement",
+    "sentence": "Ik constateer dat dit gewijzigde amendement met algemene stemmen is aangenomen.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van het gewijzigde amendement"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific amendement.",
+    "is_valid": true,
+    "query": "dit gewijzigde amendement Ik constateer dat dit gewijzigde amendement met algemene stemmen is aangenomen. amendement stemming aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7154788
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6909387
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6862009
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6667191
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6596482
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6569482
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6484938
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6459968
+      }
+    ]
+  },
+  {
+    "reference_id": 25,
+    "reference_text": "nr. 32",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "Ik stel vast dat door de aanneming van dit gewijzigde amendement het andere op stuk nr. 32 voorkomende gewijzigde amendement als aangenomen kan worden beschouwd.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van ander gewijzigd amendement op stuk nr. 32"
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear explicit reference to a specific amendement within a known document number.",
+    "is_valid": true,
+    "query": "nr. 32 Ik stel vast dat door de aanneming van dit gewijzigde amendement het andere op stuk nr. 32 voorkomende gewijzigde amendement als aangenomen kan worden beschouwd. amendement aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7272496
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6965361
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6897285
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6807966
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6681256
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6486201
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6377256
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6312827
+      }
+    ]
+  },
+  {
+    "reference_id": 26,
+    "reference_text": "nr. 24, I",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het gewijzigde amendement-Omtzigt/Hamer (stuk nr. 24, I).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over gewijzigd amendement-Omtzigt/Hamer"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific amendement using document number and sub-number.",
+    "is_valid": true,
+    "query": "nr. 24, I In stemming komt het gewijzigde amendement-Omtzigt/Hamer (stuk nr. 24, I). amendement stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7487785
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.7032297
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.7031283
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6794679
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6622242
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6610773
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6567119
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.619673
+      }
+    ]
+  },
+  {
+    "reference_id": 27,
+    "reference_text": "dit amendement",
+    "reference_type": "impl-local",
+    "document_type": "Amendement",
+    "sentence": "Ik constateer dat de aanwezige leden van de fractie van de PvdD tegen dit amendement hebben gestemd en de aanwezige leden van de overige fracties ervoor, zodat het is aangenomen.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van het amendement"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific amendement.",
+    "is_valid": true,
+    "query": "dit amendement Ik constateer dat de aanwezige leden van de fractie van de PvdD tegen dit amendement hebben gestemd en de aanwezige leden van de overige fracties ervoor, zodat het is aangenomen. amendement stemming aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.729804
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.7180779
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.702413
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6903366
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6784772
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6643741
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6609772
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6332512
+      }
+    ]
+  },
+  {
+    "reference_id": 28,
+    "reference_text": "nr. 24",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "Ik stel vast dat door de aanneming van dit gewijzigde amendement de overige op stuk nr. 24 voorkomende gewijzigde amendementen als aangenomen kunnen worden beschouwd.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van overige gewijzigde amendementen op stuk nr. 24"
+    },
+    "confidence_score": 75,
+    "validation_notes": "Valid reference - refers to a specific set of documents identified by a clear document number, not a vague general collection.",
+    "is_valid": true,
+    "query": "nr. 24 Ik stel vast dat door de aanneming van dit gewijzigde amendement de overige op stuk nr. 24 voorkomende gewijzigde amendementen als aangenomen kunnen worden beschouwd. amendement aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.6993502
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6837162
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6622994
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6457021
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6444561
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.638327
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6343256
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6159261
+      }
+    ]
+  },
+  {
+    "reference_id": 29,
+    "reference_text": "nr. 17, I",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het amendement-Omtzigt/Hamer (stuk nr. 17, I).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over amendement-Omtzigt/Hamer"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific amendement using document number and sub-number.",
+    "is_valid": true,
+    "query": "nr. 17, I In stemming komt het amendement-Omtzigt/Hamer (stuk nr. 17, I). amendement stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.740599
+      },
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7184591
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6600741
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6547993
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6457069
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6363738
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6246257
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6129752
+      }
+    ]
+  },
+  {
+    "reference_id": 30,
+    "reference_text": "dit amendement",
+    "reference_type": "impl-local",
+    "document_type": "Amendement",
+    "sentence": "Ik constateer dat dit amendement met algemene stemmen is aangenomen.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "stemming",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van het amendement"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific amendement.",
+    "is_valid": true,
+    "query": "dit amendement Ik constateer dat dit amendement met algemene stemmen is aangenomen. amendement stemming aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.702018
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6870567
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.672881
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6510963
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6492665
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6485362
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6429793
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.637074
+      }
+    ]
+  },
+  {
+    "reference_id": 31,
+    "reference_text": "nr. 17",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "Ik stel vast dat door de aanneming van dit amendement het andere op stuk nr. 17 voorkomende amendement als aangenomen kan worden beschouwd.",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van ander amendement op stuk nr. 17"
+    },
+    "confidence_score": 90,
+    "validation_notes": "Clear explicit reference to a specific amendement within a known document number.",
+    "is_valid": true,
+    "query": "nr. 17 Ik stel vast dat door de aanneming van dit amendement het andere op stuk nr. 17 voorkomende amendement als aangenomen kan worden beschouwd. amendement aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6896372
+      },
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.6707445
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6466254
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6350768
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.635004
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6168001
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6118655
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6063282
+      }
+    ]
+  },
+  {
+    "reference_id": 32,
+    "reference_text": "het wetsvoorstel",
+    "reference_type": "impl-local",
+    "document_type": "Voorstel van wet",
+    "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+    "reference_information": {
+      "keywords": [
+        "wetsvoorstel",
+        "stemming",
+        "wijzigingen",
+        "pensioenwet",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over het gewijzigde wetsvoorstel"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the wetsvoorstel introduced at the beginning of the text.",
+    "is_valid": true,
+    "query": "het wetsvoorstel In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II). wetsvoorstel stemming wijzigingen pensioenwet parlementaire procedure",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 33,
+    "reference_text": "nrs. 33, I en II",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "wijzigingen",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van nader gewijzigde amendementen Hamer/Omtzigt"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to specific amendementen using document numbers and sub-numbers.",
+    "is_valid": true,
+    "query": "nrs. 33, I en II In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II). amendement wijzigingen parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7836561
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6921077
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6800114
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6720176
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6697074
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6686963
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6631993
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.615746
+      }
+    ]
+  },
+  {
+    "reference_id": 34,
+    "reference_text": "nrs. 32, I en II",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "wijzigingen",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van gewijzigde amendementen Omtzigt/Hamer"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to specific amendementen using document numbers and sub-numbers.",
+    "is_valid": true,
+    "query": "nrs. 32, I en II In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II). amendement wijzigingen parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7642043
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6982
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6952146
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6908432
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6880602
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6805499
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6657983
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6298555
+      }
+    ]
+  },
+  {
+    "reference_id": 35,
+    "reference_text": "nrs. 24, I tot en met VI",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "wijzigingen",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van gewijzigde amendementen Omtzigt/Hamer"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to specific amendementen using document numbers and sub-numbers.",
+    "is_valid": true,
+    "query": "nrs. 24, I tot en met VI In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II). amendement wijzigingen parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7419974
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.6970516
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6918684
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.6706662
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6683866
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6634129
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6506443
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6262134
+      }
+    ]
+  },
+  {
+    "reference_id": 36,
+    "reference_text": "nrs. 17, I en II",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Amendement",
+    "sentence": "In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II).",
+    "reference_information": {
+      "keywords": [
+        "amendement",
+        "wijzigingen",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van gewijzigde amendementen Omtzigt/Hamer"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to specific amendementen using document numbers and sub-numbers.",
+    "is_valid": true,
+    "query": "nrs. 17, I en II In stemming komt het wetsvoorstel, zoals op onderdelen gewijzigd door de aanneming van de nader gewijzigde amendementen-Hamer/Omtzigt (stuk nrs. 33, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 32, I en II), de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 24, I tot en met VI) en de gewijzigde amendementen-Omtzigt/Hamer (stuk nrs. 17, I en II). amendement wijzigingen parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-31226-33",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Nader Gewijzgd Amendement van de leden Hamer en Omtzigt ter vervanging van Dat gedrukt onder nr. 22",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-33.html",
+        "similarity_score": 1.7327331
+      },
+      {
+        "id": "kst-31226-17",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van de leden Omtzigt en Hamer",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-17.html",
+        "similarity_score": 1.7242743
+      },
+      {
+        "id": "kst-31226-12",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-11-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-12.html",
+        "similarity_score": 1.669604
+      },
+      {
+        "id": "kst-31226-31",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van het lid Blok ter vervanging van Dat gedrukt onder nr. 9",
+        "date": "2007-12-12",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-31.html",
+        "similarity_score": 1.6613331
+      },
+      {
+        "id": "kst-31226-16",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Luijben",
+        "date": "2007-11-29",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-16.html",
+        "similarity_score": 1.6546081
+      },
+      {
+        "id": "kst-31226-24",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 18",
+        "date": "2007-12-11",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-24.html",
+        "similarity_score": 1.6502944
+      },
+      {
+        "id": "kst-31226-32",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Gewijzigd Amendement van de leden Omtzigt en Hamer ter vervanging van Dat gedrukt onder nr. 26",
+        "date": "2007-12-13",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-32.html",
+        "similarity_score": 1.6465946
+      },
+      {
+        "id": "kst-31226-5",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Amendement van het lid Blok",
+        "date": "2007-10-17",
+        "type": "Amendement",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-5.html",
+        "similarity_score": 1.6098896
+      }
+    ]
+  },
+  {
+    "reference_id": 37,
+    "reference_text": "dit wetsvoorstel",
+    "reference_type": "impl-local",
+    "document_type": "Voorstel van wet",
+    "sentence": "Ik constateer dat dit wetsvoorstel met algemene stemmen is aangenomen.",
+    "reference_information": {
+      "keywords": [
+        "wetsvoorstel",
+        "stemming",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van het wetsvoorstel"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the wetsvoorstel just mentioned and discussed.",
+    "is_valid": true,
+    "query": "dit wetsvoorstel Ik constateer dat dit wetsvoorstel met algemene stemmen is aangenomen. wetsvoorstel stemming aanneming parlementaire procedure",
+    "ranked_candidates": []
+  },
+  {
+    "reference_id": 38,
+    "reference_text": "31226, nr. 27",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "In stemming komt de motie-Luijben (31226, nr. 27).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over motie-Luijben"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific motion using dossier and document number.",
+    "is_valid": true,
+    "found_direct": "31226-27",
+    "query": "In stemming komt de motie-Luijben (). motie stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-34270-12",
+        "title": "Uitvoering Wet raadgevend referendum; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in de minister-president",
+        "date": "2016-04-13",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34270-12.html",
+        "similarity_score": 1.6802888
+      },
+      {
+        "id": "kst-32123-A-123",
+        "title": "Vaststelling van de begrotingsstaat van het Infrastructuurfonds voor het jaar 2010; Motie; Motie Sharpe over prioriteit geven aan de file top 50",
+        "date": "2010-06-23",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-A-123.html",
+        "similarity_score": 1.6739515
+      },
+      {
+        "id": "kst-28385-170",
+        "title": "Evaluatie Meststoffenwet; Motie; Motie Ouwehand over invoering van een provinciale compartimentering van dierrechten",
+        "date": "2010-04-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28385-170.html",
+        "similarity_score": 1.671996
+      },
+      {
+        "id": "kst-21501-02-1337",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken ; Motie; Motie van het lid Klaver over het ter goedkeuring voorleggen aan het parlement van het TTIP-verdrag",
+        "date": "2014-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-1337.html",
+        "similarity_score": 1.6637118
+      },
+      {
+        "id": "kst-21501-02-2760",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van de leden Sylvana Simons en Van Baarle over uitspreken de nederzettingenpolitiek te veroordelen",
+        "date": "2023-10-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-2760.html",
+        "similarity_score": 1.6626173
+      },
+      {
+        "id": "kst-29817-115",
+        "title": "Sociale werkvoorziening; Motie; Motie van de leden Schouten en Karabulut over het begrip \"loonwaarde\"",
+        "date": "2013-02-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29817-115.html",
+        "similarity_score": 1.6620371
+      },
+      {
+        "id": "kst-21501-20-892",
+        "title": "Europese Raad; Motie; Motie van het lid Beertema over tot inzet maken van terughalen van bevoegdheden in plaats van overdragen van bevoegdheden",
+        "date": "2014-06-25",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-892.html",
+        "similarity_score": 1.6617084
+      },
+      {
+        "id": "kst-32123-I-6",
+        "title": "Vaststelling van de begrotingsstaat behorende bij de begroting van de Koning (I) voor het jaar 2010; Motie met verzoek om een visiestuk over de toekomst van de monarchie",
+        "date": "2009-10-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-I-6.html",
+        "similarity_score": 1.6615617
+      },
+      {
+        "id": "kst-28982-107",
+        "title": "Liberalisering energiemarkten ; Motie; Motie Graus en De Mos over afzien van het voornemen tot opslag van CO2 in Nederland",
+        "date": "2010-04-21",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28982-107.html",
+        "similarity_score": 1.66134
+      },
+      {
+        "id": "kst-31226-28",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-28.html",
+        "similarity_score": 1.6612513
+      }
+    ]
+  },
+  {
+    "reference_id": 39,
+    "reference_text": "deze motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik constateer dat de aanwezige leden van de fracties van de SP, GroenLinks en de PvdD voor deze motie hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat zij is verworpen.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemming",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van de motie"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific motion.",
+    "is_valid": true,
+    "query": "deze motie Ik constateer dat de aanwezige leden van de fracties van de SP, GroenLinks en de PvdD voor deze motie hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat zij is verworpen. motie stemming verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-29279-261",
+        "title": "Rechtsstaat en Rechtsorde; Motie; Motie van het lid Kuzu over onderzoeken of de standpunten van PVV en SGP strijdig zijn met de rechtsstaat",
+        "date": "2015-07-02",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29279-261.html",
+        "similarity_score": 1.6900997
+      },
+      {
+        "id": "kst-21501-02-1337",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken ; Motie; Motie van het lid Klaver over het ter goedkeuring voorleggen aan het parlement van het TTIP-verdrag",
+        "date": "2014-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-1337.html",
+        "similarity_score": 1.6832235
+      },
+      {
+        "id": "kst-21501-20-823",
+        "title": "Europese Raad; Motie; Motie van het lid Omtzigt over niet instemmen met bindende lidstaatcontracten",
+        "date": "2013-12-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-823.html",
+        "similarity_score": 1.6714598
+      },
+      {
+        "id": "kst-21501-20-578",
+        "title": "Europese Raad; Motie; Motie Irrgang",
+        "date": "2011-11-01",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-578.html",
+        "similarity_score": 1.669874
+      },
+      {
+        "id": "kst-34270-12",
+        "title": "Uitvoering Wet raadgevend referendum; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in de minister-president",
+        "date": "2016-04-13",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34270-12.html",
+        "similarity_score": 1.6695415
+      },
+      {
+        "id": "kst-32615-14",
+        "title": "Toekomst Publiekrechtelijke bedrijfsorganisatie (PBO); Motie; Motie Verhoeven c.s. over niet opleggen van een verplichte heffing in 2014",
+        "date": "2013-07-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32615-14.html",
+        "similarity_score": 1.6681098
+      },
+      {
+        "id": "kst-21501-02-2760",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van de leden Sylvana Simons en Van Baarle over uitspreken de nederzettingenpolitiek te veroordelen",
+        "date": "2023-10-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-2760.html",
+        "similarity_score": 1.665399
+      },
+      {
+        "id": "kst-32043-77",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Omtzigt over vereenvouding van de Pensioenwet",
+        "date": "2011-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-77.html",
+        "similarity_score": 1.6648874
+      },
+      {
+        "id": "kst-28385-170",
+        "title": "Evaluatie Meststoffenwet; Motie; Motie Ouwehand over invoering van een provinciale compartimentering van dierrechten",
+        "date": "2010-04-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28385-170.html",
+        "similarity_score": 1.6633044
+      },
+      {
+        "id": "kst-29279-134",
+        "title": "Rechtsstaat en Rechtsorde; Motie; Motie van het lid Helder over niet toepassen van de sharia in Nederland",
+        "date": "2012-02-15",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29279-134.html",
+        "similarity_score": 1.6609204
+      }
+    ]
+  },
+  {
+    "reference_id": 40,
+    "reference_text": "31226, nr. 28",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "In stemming komt de motie-Luijben (31226, nr. 28).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over motie-Luijben"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific motion using dossier and document number.",
+    "is_valid": true,
+    "found_direct": "31226-28",
+    "query": "In stemming komt de motie-Luijben (). motie stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-34270-12",
+        "title": "Uitvoering Wet raadgevend referendum; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in de minister-president",
+        "date": "2016-04-13",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34270-12.html",
+        "similarity_score": 1.6802888
+      },
+      {
+        "id": "kst-32123-A-123",
+        "title": "Vaststelling van de begrotingsstaat van het Infrastructuurfonds voor het jaar 2010; Motie; Motie Sharpe over prioriteit geven aan de file top 50",
+        "date": "2010-06-23",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-A-123.html",
+        "similarity_score": 1.6739515
+      },
+      {
+        "id": "kst-28385-170",
+        "title": "Evaluatie Meststoffenwet; Motie; Motie Ouwehand over invoering van een provinciale compartimentering van dierrechten",
+        "date": "2010-04-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28385-170.html",
+        "similarity_score": 1.671996
+      },
+      {
+        "id": "kst-21501-02-1337",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken ; Motie; Motie van het lid Klaver over het ter goedkeuring voorleggen aan het parlement van het TTIP-verdrag",
+        "date": "2014-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-1337.html",
+        "similarity_score": 1.6637118
+      },
+      {
+        "id": "kst-21501-02-2760",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van de leden Sylvana Simons en Van Baarle over uitspreken de nederzettingenpolitiek te veroordelen",
+        "date": "2023-10-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-2760.html",
+        "similarity_score": 1.6626173
+      },
+      {
+        "id": "kst-29817-115",
+        "title": "Sociale werkvoorziening; Motie; Motie van de leden Schouten en Karabulut over het begrip \"loonwaarde\"",
+        "date": "2013-02-05",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29817-115.html",
+        "similarity_score": 1.6620371
+      },
+      {
+        "id": "kst-21501-20-892",
+        "title": "Europese Raad; Motie; Motie van het lid Beertema over tot inzet maken van terughalen van bevoegdheden in plaats van overdragen van bevoegdheden",
+        "date": "2014-06-25",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-892.html",
+        "similarity_score": 1.6617084
+      },
+      {
+        "id": "kst-32123-I-6",
+        "title": "Vaststelling van de begrotingsstaat behorende bij de begroting van de Koning (I) voor het jaar 2010; Motie met verzoek om een visiestuk over de toekomst van de monarchie",
+        "date": "2009-10-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-I-6.html",
+        "similarity_score": 1.6615617
+      },
+      {
+        "id": "kst-28982-107",
+        "title": "Liberalisering energiemarkten ; Motie; Motie Graus en De Mos over afzien van het voornemen tot opslag van CO2 in Nederland",
+        "date": "2010-04-21",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28982-107.html",
+        "similarity_score": 1.66134
+      },
+      {
+        "id": "kst-31226-28",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van het lid Luijben",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-28.html",
+        "similarity_score": 1.6612513
+      }
+    ]
+  },
+  {
+    "reference_id": 41,
+    "reference_text": "deze motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik constateer dat de aanwezige leden van de fracties van de SP, GroenLinks en de PvdD voor deze motie hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat zij is verworpen.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemming",
+        "verwerping",
+        "parlementaire procedure"
+      ],
+      "summary": "Verwerping van de motie"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific motion.",
+    "is_valid": true,
+    "query": "deze motie Ik constateer dat de aanwezige leden van de fracties van de SP, GroenLinks en de PvdD voor deze motie hebben gestemd en de aanwezige leden van de overige fracties ertegen, zodat zij is verworpen. motie stemming verwerping parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-29279-261",
+        "title": "Rechtsstaat en Rechtsorde; Motie; Motie van het lid Kuzu over onderzoeken of de standpunten van PVV en SGP strijdig zijn met de rechtsstaat",
+        "date": "2015-07-02",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29279-261.html",
+        "similarity_score": 1.6900997
+      },
+      {
+        "id": "kst-21501-02-1337",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken ; Motie; Motie van het lid Klaver over het ter goedkeuring voorleggen aan het parlement van het TTIP-verdrag",
+        "date": "2014-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-1337.html",
+        "similarity_score": 1.6832235
+      },
+      {
+        "id": "kst-21501-20-823",
+        "title": "Europese Raad; Motie; Motie van het lid Omtzigt over niet instemmen met bindende lidstaatcontracten",
+        "date": "2013-12-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-823.html",
+        "similarity_score": 1.6714598
+      },
+      {
+        "id": "kst-21501-20-578",
+        "title": "Europese Raad; Motie; Motie Irrgang",
+        "date": "2011-11-01",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-578.html",
+        "similarity_score": 1.669874
+      },
+      {
+        "id": "kst-34270-12",
+        "title": "Uitvoering Wet raadgevend referendum; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in de minister-president",
+        "date": "2016-04-13",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34270-12.html",
+        "similarity_score": 1.6695415
+      },
+      {
+        "id": "kst-32615-14",
+        "title": "Toekomst Publiekrechtelijke bedrijfsorganisatie (PBO); Motie; Motie Verhoeven c.s. over niet opleggen van een verplichte heffing in 2014",
+        "date": "2013-07-04",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32615-14.html",
+        "similarity_score": 1.6681098
+      },
+      {
+        "id": "kst-21501-02-2760",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van de leden Sylvana Simons en Van Baarle over uitspreken de nederzettingenpolitiek te veroordelen",
+        "date": "2023-10-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-2760.html",
+        "similarity_score": 1.665399
+      },
+      {
+        "id": "kst-32043-77",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Omtzigt over vereenvouding van de Pensioenwet",
+        "date": "2011-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-77.html",
+        "similarity_score": 1.6648874
+      },
+      {
+        "id": "kst-28385-170",
+        "title": "Evaluatie Meststoffenwet; Motie; Motie Ouwehand over invoering van een provinciale compartimentering van dierrechten",
+        "date": "2010-04-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28385-170.html",
+        "similarity_score": 1.6633044
+      },
+      {
+        "id": "kst-29279-134",
+        "title": "Rechtsstaat en Rechtsorde; Motie; Motie van het lid Helder over niet toepassen van de sharia in Nederland",
+        "date": "2012-02-15",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29279-134.html",
+        "similarity_score": 1.6609204
+      }
+    ]
+  },
+  {
+    "reference_id": 42,
+    "reference_text": "31226, nr. 29",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "In stemming komt de motie-Omtzigt/Hamer (31226, nr. 29).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over motie-Omtzigt/Hamer"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific motion using dossier and document number.",
+    "is_valid": true,
+    "found_direct": "31226-29",
+    "query": "In stemming komt de motie-Omtzigt/Hamer (). motie stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-21501-20-823",
+        "title": "Europese Raad; Motie; Motie van het lid Omtzigt over niet instemmen met bindende lidstaatcontracten",
+        "date": "2013-12-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-823.html",
+        "similarity_score": 1.7214229
+      },
+      {
+        "id": "kst-21501-20-993",
+        "title": "Europese Raad; Motie; Motie van de leden Omtzigt en Segers over kapitaalrestricties voor Griekenland",
+        "date": "2015-06-23",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-993.html",
+        "similarity_score": 1.7092888
+      },
+      {
+        "id": "kst-32123-A-123",
+        "title": "Vaststelling van de begrotingsstaat van het Infrastructuurfonds voor het jaar 2010; Motie; Motie Sharpe over prioriteit geven aan de file top 50",
+        "date": "2010-06-23",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-A-123.html",
+        "similarity_score": 1.7079642
+      },
+      {
+        "id": "kst-21501-02-1337",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken ; Motie; Motie van het lid Klaver over het ter goedkeuring voorleggen aan het parlement van het TTIP-verdrag",
+        "date": "2014-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-1337.html",
+        "similarity_score": 1.704859
+      },
+      {
+        "id": "kst-32043-77",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Omtzigt over vereenvouding van de Pensioenwet",
+        "date": "2011-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-77.html",
+        "similarity_score": 1.6998959
+      },
+      {
+        "id": "kst-29628-1202",
+        "title": "Politie; Motie; Motie van de leden Omtzigt en Mutluer over bij de herziening van de Wiv voorstellen dat de CTIVD functioneel toezicht houdt op alle activiteiten in het domein van de nationale veiligheid",
+        "date": "2024-01-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29628-1202.html",
+        "similarity_score": 1.6968384
+      },
+      {
+        "id": "kst-23987-139",
+        "title": "Uitbreiding van de Europese Unie; Motie; Motie van de leden Omtzigt en Segers over niet toelaten van Albanië als kandidaat-lid van de Unie",
+        "date": "2013-12-12",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-23987-139.html",
+        "similarity_score": 1.696055
+      },
+      {
+        "id": "kst-21501-02-2760",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van de leden Sylvana Simons en Van Baarle over uitspreken de nederzettingenpolitiek te veroordelen",
+        "date": "2023-10-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-2760.html",
+        "similarity_score": 1.6948694
+      },
+      {
+        "id": "kst-29628-224",
+        "title": "Politie; Gewijzigde motie (nader); Nader gew motie Van Raak/Hennis-Plasschaert over aanhouden van de uitvoering van de bezuinigingen (t.v.v. 29628, nr. 223)",
+        "date": "2010-09-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29628-224.html",
+        "similarity_score": 1.6931165
+      },
+      {
+        "id": "kst-31226-29",
+        "title": "Enige wijzigingen in de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten; Motie van de leden Omtzigt en Hamer",
+        "date": "2007-12-11",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31226-29.html",
+        "similarity_score": 1.6921127
+      }
+    ]
+  },
+  {
+    "reference_id": 43,
+    "reference_text": "deze motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik constateer dat deze motie met algemene stemmen is aangenomen.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemming",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van de motie"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific motion.",
+    "is_valid": true,
+    "query": "deze motie Ik constateer dat deze motie met algemene stemmen is aangenomen. motie stemming aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-34270-12",
+        "title": "Uitvoering Wet raadgevend referendum; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in de minister-president",
+        "date": "2016-04-13",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34270-12.html",
+        "similarity_score": 1.702926
+      },
+      {
+        "id": "kst-21501-02-1337",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken ; Motie; Motie van het lid Klaver over het ter goedkeuring voorleggen aan het parlement van het TTIP-verdrag",
+        "date": "2014-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-1337.html",
+        "similarity_score": 1.6973175
+      },
+      {
+        "id": "kst-33846-37",
+        "title": "Vaststelling van een geactualiseerd stelsel van openbare bibliotheekvoorzieningen (Wet stelsel openbare bibliotheekvoorzieningen) ; Motie; Motie van het lid Keijzer over de algemene maatregel van bestuur over een buurtinitiatiefrecht",
+        "date": "2014-06-03",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33846-37.html",
+        "similarity_score": 1.6853946
+      },
+      {
+        "id": "kst-28481-14",
+        "title": "Evaluatie Algemene wet gelijke behandeling; Motie; Motie-Van Gent/Schouw over uitvoering van de uitspraak",
+        "date": "2011-06-29",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28481-14.html",
+        "similarity_score": 1.6846281
+      },
+      {
+        "id": "kst-36448-7",
+        "title": "Benoeming van een Voorzitter; Motie; Motie van het lid Ergin over de aanstaande voorzitter oproepen om voortvarend aan de slag te gaan met de bevordering van diversiteit en inclusie in de Kamerorganisatie",
+        "date": "2023-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-36448-7.html",
+        "similarity_score": 1.6795223
+      },
+      {
+        "id": "kst-32123-XVIII-51",
+        "title": "Vaststelling van de begrotingsstaten van de begroting Wonen, Wijken en Integratie (XVIII) voor het jaar 2010; Motie om te komen met concrete maatregelen om integratie van allochtonen te bespoedigen",
+        "date": "2009-11-25",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-XVIII-51.html",
+        "similarity_score": 1.675757
+      },
+      {
+        "id": "kst-21501-02-2760",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van de leden Sylvana Simons en Van Baarle over uitspreken de nederzettingenpolitiek te veroordelen",
+        "date": "2023-10-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-2760.html",
+        "similarity_score": 1.6723207
+      },
+      {
+        "id": "kst-33852-35",
+        "title": "Wijziging van de Rijkswet op het Nederlanderschap ter verlenging van de termijnen voor verlening van het Nederlanderschap en enige andere wijzigingen; Motie; Motie van het lid Kuzu over intrekking van het wetsvoorstel",
+        "date": "2016-06-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33852-35.html",
+        "similarity_score": 1.6690505
+      },
+      {
+        "id": "kst-28385-170",
+        "title": "Evaluatie Meststoffenwet; Motie; Motie Ouwehand over invoering van een provinciale compartimentering van dierrechten",
+        "date": "2010-04-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28385-170.html",
+        "similarity_score": 1.6686324
+      },
+      {
+        "id": "kst-31524-148",
+        "title": "Beroepsonderwijs en Volwassenen Educatie; Motie; Motie van het lid Beertema over een maximumpercentage overhead",
+        "date": "2012-06-28",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31524-148.html",
+        "similarity_score": 1.667976
+      }
+    ]
+  },
+  {
+    "reference_id": 44,
+    "reference_text": "31226, nr. 30",
+    "reference_type": "explicit-parl-doc",
+    "document_type": "Motie",
+    "sentence": "In stemming komt de motie-Omtzigt (31226, nr. 30).",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemming",
+        "parlementaire procedure"
+      ],
+      "summary": "Stemming over motie-Omtzigt"
+    },
+    "confidence_score": 95,
+    "validation_notes": "Clear explicit reference to a specific motion using dossier and document number.",
+    "is_valid": true,
+    "found_direct": "31226-30",
+    "query": "In stemming komt de motie-Omtzigt (). motie stemming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-21501-20-823",
+        "title": "Europese Raad; Motie; Motie van het lid Omtzigt over niet instemmen met bindende lidstaatcontracten",
+        "date": "2013-12-18",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-823.html",
+        "similarity_score": 1.7357112
+      },
+      {
+        "id": "kst-21501-20-993",
+        "title": "Europese Raad; Motie; Motie van de leden Omtzigt en Segers over kapitaalrestricties voor Griekenland",
+        "date": "2015-06-23",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-993.html",
+        "similarity_score": 1.712662
+      },
+      {
+        "id": "kst-23987-139",
+        "title": "Uitbreiding van de Europese Unie; Motie; Motie van de leden Omtzigt en Segers over niet toelaten van Albanië als kandidaat-lid van de Unie",
+        "date": "2013-12-12",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-23987-139.html",
+        "similarity_score": 1.7103693
+      },
+      {
+        "id": "kst-32123-A-123",
+        "title": "Vaststelling van de begrotingsstaat van het Infrastructuurfonds voor het jaar 2010; Motie; Motie Sharpe over prioriteit geven aan de file top 50",
+        "date": "2010-06-23",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-A-123.html",
+        "similarity_score": 1.7052975
+      },
+      {
+        "id": "kst-32043-77",
+        "title": "Toekomst pensioenstelsel; Motie; Motie Omtzigt over vereenvouding van de Pensioenwet",
+        "date": "2011-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32043-77.html",
+        "similarity_score": 1.7046456
+      },
+      {
+        "id": "kst-21501-02-1337",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken ; Motie; Motie van het lid Klaver over het ter goedkeuring voorleggen aan het parlement van het TTIP-verdrag",
+        "date": "2014-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-1337.html",
+        "similarity_score": 1.6981791
+      },
+      {
+        "id": "kst-21501-20-892",
+        "title": "Europese Raad; Motie; Motie van het lid Beertema over tot inzet maken van terughalen van bevoegdheden in plaats van overdragen van bevoegdheden",
+        "date": "2014-06-25",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-892.html",
+        "similarity_score": 1.688864
+      },
+      {
+        "id": "kst-29628-1202",
+        "title": "Politie; Motie; Motie van de leden Omtzigt en Mutluer over bij de herziening van de Wiv voorstellen dat de CTIVD functioneel toezicht houdt op alle activiteiten in het domein van de nationale veiligheid",
+        "date": "2024-01-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-29628-1202.html",
+        "similarity_score": 1.6884266
+      },
+      {
+        "id": "kst-32123-I-6",
+        "title": "Vaststelling van de begrotingsstaat behorende bij de begroting van de Koning (I) voor het jaar 2010; Motie met verzoek om een visiestuk over de toekomst van de monarchie",
+        "date": "2009-10-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-I-6.html",
+        "similarity_score": 1.6882302
+      },
+      {
+        "id": "kst-21501-02-2760",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van de leden Sylvana Simons en Van Baarle over uitspreken de nederzettingenpolitiek te veroordelen",
+        "date": "2023-10-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-2760.html",
+        "similarity_score": 1.6830689
+      }
+    ]
+  },
+  {
+    "reference_id": 45,
+    "reference_text": "deze motie",
+    "reference_type": "impl-local",
+    "document_type": "Motie",
+    "sentence": "Ik constateer dat deze motie met algemene stemmen is aangenomen.",
+    "reference_information": {
+      "keywords": [
+        "motie",
+        "stemming",
+        "aanneming",
+        "parlementaire procedure"
+      ],
+      "summary": "Aanneming van de motie"
+    },
+    "confidence_score": 85,
+    "validation_notes": "Valid reference - clear implicit reference to the immediately preceding specific motion.",
+    "is_valid": true,
+    "query": "deze motie Ik constateer dat deze motie met algemene stemmen is aangenomen. motie stemming aanneming parlementaire procedure",
+    "ranked_candidates": [
+      {
+        "id": "kst-34270-12",
+        "title": "Uitvoering Wet raadgevend referendum; Motie; Motie van het lid Wilders over het opzeggen van het vertrouwen in de minister-president",
+        "date": "2016-04-13",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-34270-12.html",
+        "similarity_score": 1.702926
+      },
+      {
+        "id": "kst-21501-02-1337",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken ; Motie; Motie van het lid Klaver over het ter goedkeuring voorleggen aan het parlement van het TTIP-verdrag",
+        "date": "2014-02-20",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-1337.html",
+        "similarity_score": 1.6973175
+      },
+      {
+        "id": "kst-33846-37",
+        "title": "Vaststelling van een geactualiseerd stelsel van openbare bibliotheekvoorzieningen (Wet stelsel openbare bibliotheekvoorzieningen) ; Motie; Motie van het lid Keijzer over de algemene maatregel van bestuur over een buurtinitiatiefrecht",
+        "date": "2014-06-03",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33846-37.html",
+        "similarity_score": 1.6853946
+      },
+      {
+        "id": "kst-28481-14",
+        "title": "Evaluatie Algemene wet gelijke behandeling; Motie; Motie-Van Gent/Schouw over uitvoering van de uitspraak",
+        "date": "2011-06-29",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28481-14.html",
+        "similarity_score": 1.6846281
+      },
+      {
+        "id": "kst-36448-7",
+        "title": "Benoeming van een Voorzitter; Motie; Motie van het lid Ergin over de aanstaande voorzitter oproepen om voortvarend aan de slag te gaan met de bevordering van diversiteit en inclusie in de Kamerorganisatie",
+        "date": "2023-12-14",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-36448-7.html",
+        "similarity_score": 1.6795223
+      },
+      {
+        "id": "kst-32123-XVIII-51",
+        "title": "Vaststelling van de begrotingsstaten van de begroting Wonen, Wijken en Integratie (XVIII) voor het jaar 2010; Motie om te komen met concrete maatregelen om integratie van allochtonen te bespoedigen",
+        "date": "2009-11-25",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-32123-XVIII-51.html",
+        "similarity_score": 1.675757
+      },
+      {
+        "id": "kst-21501-02-2760",
+        "title": "Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van de leden Sylvana Simons en Van Baarle over uitspreken de nederzettingenpolitiek te veroordelen",
+        "date": "2023-10-24",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-21501-02-2760.html",
+        "similarity_score": 1.6723207
+      },
+      {
+        "id": "kst-33852-35",
+        "title": "Wijziging van de Rijkswet op het Nederlanderschap ter verlenging van de termijnen voor verlening van het Nederlanderschap en enige andere wijzigingen; Motie; Motie van het lid Kuzu over intrekking van het wetsvoorstel",
+        "date": "2016-06-08",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-33852-35.html",
+        "similarity_score": 1.6690505
+      },
+      {
+        "id": "kst-28385-170",
+        "title": "Evaluatie Meststoffenwet; Motie; Motie Ouwehand over invoering van een provinciale compartimentering van dierrechten",
+        "date": "2010-04-22",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-28385-170.html",
+        "similarity_score": 1.6686324
+      },
+      {
+        "id": "kst-31524-148",
+        "title": "Beroepsonderwijs en Volwassenen Educatie; Motie; Motie van het lid Beertema over een maximumpercentage overhead",
+        "date": "2012-06-28",
+        "type": "Motie",
+        "url": "https://zoek.officielebekendmakingen.nl/kst-31524-148.html",
+        "similarity_score": 1.667976
+      }
+    ]
+  }
+]
