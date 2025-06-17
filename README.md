@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 This repository contains the code and data for the paper "Linking References to Documents in Parliamentary Debates" by Floris Bos, Wietske Boersma, Marc van Opijnen, and Maarten Marx.
 
@@ -19,15 +18,17 @@ The project focuses on improving the accessibility of Dutch parliamentary minute
 - [File Structure](#file-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-<!-- - [Citation](#citation) -->
 - [License](#license)
+<!-- - [Citation](#citation) -->
 
 ## File Structure
 
 The repository is organized into the main system code, experiments, and the annotated dataset.
 
 ```
-.
+linking-references-to-docs-in-parl-debates/
+├── .gitignore              # Git ignore file
+├── requirements.txt        # Python dependencies
 ├── annotated-dataset/      # Manually annotated data and analysis notebooks
 ├── experiments/            # Scripts and results for experiments from the paper
 ├── README.md               # This file
