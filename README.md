@@ -9,9 +9,9 @@ The project focuses on improving the accessibility of Dutch parliamentary minute
 
 ## Abstract
 
-> [TODO: The abstract should briefly summarize the contents of the paper in 150-250 words.]
->
-> **Keywords**: [TODO: First keyword · Second keyword · Another keyword.]
+In Dutch parliamentary debates, over 95\% of references to documents are implicit and non-standardized, hindering document accessibility and analysis. To address this challenge, we introduce a two-phase approach to automatically detect and link these references. The first phase uses a Large Language Model (LLM), specifically Gemini 2.5 Flash, for reference detection and semantic enrichment, extracting features like document type, a summary, and keywords. The second phase links these references to known documents using vector similarity search. Our large-scale analysis of 281 debates confirms the scale of the problem, revealing that nearly 74\% of all detected references are implicit. Evaluation on a new, manually annotated gold-standard dataset of 191 references shows our detection method achieves an F1-score of 0.49, while the LLM classifies semantic features like document type with 92-97\% accuracy. For the linking task, evaluated on 1,933 references, combining LLM-generated keywords with metadata filtering proves most effective. This approach correctly identifies the target document in 35\% of cases (Hit@1) and places it in the top 10 candidates of 57\% of the time (MRR 0.42). This work serves as a strong baseline for resolving complex, implicit references in a parliamentary proceedings. The methodology is inherently language-agnostic and shows significant promise for adaptation to other domains, such as legal case law or historical archives.
+
+**Keywords**: Document Linking · Large Language Models · Known-item Search · Semantic Searchs.
 
 ## Table of Contents
 
