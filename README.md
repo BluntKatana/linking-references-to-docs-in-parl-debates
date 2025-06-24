@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 
-This repository contains the code and data for the paper "Linking References to Documents in Parliamentary Debates" by Floris Bos, Wietske Boersma, Marc van Opijnen, and Maarten Marx.
+This repository contains the code and data for the paper "Linking References to Documents in Parliamentary Debates" by Floris Bos, Marc van Opijnen, and Maarten Marx (see [paper.pdf](paper.pdf) for the full paper).
 
 The project focuses on improving the accessibility of Dutch parliamentary minutes by automatically detecting, validating, and linking textual references to their corresponding official documents.
 
